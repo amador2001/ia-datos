@@ -1,0 +1,46 @@
+ticket_id,texto_feedback,sentimiento,urgencia,categoria,nps_score
+TKT-0001,"El soporte fue excelente, resolvieron mi consulta en menos de una hora.",positivo,baja,producto,8
+TKT-0002,"Muy satisfecho con la plataforma, todo funciona perfectamente.",positivo,baja,onboarding,10
+TKT-0003,El equipo de atencion al cliente es muy profesional y amable.,positivo,baja,soporte_tecnico,10
+TKT-0004,"Excelente experiencia de incorporacion, guia muy clara.",positivo,baja,soporte_tecnico,9
+TKT-0005,El sistema es intuitivo y facil de usar para todo el equipo.,positivo,baja,producto,9
+TKT-0006,"Gran producto, supera nuestras expectativas de rendimiento.",positivo,baja,onboarding,9
+TKT-0007,"El servicio es impecable, siempre atentos a nuestras necesidades.",positivo,baja,soporte_tecnico,9
+TKT-0008,"Muy contentos con la implementacion, sin problemas desde el inicio.",positivo,baja,comercial,7
+TKT-0009,La documentacion tecnica es clara y muy completa.,positivo,baja,soporte_tecnico,9
+TKT-0010,"Renovaremos sin duda, estamos muy satisfechos con el servicio.",positivo,baja,producto,9
+TKT-0011,"Buen servicio en general, aunque podria mejorar los tiempos de respuesta.",positivo,media,comercial,9
+TKT-0012,Estamos contentos pero necesitamos mas formacion para el equipo.,positivo,media,soporte_tecnico,10
+TKT-0013,"El producto es bueno, aunque esperamos algunas mejoras en la proxima version.",positivo,media,soporte_tecnico,10
+TKT-0014,"Satisfechos con el soporte, pero el portal de gestion podria ser mas intuitivo.",positivo,media,comercial,8
+TKT-0015,"Buena experiencia en general, con margen de mejora en la documentacion.",positivo,media,producto,7
+TKT-0016,Necesitamos actualizar los datos de facturacion de nuestra cuenta.,neutro,baja,producto,8
+TKT-0017,Consulta sobre el proceso de renovacion del contrato anual.,neutro,baja,facturacion,6
+TKT-0018,Como podemos anadir nuevos usuarios al sistema?,neutro,baja,onboarding,6
+TKT-0019,Solicitud de informacion sobre los planes de servicio disponibles.,neutro,baja,producto,5
+TKT-0020,Queremos saber como exportar los informes en formato Excel.,neutro,baja,producto,4
+TKT-0021,Consulta sobre la compatibilidad con nuestro sistema ERP actual.,neutro,baja,onboarding,7
+TKT-0022,Como configuramos los permisos de acceso por departamento?,neutro,baja,soporte_tecnico,6
+TKT-0023,Necesitamos informacion sobre el proceso de migracion de datos.,neutro,baja,facturacion,5
+TKT-0024,Hemos detectado que algunos informes no se generan correctamente.,neutro,media,facturacion,6
+TKT-0025,Necesitamos asistencia para la configuracion del modulo de facturacion.,neutro,media,soporte_tecnico,5
+TKT-0026,La integracion con nuestro CRM presenta algunos problemas menores.,neutro,media,producto,8
+TKT-0027,Solicitamos revision de los permisos de acceso de un usuario.,neutro,media,comercial,6
+TKT-0028,"Llevamos tres dias con problemas de acceso al sistema, necesitamos solucion urgente.",negativo,media,producto,2
+TKT-0029,Los informes automaticos han dejado de generarse correctamente esta semana.,negativo,media,onboarding,0
+TKT-0030,El rendimiento del sistema ha empeorado significativamente en el ultimo mes.,negativo,media,comercial,1
+TKT-0031,Hemos perdido datos de clientes tras la ultima actualizacion del sistema.,negativo,media,comercial,3
+TKT-0032,El modulo de facturacion no calcula correctamente los descuentos aplicados.,negativo,media,onboarding,0
+TKT-0033,Llevamos semanas reportando el mismo error y no hemos recibido solucion.,negativo,media,comercial,0
+TKT-0034,La integracion con nuestro ERP ha fallado y estamos perdiendo productividad.,negativo,media,facturacion,3
+TKT-0035,"El tiempo de carga es inaceptable, afecta directamente a nuestro trabajo diario.",negativo,media,facturacion,5
+TKT-0036,Los backups automaticos no se estan realizando correctamente desde hace dias.,negativo,media,producto,0
+TKT-0037,El soporte tecnico tarda demasiado en responder a nuestros tickets criticos.,negativo,media,soporte_tecnico,1
+TKT-0038,URGENTE: el sistema esta completamente caido y no podemos operar.,negativo,alta,soporte_tecnico,1
+TKT-0039,Situacion critica: hemos perdido acceso a todos los datos de clientes.,negativo,alta,facturacion,0
+TKT-0040,"EMERGENCIA: error critico en facturacion, enviando facturas incorrectas.",negativo,alta,producto,3
+TKT-0041,"El sistema lleva 6 horas caido, estamos perdiendo ventas por hora.",negativo,alta,facturacion,4
+TKT-0042,Fallo critico: datos de clientes visibles entre diferentes empresas.,negativo,alta,soporte_tecnico,3
+TKT-0043,CRITICO: el sistema de pagos no funciona y tenemos clientes esperando.,negativo,alta,onboarding,0
+TKT-0044,"Brecha de seguridad detectada, necesitamos intervencion inmediata.",negativo,alta,soporte_tecnico,1
+TKT-0045,"Sistema completamente bloqueado, 50 usuarios sin poder trabajar.",negativo,alta,soporte_tecnico,3
