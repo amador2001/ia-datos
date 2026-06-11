@@ -1,0 +1,2001 @@
+issue_key,issue_type,priority,status,component,project,reporter,assignee,story_points,resolution_hours,comments_count,watchers,reopened,sprint,label
+PROJ-B-1000,Bug,High,Resolved,Frontend,PROJ-C,user_1,dev_7,,10.0,8,4,0,,frontend
+PROJ-A-1001,Epic,High,Closed,Auth,PROJ-D,user_1,dev_4,13.0,235.4,10,4,1,,tech-debt
+PROJ-A-1002,Task,Low,Done,Testing,PROJ-C,user_19,,,152.4,2,1,0,Sprint 5,ux
+PROJ-B-1003,Story,High,Resolved,Auth,PROJ-D,user_5,dev_4,2.0,20.6,6,6,0,Sprint 10,ux
+PROJ-D-1004,Bug,High,Closed,API,PROJ-D,user_13,dev_7,,15.6,3,3,0,,
+PROJ-C-1005,Bug,Medium,Done,Mobile,PROJ-C,user_19,dev_9,,91.2,1,1,1,,regression
+PROJ-C-1006,Bug,Medium,Done,Database,PROJ-B,user_12,dev_11,,189.5,1,1,0,,tech-debt
+PROJ-C-1007,Improvement,Medium,Resolved,Auth,PROJ-D,user_16,dev_4,,6.4,2,4,0,,tech-debt
+PROJ-B-1008,Story,Critical,Done,Database,PROJ-C,user_19,dev_4,5.0,0.5,11,8,0,Sprint 14,
+PROJ-C-1009,Task,Medium,Done,Backend,PROJ-A,user_3,dev_6,,6.0,1,3,0,Sprint 16,
+PROJ-A-1010,Bug,Critical,Done,Infra,PROJ-C,user_12,dev_6,,3.6,9,8,0,,
+PROJ-C-1011,Sub-task,Critical,Done,Mobile,PROJ-A,user_5,dev_7,1.0,2.4,15,3,0,Sprint 2,performance
+PROJ-B-1012,Improvement,Low,Resolved,Database,PROJ-D,user_2,dev_1,,66.5,0,1,0,,
+PROJ-C-1013,Bug,High,Resolved,Frontend,PROJ-C,user_22,dev_13,,3.7,5,2,0,,
+PROJ-D-1014,Bug,Medium,Closed,Infra,PROJ-C,user_7,dev_11,,30.5,5,1,0,,performance
+PROJ-D-1015,Bug,Medium,Done,Testing,PROJ-A,user_13,dev_14,,72.3,2,3,0,,backend
+PROJ-B-1016,Bug,Medium,Won't Fix,Testing,PROJ-C,user_15,dev_3,,38.4,0,2,0,,
+PROJ-B-1017,Story,Low,Closed,Frontend,PROJ-C,user_22,dev_9,1.0,52.5,2,1,0,Sprint 19,ux
+PROJ-D-1018,Story,Critical,Resolved,Auth,PROJ-D,user_3,dev_6,8.0,8.4,7,9,0,Sprint 23,flaky-test
+PROJ-C-1019,Bug,Medium,Done,Infra,PROJ-C,user_21,dev_6,,118.4,1,2,0,,performance
+PROJ-A-1020,Story,Low,Done,Database,PROJ-B,user_20,dev_5,8.0,222.4,1,3,0,Sprint 9,
+PROJ-B-1021,Bug,Medium,Won't Fix,Infra,PROJ-A,user_5,dev_11,,23.4,2,1,1,,backend
+PROJ-D-1022,Bug,Low,Done,Auth,PROJ-C,user_24,dev_3,,67.4,0,2,0,,regression
+PROJ-C-1023,Bug,Critical,Resolved,API,PROJ-A,user_8,dev_11,,1.1,9,7,0,,regression
+PROJ-B-1024,Story,Medium,Resolved,Mobile,PROJ-A,user_22,dev_5,13.0,212.9,0,1,1,Sprint 14,tech-debt
+PROJ-C-1025,Task,High,Done,Frontend,PROJ-A,user_1,dev_14,,37.7,6,3,0,Sprint 15,performance
+PROJ-A-1026,Bug,Medium,Resolved,Auth,PROJ-C,user_8,dev_1,,137.8,7,2,0,,ux
+PROJ-B-1027,Story,Low,Done,API,PROJ-C,user_24,dev_3,3.0,7.5,2,2,0,Sprint 19,
+PROJ-A-1028,Story,High,Resolved,Infra,PROJ-A,user_18,dev_4,1.0,6.3,5,8,0,Sprint 8,
+PROJ-A-1029,Bug,Medium,Duplicate,Infra,PROJ-B,user_20,dev_5,,90.1,5,2,0,,
+PROJ-A-1030,Story,High,Duplicate,Auth,PROJ-A,user_16,dev_10,5.0,95.4,6,10,0,Sprint 15,ux
+PROJ-D-1031,Bug,Medium,Resolved,Database,PROJ-B,user_18,dev_9,,63.8,3,2,0,,tech-debt
+PROJ-A-1032,Bug,Medium,Closed,Infra,PROJ-A,user_20,dev_4,,22.7,1,2,0,,flaky-test
+PROJ-A-1033,Epic,Low,Resolved,Database,PROJ-D,user_12,dev_3,2.0,1442.1,0,3,0,,performance
+PROJ-C-1034,Sub-task,Medium,Resolved,Database,PROJ-A,user_13,dev_10,1.0,14.9,4,3,0,Sprint 8,flaky-test
+PROJ-D-1035,Task,Medium,Done,Mobile,PROJ-A,user_13,,,37.1,2,3,0,Sprint 4,
+PROJ-D-1036,Bug,High,Done,Database,PROJ-C,user_10,dev_13,,5.6,4,2,0,,tech-debt
+PROJ-D-1037,Bug,High,Closed,Backend,PROJ-B,user_7,dev_10,,18.6,2,4,0,,ux
+PROJ-D-1038,Task,High,Done,Mobile,PROJ-D,user_14,dev_6,,18.4,4,5,0,Sprint 6,
+PROJ-A-1039,Story,High,Won't Fix,API,PROJ-B,user_24,dev_7,1.0,2.2,1,7,0,Sprint 11,ux
+PROJ-C-1040,Bug,Low,Done,API,PROJ-D,user_16,dev_10,,52.6,3,1,0,,
+PROJ-A-1041,Story,Medium,Done,Infra,PROJ-A,user_15,dev_8,21.0,307.4,4,3,0,Sprint 12,backend
+PROJ-A-1042,Bug,Medium,Done,Infra,PROJ-C,user_12,dev_12,,65.9,5,4,0,,tech-debt
+PROJ-D-1043,Improvement,High,Won't Fix,Database,PROJ-C,user_9,dev_1,,101.9,5,6,0,,regression
+PROJ-D-1044,Bug,Low,Won't Fix,Mobile,PROJ-B,user_8,dev_12,,115.4,2,3,1,,regression
+PROJ-B-1045,Task,Medium,Done,Mobile,PROJ-C,user_18,dev_4,,180.2,3,2,0,Sprint 24,ux
+PROJ-C-1046,Bug,Critical,Resolved,Backend,PROJ-B,user_23,dev_11,,4.5,4,5,0,,ux
+PROJ-D-1047,Story,Medium,Closed,Database,PROJ-B,user_18,dev_5,1.0,102.6,1,1,0,Sprint 9,performance
+PROJ-D-1048,Story,Medium,Closed,Backend,PROJ-D,user_13,dev_2,1.0,55.2,0,2,0,Sprint 18,performance
+PROJ-A-1049,Bug,High,Resolved,Testing,PROJ-B,user_18,dev_1,,49.3,2,2,0,,frontend
+PROJ-A-1050,Sub-task,Medium,Done,Database,PROJ-D,user_15,dev_8,3.0,5.8,4,3,0,Sprint 17,
+PROJ-A-1051,Task,Medium,Closed,Frontend,PROJ-C,user_4,dev_6,,28.3,1,1,0,Sprint 21,tech-debt
+PROJ-D-1052,Epic,High,Done,Frontend,PROJ-B,user_17,dev_5,5.0,21.3,0,8,0,,
+PROJ-C-1053,Improvement,Low,Done,Auth,PROJ-B,user_5,dev_13,,175.8,0,2,0,,performance
+PROJ-D-1054,Story,Low,Done,Database,PROJ-A,user_22,dev_9,3.0,604.0,1,1,1,Sprint 3,ux
+PROJ-D-1055,Epic,Medium,Done,Mobile,PROJ-B,user_16,dev_13,21.0,174.1,4,2,0,,
+PROJ-C-1056,Bug,Medium,Closed,Infra,PROJ-B,user_9,dev_11,,4.4,4,2,0,,ux
+PROJ-D-1057,Bug,Medium,Done,API,PROJ-A,user_10,dev_13,,19.4,4,1,0,,tech-debt
+PROJ-D-1058,Bug,Medium,Closed,Auth,PROJ-A,user_24,dev_11,,26.3,1,1,0,,regression
+PROJ-C-1059,Bug,Medium,Closed,Infra,PROJ-C,user_18,dev_2,,56.0,3,3,0,,flaky-test
+PROJ-D-1060,Story,Critical,Won't Fix,Frontend,PROJ-B,user_17,dev_10,21.0,13.9,5,3,0,Sprint 13,ux
+PROJ-B-1061,Bug,Medium,Closed,Database,PROJ-C,user_18,dev_12,,43.5,4,4,0,,backend
+PROJ-B-1062,Improvement,Low,Duplicate,Auth,PROJ-C,user_7,dev_8,,55.6,0,1,0,,tech-debt
+PROJ-A-1063,Bug,Medium,Done,Database,PROJ-A,user_4,dev_11,,70.4,1,2,0,,security
+PROJ-D-1064,Bug,Critical,Resolved,Frontend,PROJ-D,user_5,dev_14,,0.8,4,9,0,,ux
+PROJ-C-1065,Story,Low,Done,Auth,PROJ-C,user_23,dev_10,13.0,802.3,2,1,0,Sprint 6,backend
+PROJ-C-1066,Bug,High,Resolved,Frontend,PROJ-D,user_16,,,46.6,5,4,1,,performance
+PROJ-B-1067,Task,High,Done,Backend,PROJ-B,user_3,dev_9,,71.5,8,2,0,Sprint 14,frontend
+PROJ-A-1068,Bug,High,Closed,Frontend,PROJ-A,user_18,dev_1,,33.5,3,3,0,,frontend
+PROJ-D-1069,Sub-task,Medium,Done,Mobile,PROJ-B,user_23,dev_7,2.0,51.4,3,4,0,Sprint 1,backend
+PROJ-C-1070,Task,Medium,Done,Mobile,PROJ-B,user_21,dev_8,,61.6,2,1,0,Sprint 4,regression
+PROJ-C-1071,Bug,Medium,Resolved,Database,PROJ-A,user_14,dev_3,,12.1,1,3,0,,tech-debt
+PROJ-D-1072,Bug,High,Won't Fix,API,PROJ-B,user_15,dev_14,,8.3,3,6,1,,performance
+PROJ-A-1073,Improvement,Low,Done,Frontend,PROJ-A,user_17,dev_4,,7.9,0,1,0,,backend
+PROJ-B-1074,Task,Low,Won't Fix,Infra,PROJ-D,user_1,dev_13,,95.6,2,3,0,Sprint 22,
+PROJ-D-1075,Task,Low,Done,Mobile,PROJ-B,user_21,dev_3,,188.0,0,2,0,Sprint 18,frontend
+PROJ-D-1076,Task,High,Resolved,Testing,PROJ-A,user_17,dev_7,,0.8,7,1,0,Sprint 11,performance
+PROJ-D-1077,Bug,Medium,Duplicate,API,PROJ-C,user_23,dev_9,,7.4,2,2,0,,regression
+PROJ-B-1078,Bug,Low,Done,Backend,PROJ-B,user_11,dev_3,,54.3,1,1,0,,performance
+PROJ-C-1079,Bug,Medium,Done,Auth,PROJ-D,user_17,dev_13,,74.5,0,2,0,,
+PROJ-D-1080,Improvement,Critical,Done,Auth,PROJ-A,user_14,dev_6,,2.3,7,2,0,,backend
+PROJ-D-1081,Story,Critical,Done,Mobile,PROJ-B,user_20,dev_8,13.0,5.0,10,7,0,Sprint 11,flaky-test
+PROJ-D-1082,Bug,Medium,Resolved,API,PROJ-B,user_19,dev_6,,34.7,1,5,1,,
+PROJ-D-1083,Bug,Low,Resolved,Mobile,PROJ-B,user_21,dev_2,,103.3,2,2,0,,tech-debt
+PROJ-A-1084,Bug,Medium,Duplicate,Auth,PROJ-D,user_7,dev_13,,2.9,1,3,0,,
+PROJ-A-1085,Bug,Medium,Done,Testing,PROJ-A,user_24,dev_7,,11.5,3,2,0,,tech-debt
+PROJ-A-1086,Task,High,Closed,Frontend,PROJ-C,user_13,dev_2,,62.5,5,1,0,Sprint 8,ux
+PROJ-C-1087,Task,Medium,Done,API,PROJ-C,user_18,dev_2,,10.6,3,3,0,Sprint 4,backend
+PROJ-D-1088,Improvement,Low,Won't Fix,Database,PROJ-C,user_23,dev_2,,140.6,0,3,0,,backend
+PROJ-D-1089,Story,Medium,Done,Frontend,PROJ-A,user_14,dev_11,8.0,90.6,4,1,0,Sprint 2,tech-debt
+PROJ-D-1090,Bug,Medium,Duplicate,Frontend,PROJ-C,user_1,dev_1,,203.9,4,7,0,,flaky-test
+PROJ-D-1091,Task,Low,Done,Frontend,PROJ-D,user_7,dev_14,,310.5,0,1,0,Sprint 1,ux
+PROJ-B-1092,Task,High,Closed,Database,PROJ-A,user_8,dev_11,,3.6,6,5,0,Sprint 24,
+PROJ-B-1093,Story,Medium,Done,Testing,PROJ-B,user_18,dev_1,3.0,13.0,3,2,0,Sprint 10,performance
+PROJ-B-1094,Task,High,Won't Fix,Backend,PROJ-D,user_9,dev_14,,12.7,4,1,0,Sprint 17,
+PROJ-D-1095,Story,Low,Closed,Testing,PROJ-B,user_1,dev_7,3.0,328.9,1,1,0,Sprint 7,security
+PROJ-B-1096,Story,Medium,Resolved,Testing,PROJ-C,user_22,dev_13,13.0,108.2,4,2,0,Sprint 7,regression
+PROJ-B-1097,Story,Medium,Closed,Testing,PROJ-D,user_17,dev_14,8.0,137.5,2,1,0,Sprint 13,
+PROJ-C-1098,Bug,Low,Done,Infra,PROJ-A,user_19,dev_14,,136.6,1,2,1,,security
+PROJ-C-1099,Bug,Medium,Done,Mobile,PROJ-D,user_6,dev_14,,57.7,0,1,0,,
+PROJ-B-1100,Bug,Low,Resolved,Auth,PROJ-B,user_3,dev_12,,60.2,1,1,0,,security
+PROJ-B-1101,Task,Medium,Done,Mobile,PROJ-A,user_24,dev_5,,25.0,4,1,0,Sprint 22,tech-debt
+PROJ-C-1102,Bug,High,Resolved,API,PROJ-D,user_5,dev_11,,5.6,3,4,0,,
+PROJ-B-1103,Story,Medium,Closed,Testing,PROJ-D,user_2,dev_3,1.0,20.3,6,4,0,Sprint 24,performance
+PROJ-D-1104,Improvement,Low,Done,Backend,PROJ-D,user_20,dev_1,,153.7,1,1,0,,tech-debt
+PROJ-B-1105,Bug,High,Closed,API,PROJ-D,user_4,dev_11,,6.9,3,5,0,,
+PROJ-D-1106,Story,Low,Closed,Mobile,PROJ-A,user_10,dev_10,8.0,199.0,1,1,0,Sprint 1,performance
+PROJ-B-1107,Task,Low,Resolved,Auth,PROJ-B,user_10,dev_6,,309.7,4,1,0,Sprint 1,
+PROJ-A-1108,Bug,High,Resolved,Database,PROJ-D,user_24,dev_11,,45.4,5,6,0,,ux
+PROJ-B-1109,Bug,Low,Done,Mobile,PROJ-A,user_21,dev_1,,51.1,0,3,1,,backend
+PROJ-A-1110,Bug,High,Won't Fix,Frontend,PROJ-B,user_11,dev_9,,16.3,3,5,0,,regression
+PROJ-B-1111,Bug,High,Done,Mobile,PROJ-D,user_16,dev_2,,5.6,7,1,1,,
+PROJ-B-1112,Epic,High,Won't Fix,Frontend,PROJ-B,user_17,dev_1,5.0,116.4,6,4,0,,frontend
+PROJ-D-1113,Task,Low,Done,Database,PROJ-B,user_16,dev_12,,109.2,2,1,0,Sprint 13,performance
+PROJ-C-1114,Task,Medium,Done,Mobile,PROJ-A,user_7,dev_7,,128.6,2,6,0,Sprint 1,
+PROJ-C-1115,Improvement,High,Closed,Backend,PROJ-B,user_16,dev_6,,5.5,4,9,0,,backend
+PROJ-D-1116,Task,Medium,Done,Backend,PROJ-A,user_3,,,182.4,0,2,0,Sprint 6,
+PROJ-C-1117,Bug,Medium,Duplicate,API,PROJ-D,user_16,dev_14,,157.4,1,3,1,,regression
+PROJ-A-1118,Improvement,High,Done,Database,PROJ-B,user_8,dev_5,,40.5,4,2,0,,ux
+PROJ-A-1119,Story,Low,Done,Testing,PROJ-B,user_12,dev_11,13.0,11.4,2,2,0,Sprint 23,
+PROJ-B-1120,Task,Low,Done,Backend,PROJ-C,user_3,dev_4,,267.4,0,4,0,Sprint 10,frontend
+PROJ-A-1121,Improvement,Medium,Done,Mobile,PROJ-D,user_17,dev_11,,56.9,1,3,0,,
+PROJ-C-1122,Bug,Low,Closed,Database,PROJ-D,user_21,dev_4,,22.4,0,2,0,,tech-debt
+PROJ-A-1123,Bug,Medium,Closed,Auth,PROJ-C,user_18,dev_3,,55.1,1,3,1,,
+PROJ-B-1124,Bug,Low,Done,Frontend,PROJ-C,user_11,dev_10,,29.7,1,1,0,,performance
+PROJ-A-1125,Story,Medium,Done,Mobile,PROJ-A,user_4,dev_8,8.0,180.5,3,3,0,Sprint 21,regression
+PROJ-C-1126,Improvement,Medium,Done,Frontend,PROJ-A,user_16,dev_7,,18.6,3,1,1,,regression
+PROJ-D-1127,Improvement,High,Done,Frontend,PROJ-B,user_17,dev_9,,22.7,3,2,0,,
+PROJ-B-1128,Bug,Low,Resolved,Testing,PROJ-B,user_9,dev_1,,106.4,1,1,0,,regression
+PROJ-D-1129,Story,Medium,Resolved,Database,PROJ-B,user_6,dev_7,1.0,184.9,4,3,1,Sprint 1,tech-debt
+PROJ-A-1130,Story,High,Resolved,Database,PROJ-B,user_24,dev_10,8.0,40.6,3,5,0,Sprint 5,ux
+PROJ-B-1131,Bug,Critical,Duplicate,API,PROJ-A,user_20,dev_4,,0.8,9,5,0,,
+PROJ-B-1132,Bug,Medium,Won't Fix,Frontend,PROJ-D,user_2,dev_7,,76.5,3,2,1,,
+PROJ-A-1133,Bug,Medium,Done,API,PROJ-B,user_9,dev_13,,14.0,2,3,0,,tech-debt
+PROJ-B-1134,Epic,Medium,Done,Testing,PROJ-D,user_21,dev_12,3.0,405.0,2,1,0,,performance
+PROJ-A-1135,Bug,Low,Won't Fix,Frontend,PROJ-B,user_6,dev_1,,41.4,1,1,0,,flaky-test
+PROJ-D-1136,Story,Critical,Closed,API,PROJ-C,user_3,dev_5,2.0,29.5,15,3,0,Sprint 22,backend
+PROJ-D-1137,Task,Medium,Done,API,PROJ-B,user_20,dev_3,,27.9,4,1,0,Sprint 2,security
+PROJ-C-1138,Bug,High,Closed,Auth,PROJ-B,user_6,dev_5,,14.2,0,5,0,,ux
+PROJ-C-1139,Sub-task,Low,Duplicate,API,PROJ-B,user_7,dev_4,3.0,178.8,1,2,0,Sprint 3,flaky-test
+PROJ-A-1140,Sub-task,Low,Resolved,Database,PROJ-A,user_1,dev_2,3.0,101.6,3,1,0,Sprint 23,regression
+PROJ-A-1141,Bug,Medium,Done,API,PROJ-C,user_23,dev_11,,16.3,4,1,0,,regression
+PROJ-D-1142,Story,Medium,Duplicate,Frontend,PROJ-B,user_1,dev_4,2.0,89.6,1,7,0,Sprint 3,frontend
+PROJ-B-1143,Bug,High,Duplicate,API,PROJ-B,user_5,dev_3,,1.0,6,1,0,,
+PROJ-A-1144,Bug,Medium,Done,Backend,PROJ-D,user_6,dev_13,,79.1,3,1,0,,frontend
+PROJ-B-1145,Bug,Low,Won't Fix,Infra,PROJ-C,user_13,dev_1,,347.5,0,1,0,,frontend
+PROJ-C-1146,Story,Medium,Won't Fix,Frontend,PROJ-B,user_2,dev_12,21.0,107.8,3,5,0,Sprint 18,
+PROJ-D-1147,Story,Medium,Done,Backend,PROJ-D,user_15,dev_10,8.0,29.9,5,3,0,Sprint 23,tech-debt
+PROJ-A-1148,Bug,Medium,Resolved,Testing,PROJ-D,user_15,dev_8,,32.6,2,3,0,,flaky-test
+PROJ-C-1149,Bug,Low,Done,Frontend,PROJ-A,user_13,dev_5,,42.6,1,1,0,,backend
+PROJ-A-1150,Improvement,Medium,Resolved,Database,PROJ-D,user_14,dev_4,,186.4,1,3,0,,
+PROJ-C-1151,Bug,High,Won't Fix,Infra,PROJ-B,user_22,dev_10,,23.6,1,3,0,,
+PROJ-D-1152,Bug,Medium,Done,Infra,PROJ-A,user_7,dev_12,,65.6,8,1,1,,
+PROJ-A-1153,Story,Low,Done,Database,PROJ-A,user_14,dev_5,5.0,131.3,1,1,0,Sprint 8,tech-debt
+PROJ-A-1154,Sub-task,High,Won't Fix,Infra,PROJ-B,user_24,dev_4,1.0,0.5,3,5,0,Sprint 9,
+PROJ-B-1155,Bug,High,Duplicate,Database,PROJ-C,user_10,dev_3,,10.4,6,4,0,,security
+PROJ-B-1156,Task,High,Done,Backend,PROJ-D,user_17,dev_5,,2.1,2,4,0,Sprint 2,ux
+PROJ-A-1157,Task,Medium,Won't Fix,Testing,PROJ-A,user_14,dev_4,,21.7,1,2,0,Sprint 2,
+PROJ-D-1158,Bug,Medium,Done,Auth,PROJ-C,user_8,dev_1,,80.5,3,3,1,,ux
+PROJ-B-1159,Task,Medium,Done,Frontend,PROJ-B,user_4,dev_12,,32.8,7,2,1,Sprint 16,
+PROJ-A-1160,Bug,Medium,Resolved,Database,PROJ-D,user_16,dev_3,,74.6,4,2,0,,
+PROJ-A-1161,Task,Medium,Resolved,Frontend,PROJ-D,user_24,dev_10,,43.8,2,2,0,Sprint 7,tech-debt
+PROJ-C-1162,Task,Medium,Resolved,Testing,PROJ-A,user_13,dev_10,,57.1,2,2,0,Sprint 4,
+PROJ-D-1163,Story,Low,Done,Backend,PROJ-D,user_22,,1.0,90.8,1,1,0,Sprint 5,regression
+PROJ-B-1164,Bug,Medium,Done,Auth,PROJ-D,user_20,dev_7,,214.5,2,1,0,,
+PROJ-B-1165,Improvement,Low,Won't Fix,Testing,PROJ-D,user_18,dev_2,,1.8,1,1,0,,
+PROJ-C-1166,Bug,Medium,Done,Backend,PROJ-D,user_14,dev_1,,13.4,2,1,0,,
+PROJ-A-1167,Bug,High,Done,Infra,PROJ-B,user_18,,,11.9,5,1,0,,
+PROJ-B-1168,Bug,Medium,Resolved,Frontend,PROJ-C,user_5,dev_5,,11.1,5,2,0,,backend
+PROJ-A-1169,Story,High,Closed,Mobile,PROJ-B,user_9,dev_10,8.0,24.3,6,4,0,Sprint 1,flaky-test
+PROJ-B-1170,Task,Medium,Done,Auth,PROJ-B,user_3,dev_11,,11.7,1,1,0,Sprint 22,
+PROJ-B-1171,Bug,Critical,Done,Infra,PROJ-A,user_8,dev_12,,30.7,13,3,0,,security
+PROJ-A-1172,Story,High,Won't Fix,Testing,PROJ-D,user_20,dev_1,2.0,52.5,5,5,0,Sprint 10,security
+PROJ-A-1173,Bug,Low,Duplicate,Auth,PROJ-B,user_22,dev_3,,133.7,0,1,0,,ux
+PROJ-B-1174,Task,High,Done,Infra,PROJ-D,user_10,dev_3,,18.6,7,8,0,Sprint 13,tech-debt
+PROJ-C-1175,Bug,Low,Closed,Backend,PROJ-B,user_22,dev_5,,7.2,1,1,0,,
+PROJ-C-1176,Task,High,Done,Database,PROJ-B,user_19,dev_3,,3.4,6,2,0,Sprint 24,ux
+PROJ-C-1177,Story,Medium,Resolved,Frontend,PROJ-A,user_21,dev_13,3.0,50.1,3,4,0,Sprint 15,security
+PROJ-C-1178,Epic,Medium,Done,API,PROJ-C,user_3,dev_9,5.0,263.7,5,4,0,,tech-debt
+PROJ-C-1179,Bug,Medium,Resolved,API,PROJ-C,user_11,dev_1,,28.0,5,1,0,,
+PROJ-A-1180,Bug,High,Closed,Backend,PROJ-B,user_11,dev_4,,5.6,4,1,0,,ux
+PROJ-B-1181,Bug,High,Closed,Testing,PROJ-A,user_17,dev_13,,8.9,2,8,1,,tech-debt
+PROJ-C-1182,Epic,Critical,Won't Fix,Frontend,PROJ-D,user_16,dev_13,21.0,20.9,6,5,0,,backend
+PROJ-D-1183,Improvement,High,Done,Testing,PROJ-D,user_7,dev_10,,8.3,2,2,0,,performance
+PROJ-B-1184,Bug,Medium,Resolved,Frontend,PROJ-B,user_4,dev_10,,9.6,1,1,0,,flaky-test
+PROJ-D-1185,Task,Low,Done,Backend,PROJ-C,user_23,dev_4,,145.8,0,1,0,Sprint 1,backend
+PROJ-A-1186,Improvement,Low,Done,Frontend,PROJ-A,user_19,dev_1,,43.2,1,1,0,,
+PROJ-B-1187,Story,Medium,Done,Database,PROJ-C,user_12,dev_14,8.0,28.7,3,2,0,Sprint 18,ux
+PROJ-A-1188,Story,Low,Done,Testing,PROJ-D,user_15,dev_2,8.0,352.7,1,1,0,Sprint 23,regression
+PROJ-D-1189,Bug,Medium,Done,Backend,PROJ-C,user_11,dev_11,,5.3,2,1,0,,backend
+PROJ-B-1190,Bug,High,Resolved,Database,PROJ-D,user_5,dev_1,,6.9,7,8,0,,flaky-test
+PROJ-B-1191,Improvement,Low,Closed,Frontend,PROJ-A,user_5,dev_6,,91.6,2,1,0,,
+PROJ-A-1192,Improvement,Medium,Won't Fix,Backend,PROJ-A,user_15,dev_3,,27.0,4,3,0,,
+PROJ-B-1193,Task,Medium,Closed,Frontend,PROJ-B,user_18,dev_7,,54.3,4,3,0,Sprint 14,performance
+PROJ-D-1194,Bug,High,Done,Testing,PROJ-B,user_11,dev_5,,64.9,6,4,0,,security
+PROJ-A-1195,Bug,Medium,Done,Backend,PROJ-C,user_12,dev_9,,166.5,1,2,0,,backend
+PROJ-D-1196,Task,Medium,Won't Fix,Frontend,PROJ-A,user_2,dev_7,,7.6,7,1,0,Sprint 18,security
+PROJ-B-1197,Improvement,Low,Done,Testing,PROJ-A,user_20,dev_4,,51.3,1,1,0,,ux
+PROJ-D-1198,Improvement,Medium,Done,Database,PROJ-B,user_15,dev_5,,334.3,3,3,0,,flaky-test
+PROJ-B-1199,Task,Medium,Done,Mobile,PROJ-D,user_20,dev_5,,22.7,3,4,0,Sprint 22,ux
+PROJ-D-1200,Task,Low,Done,Database,PROJ-C,user_4,dev_11,,389.5,1,1,0,Sprint 12,tech-debt
+PROJ-D-1201,Bug,High,Closed,Frontend,PROJ-C,user_22,dev_5,,4.7,7,5,1,,flaky-test
+PROJ-C-1202,Bug,Medium,Done,Backend,PROJ-B,user_18,dev_10,,25.4,2,1,0,,backend
+PROJ-B-1203,Improvement,Critical,Closed,API,PROJ-A,user_6,dev_9,,13.2,7,6,0,,frontend
+PROJ-C-1204,Story,Medium,Done,Database,PROJ-B,user_23,dev_10,3.0,209.5,2,1,0,Sprint 12,flaky-test
+PROJ-C-1205,Bug,Low,Resolved,Database,PROJ-B,user_19,,,86.4,0,1,0,,performance
+PROJ-A-1206,Bug,High,Resolved,Testing,PROJ-B,user_11,dev_6,,9.2,8,6,0,,frontend
+PROJ-A-1207,Task,Low,Resolved,Infra,PROJ-B,user_24,dev_8,,39.9,4,1,0,Sprint 5,
+PROJ-D-1208,Bug,High,Done,API,PROJ-D,user_2,dev_11,,12.2,7,7,0,,
+PROJ-B-1209,Bug,Low,Done,Frontend,PROJ-D,user_8,dev_9,,18.1,1,1,1,,
+PROJ-A-1210,Story,Medium,Resolved,Mobile,PROJ-A,user_11,dev_13,5.0,153.3,8,4,1,Sprint 7,tech-debt
+PROJ-C-1211,Task,Low,Done,Backend,PROJ-B,user_5,dev_7,,141.7,1,3,1,Sprint 24,tech-debt
+PROJ-B-1212,Task,Critical,Done,Infra,PROJ-D,user_18,dev_12,,3.8,8,8,0,Sprint 13,performance
+PROJ-D-1213,Bug,Low,Won't Fix,Frontend,PROJ-A,user_23,dev_3,,61.1,1,1,1,,
+PROJ-D-1214,Task,Medium,Duplicate,Auth,PROJ-B,user_18,dev_1,,267.4,6,1,0,Sprint 9,
+PROJ-A-1215,Bug,High,Won't Fix,Mobile,PROJ-C,user_14,dev_4,,12.2,5,3,0,,
+PROJ-A-1216,Bug,Low,Duplicate,Database,PROJ-D,user_22,dev_13,,90.1,0,1,1,,tech-debt
+PROJ-A-1217,Task,High,Won't Fix,Auth,PROJ-A,user_10,dev_6,,18.5,5,1,0,Sprint 6,frontend
+PROJ-D-1218,Task,Low,Resolved,Database,PROJ-C,user_3,dev_3,,461.5,1,1,0,Sprint 21,flaky-test
+PROJ-C-1219,Improvement,High,Done,Database,PROJ-B,user_9,dev_14,,25.6,4,6,0,,tech-debt
+PROJ-A-1220,Task,Medium,Duplicate,Auth,PROJ-B,user_3,dev_1,,272.8,7,1,0,Sprint 7,flaky-test
+PROJ-D-1221,Story,Medium,Won't Fix,Mobile,PROJ-B,user_11,dev_6,13.0,5.8,4,2,0,Sprint 18,
+PROJ-B-1222,Bug,High,Done,Testing,PROJ-D,user_12,dev_14,,94.9,7,2,0,,flaky-test
+PROJ-D-1223,Bug,High,Done,Auth,PROJ-A,user_12,dev_1,,1.4,3,6,0,,flaky-test
+PROJ-B-1224,Bug,Critical,Done,Frontend,PROJ-C,user_3,dev_9,,1.1,8,3,0,,backend
+PROJ-B-1225,Bug,Medium,Duplicate,Infra,PROJ-A,user_21,dev_11,,83.7,2,3,0,,frontend
+PROJ-C-1226,Sub-task,High,Closed,Infra,PROJ-D,user_7,dev_14,3.0,50.2,5,4,0,Sprint 15,ux
+PROJ-A-1227,Story,Medium,Done,Auth,PROJ-A,user_14,dev_12,8.0,90.0,4,1,0,Sprint 8,
+PROJ-B-1228,Improvement,High,Done,Frontend,PROJ-D,user_24,dev_1,,15.2,3,3,0,,backend
+PROJ-A-1229,Task,High,Duplicate,Testing,PROJ-B,user_11,dev_13,,24.1,9,3,0,Sprint 20,
+PROJ-D-1230,Task,Medium,Closed,Infra,PROJ-C,user_7,dev_6,,116.7,2,4,0,Sprint 16,flaky-test
+PROJ-A-1231,Story,Critical,Done,Frontend,PROJ-B,user_21,dev_1,8.0,8.2,2,8,0,Sprint 17,ux
+PROJ-D-1232,Story,Low,Done,Testing,PROJ-A,user_10,dev_12,13.0,148.8,1,4,0,Sprint 3,ux
+PROJ-B-1233,Story,Low,Done,Frontend,PROJ-B,user_11,dev_7,21.0,18.1,0,1,0,Sprint 13,tech-debt
+PROJ-C-1234,Bug,Medium,Done,Database,PROJ-C,user_15,dev_3,,24.3,5,3,0,,
+PROJ-B-1235,Task,Medium,Closed,Infra,PROJ-B,user_19,dev_6,,6.6,4,2,0,Sprint 9,
+PROJ-D-1236,Bug,Low,Closed,Testing,PROJ-C,user_16,dev_7,,40.8,1,1,0,,backend
+PROJ-B-1237,Bug,High,Done,Infra,PROJ-C,user_22,dev_1,,3.6,11,5,0,,
+PROJ-C-1238,Task,Critical,Closed,Database,PROJ-B,user_21,dev_1,,6.6,8,3,0,Sprint 20,security
+PROJ-A-1239,Bug,High,Done,Auth,PROJ-D,user_20,dev_13,,9.9,3,3,0,,
+PROJ-D-1240,Epic,Low,Won't Fix,Database,PROJ-A,user_12,dev_5,2.0,58.5,2,2,0,,frontend
+PROJ-A-1241,Epic,Critical,Done,Infra,PROJ-D,user_18,dev_6,2.0,19.2,7,6,0,,
+PROJ-C-1242,Epic,Medium,Done,Infra,PROJ-D,user_23,dev_9,1.0,582.1,3,1,0,,
+PROJ-B-1243,Bug,Low,Done,Mobile,PROJ-B,user_13,dev_14,,70.6,1,1,0,,backend
+PROJ-C-1244,Bug,Low,Done,Testing,PROJ-A,user_5,dev_1,,15.9,0,1,0,,performance
+PROJ-D-1245,Epic,Medium,Done,Auth,PROJ-A,user_4,dev_13,3.0,523.6,4,5,0,,
+PROJ-D-1246,Story,Critical,Done,Database,PROJ-D,user_14,dev_4,5.0,38.9,11,5,1,Sprint 15,tech-debt
+PROJ-B-1247,Sub-task,Low,Resolved,Testing,PROJ-B,user_8,dev_10,1.0,25.5,2,1,0,Sprint 16,frontend
+PROJ-D-1248,Sub-task,Medium,Done,Backend,PROJ-A,user_9,dev_8,3.0,8.1,2,3,0,Sprint 16,frontend
+PROJ-C-1249,Improvement,High,Done,Testing,PROJ-D,user_19,dev_10,,29.7,2,5,0,,frontend
+PROJ-D-1250,Bug,High,Won't Fix,Backend,PROJ-A,user_3,dev_9,,44.6,2,4,0,,ux
+PROJ-A-1251,Story,Low,Done,Auth,PROJ-B,user_5,dev_13,8.0,313.5,1,1,0,Sprint 19,
+PROJ-C-1252,Improvement,Medium,Resolved,Database,PROJ-B,user_21,dev_3,,162.6,2,2,0,,flaky-test
+PROJ-C-1253,Bug,Low,Done,Database,PROJ-B,user_18,,,92.7,0,1,0,,flaky-test
+PROJ-D-1254,Bug,Low,Done,Frontend,PROJ-A,user_1,dev_2,,306.4,0,1,0,,frontend
+PROJ-B-1255,Story,Medium,Done,Infra,PROJ-C,user_8,dev_4,1.0,3.0,2,1,0,Sprint 4,frontend
+PROJ-B-1256,Epic,Medium,Done,API,PROJ-A,user_19,dev_2,21.0,66.0,2,1,0,,ux
+PROJ-B-1257,Task,Medium,Won't Fix,Mobile,PROJ-C,user_17,dev_1,,89.2,2,2,0,Sprint 19,flaky-test
+PROJ-D-1258,Story,High,Done,Testing,PROJ-B,user_17,dev_12,21.0,21.3,3,3,0,Sprint 19,flaky-test
+PROJ-D-1259,Bug,Medium,Closed,Auth,PROJ-D,user_11,dev_3,,25.1,1,1,0,,
+PROJ-D-1260,Story,Medium,Closed,API,PROJ-C,user_2,dev_7,8.0,178.6,0,2,0,Sprint 2,performance
+PROJ-C-1261,Sub-task,Medium,Done,Testing,PROJ-B,user_6,dev_13,3.0,11.6,1,4,0,Sprint 6,backend
+PROJ-C-1262,Bug,Low,Resolved,API,PROJ-B,user_22,dev_13,,209.7,1,1,0,,
+PROJ-D-1263,Story,Medium,Done,Auth,PROJ-C,user_14,dev_1,1.0,69.1,5,2,0,Sprint 13,backend
+PROJ-B-1264,Improvement,Medium,Resolved,Database,PROJ-D,user_3,dev_2,,36.0,3,2,1,,tech-debt
+PROJ-A-1265,Task,Medium,Resolved,Auth,PROJ-B,user_12,dev_1,,222.7,0,2,0,Sprint 15,ux
+PROJ-B-1266,Task,Medium,Done,Testing,PROJ-C,user_4,dev_8,,85.9,5,1,0,Sprint 10,tech-debt
+PROJ-C-1267,Task,Medium,Done,API,PROJ-D,user_12,dev_5,,55.8,4,1,0,Sprint 22,flaky-test
+PROJ-C-1268,Bug,High,Done,Infra,PROJ-D,user_13,dev_8,,3.1,1,2,0,,
+PROJ-B-1269,Bug,Medium,Done,Mobile,PROJ-B,user_2,dev_3,,10.0,4,1,0,,frontend
+PROJ-B-1270,Task,High,Done,Mobile,PROJ-A,user_2,dev_13,,0.5,2,4,0,Sprint 10,
+PROJ-C-1271,Improvement,Medium,Duplicate,Infra,PROJ-A,user_15,dev_12,,96.5,8,4,0,,
+PROJ-C-1272,Improvement,Medium,Done,Infra,PROJ-B,user_23,dev_7,,223.3,2,1,0,,ux
+PROJ-D-1273,Epic,Medium,Done,Database,PROJ-D,user_17,dev_8,3.0,366.2,4,2,0,,ux
+PROJ-A-1274,Story,Low,Done,Testing,PROJ-B,user_7,dev_6,1.0,262.6,1,1,0,Sprint 4,backend
+PROJ-D-1275,Story,Medium,Done,Backend,PROJ-C,user_14,dev_13,8.0,61.5,4,5,0,Sprint 14,regression
+PROJ-D-1276,Task,Medium,Done,Auth,PROJ-A,user_12,dev_13,,6.2,5,2,0,Sprint 8,
+PROJ-B-1277,Task,Medium,Done,Mobile,PROJ-C,user_17,dev_7,,7.8,2,2,0,Sprint 6,
+PROJ-B-1278,Task,Medium,Done,Infra,PROJ-B,user_14,dev_14,,45.7,3,2,0,Sprint 12,
+PROJ-A-1279,Task,Critical,Done,Auth,PROJ-B,user_6,dev_12,,1.9,11,9,0,Sprint 8,
+PROJ-D-1280,Improvement,High,Resolved,Mobile,PROJ-D,user_19,dev_2,,1.4,7,6,1,,performance
+PROJ-D-1281,Bug,Medium,Won't Fix,Infra,PROJ-D,user_24,dev_8,,59.3,3,2,0,,
+PROJ-C-1282,Bug,Medium,Done,Testing,PROJ-D,user_6,dev_5,,70.0,4,1,1,,performance
+PROJ-C-1283,Bug,Critical,Resolved,Mobile,PROJ-C,user_18,dev_7,,0.7,13,3,0,,performance
+PROJ-A-1284,Story,High,Done,Database,PROJ-D,user_24,dev_1,1.0,83.7,6,4,1,Sprint 6,security
+PROJ-B-1285,Bug,High,Resolved,Backend,PROJ-B,user_5,dev_5,,0.5,9,1,1,,
+PROJ-C-1286,Story,Low,Done,Backend,PROJ-D,user_24,dev_1,2.0,33.9,2,5,0,Sprint 15,tech-debt
+PROJ-A-1287,Story,Medium,Resolved,Infra,PROJ-A,user_24,dev_12,21.0,176.2,3,2,0,Sprint 19,regression
+PROJ-D-1288,Bug,Medium,Won't Fix,Mobile,PROJ-D,user_6,dev_13,,44.4,5,1,0,,tech-debt
+PROJ-A-1289,Story,High,Resolved,Database,PROJ-C,user_2,dev_8,5.0,9.2,2,5,0,Sprint 14,tech-debt
+PROJ-A-1290,Bug,Medium,Resolved,Frontend,PROJ-A,user_8,dev_4,,3.5,3,3,0,,backend
+PROJ-C-1291,Bug,High,Closed,Auth,PROJ-A,user_15,dev_4,,18.9,5,2,0,,
+PROJ-C-1292,Improvement,High,Done,Auth,PROJ-A,user_15,dev_2,,15.5,3,5,0,,backend
+PROJ-D-1293,Bug,Medium,Closed,API,PROJ-C,user_11,dev_5,,62.2,3,3,0,,
+PROJ-D-1294,Bug,Critical,Done,Database,PROJ-B,user_22,dev_1,,0.5,8,5,0,,frontend
+PROJ-D-1295,Story,Critical,Done,Mobile,PROJ-D,user_22,dev_9,8.0,17.7,9,6,0,Sprint 3,
+PROJ-A-1296,Task,High,Done,Testing,PROJ-A,user_24,dev_5,,19.8,7,5,0,Sprint 18,flaky-test
+PROJ-A-1297,Bug,Critical,Resolved,Testing,PROJ-A,user_1,dev_6,,5.9,7,9,1,,
+PROJ-C-1298,Story,High,Done,API,PROJ-A,user_18,dev_2,13.0,16.8,5,4,0,Sprint 10,backend
+PROJ-D-1299,Bug,Medium,Closed,Infra,PROJ-B,user_12,dev_10,,56.8,2,5,0,,performance
+PROJ-C-1300,Bug,Low,Resolved,Mobile,PROJ-B,user_12,dev_10,,196.2,1,1,0,,backend
+PROJ-D-1301,Story,Medium,Done,API,PROJ-C,user_11,dev_1,5.0,350.7,2,1,0,Sprint 14,ux
+PROJ-D-1302,Story,Medium,Done,Backend,PROJ-B,user_8,dev_4,8.0,22.3,3,1,0,Sprint 14,security
+PROJ-C-1303,Task,High,Duplicate,Auth,PROJ-D,user_7,dev_7,,5.3,4,3,0,Sprint 22,tech-debt
+PROJ-C-1304,Task,Low,Won't Fix,Mobile,PROJ-C,user_23,dev_6,,55.5,1,1,0,Sprint 7,
+PROJ-C-1305,Sub-task,Medium,Done,API,PROJ-C,user_21,dev_10,2.0,87.5,1,1,0,Sprint 7,security
+PROJ-D-1306,Story,High,Done,Backend,PROJ-D,user_2,dev_1,5.0,17.4,1,5,0,Sprint 21,performance
+PROJ-A-1307,Bug,Medium,Done,Database,PROJ-D,user_11,dev_1,,23.6,2,1,0,,security
+PROJ-C-1308,Task,High,Done,API,PROJ-D,user_22,dev_8,,6.5,3,4,0,Sprint 22,performance
+PROJ-C-1309,Bug,Medium,Done,Infra,PROJ-C,user_10,dev_4,,31.5,2,3,0,,regression
+PROJ-A-1310,Story,Medium,Won't Fix,Infra,PROJ-C,user_3,dev_5,1.0,54.2,4,2,0,Sprint 23,backend
+PROJ-A-1311,Bug,Low,Duplicate,Infra,PROJ-C,user_20,,,170.5,1,1,0,,frontend
+PROJ-B-1312,Bug,Medium,Resolved,Mobile,PROJ-D,user_10,dev_7,,32.5,1,2,1,,tech-debt
+PROJ-C-1313,Sub-task,Medium,Done,Testing,PROJ-D,user_18,dev_8,1.0,15.8,4,2,0,Sprint 11,performance
+PROJ-B-1314,Improvement,Low,Done,Testing,PROJ-A,user_14,dev_10,,165.7,4,2,1,,security
+PROJ-B-1315,Task,High,Closed,Auth,PROJ-B,user_18,dev_7,,1.6,2,3,0,Sprint 18,backend
+PROJ-A-1316,Story,High,Closed,API,PROJ-A,user_24,dev_2,13.0,35.1,11,5,0,Sprint 10,performance
+PROJ-D-1317,Bug,Medium,Done,Database,PROJ-D,user_8,dev_14,,4.9,2,2,0,,backend
+PROJ-D-1318,Bug,Medium,Resolved,API,PROJ-C,user_10,dev_4,,21.9,4,4,0,,
+PROJ-A-1319,Bug,Medium,Resolved,Auth,PROJ-D,user_22,dev_10,,195.3,3,3,1,,
+PROJ-B-1320,Story,Low,Resolved,Backend,PROJ-B,user_13,,13.0,109.4,0,2,0,Sprint 15,ux
+PROJ-B-1321,Task,Medium,Closed,Auth,PROJ-A,user_21,dev_1,,97.7,5,2,0,Sprint 12,backend
+PROJ-B-1322,Task,Medium,Resolved,Infra,PROJ-A,user_8,dev_10,,31.7,1,2,0,Sprint 23,
+PROJ-B-1323,Bug,High,Done,Mobile,PROJ-C,user_4,dev_9,,18.6,3,4,0,,flaky-test
+PROJ-C-1324,Epic,Low,Resolved,Backend,PROJ-A,user_4,dev_3,3.0,8.7,1,1,0,,
+PROJ-B-1325,Task,Low,Done,Mobile,PROJ-A,user_5,dev_12,,87.9,0,1,0,Sprint 17,tech-debt
+PROJ-A-1326,Story,Low,Done,Infra,PROJ-D,user_1,dev_3,21.0,65.2,1,1,0,Sprint 22,
+PROJ-B-1327,Story,Critical,Done,Frontend,PROJ-A,user_17,dev_10,5.0,6.2,5,5,0,Sprint 24,
+PROJ-B-1328,Story,Medium,Done,Auth,PROJ-A,user_2,dev_9,13.0,84.3,5,2,0,Sprint 17,tech-debt
+PROJ-A-1329,Bug,Critical,Duplicate,Auth,PROJ-A,user_8,dev_10,,7.7,8,6,0,,performance
+PROJ-B-1330,Bug,High,Done,Database,PROJ-C,user_7,dev_3,,2.5,7,8,0,,flaky-test
+PROJ-D-1331,Task,Critical,Won't Fix,API,PROJ-C,user_15,dev_8,,3.8,6,3,0,Sprint 1,flaky-test
+PROJ-A-1332,Bug,Medium,Done,Backend,PROJ-D,user_5,dev_2,,5.1,3,2,0,,flaky-test
+PROJ-C-1333,Bug,Medium,Done,Testing,PROJ-A,user_2,dev_14,,14.1,5,3,0,,tech-debt
+PROJ-C-1334,Bug,High,Closed,Mobile,PROJ-C,user_7,dev_13,,0.8,6,5,0,,security
+PROJ-A-1335,Bug,Medium,Done,Backend,PROJ-C,user_8,dev_3,,57.5,0,2,0,,
+PROJ-C-1336,Improvement,Medium,Closed,Database,PROJ-D,user_7,dev_2,,7.1,4,4,0,,regression
+PROJ-C-1337,Task,Medium,Done,Database,PROJ-B,user_7,,,48.0,1,2,0,Sprint 6,frontend
+PROJ-C-1338,Story,High,Resolved,Mobile,PROJ-A,user_14,dev_2,5.0,2.1,5,1,0,Sprint 21,flaky-test
+PROJ-A-1339,Bug,Medium,Done,Testing,PROJ-C,user_21,dev_8,,12.8,5,2,0,,
+PROJ-B-1340,Story,Medium,Closed,API,PROJ-D,user_18,dev_9,21.0,305.0,3,3,0,Sprint 15,ux
+PROJ-C-1341,Story,Critical,Done,Mobile,PROJ-D,user_6,dev_13,13.0,18.7,7,6,0,Sprint 19,security
+PROJ-D-1342,Bug,High,Resolved,Mobile,PROJ-D,user_4,dev_2,,6.5,2,5,0,,frontend
+PROJ-B-1343,Story,Medium,Resolved,Infra,PROJ-C,user_10,dev_7,21.0,29.5,2,1,0,Sprint 14,flaky-test
+PROJ-B-1344,Story,Low,Done,Testing,PROJ-A,user_18,dev_5,5.0,131.2,1,1,0,Sprint 10,frontend
+PROJ-C-1345,Story,Medium,Done,API,PROJ-B,user_12,dev_3,8.0,221.0,2,1,0,Sprint 10,frontend
+PROJ-C-1346,Task,Medium,Closed,Auth,PROJ-A,user_16,dev_9,,0.5,5,2,0,Sprint 23,
+PROJ-B-1347,Bug,Medium,Won't Fix,Infra,PROJ-D,user_7,dev_6,,28.3,0,4,0,,frontend
+PROJ-C-1348,Bug,Medium,Done,Frontend,PROJ-D,user_6,dev_11,,18.7,3,3,0,,
+PROJ-A-1349,Story,Critical,Resolved,Testing,PROJ-B,user_5,dev_1,5.0,8.8,7,6,1,Sprint 7,performance
+PROJ-A-1350,Story,Medium,Closed,API,PROJ-A,user_3,dev_5,21.0,31.1,1,1,0,Sprint 7,performance
+PROJ-C-1351,Improvement,Low,Closed,Database,PROJ-D,user_12,dev_7,,158.9,2,1,0,,frontend
+PROJ-B-1352,Task,Medium,Duplicate,Infra,PROJ-D,user_15,dev_4,,136.6,3,1,0,Sprint 14,
+PROJ-C-1353,Bug,Low,Closed,API,PROJ-A,user_10,dev_8,,100.1,0,2,0,,performance
+PROJ-D-1354,Bug,Medium,Resolved,Backend,PROJ-D,user_20,dev_10,,9.1,1,1,0,,
+PROJ-A-1355,Task,High,Closed,Mobile,PROJ-A,user_19,dev_5,,43.2,8,6,0,Sprint 15,
+PROJ-B-1356,Bug,Low,Done,Frontend,PROJ-D,user_16,dev_9,,849.2,1,3,0,,
+PROJ-D-1357,Story,Critical,Resolved,Auth,PROJ-A,user_11,dev_9,8.0,19.2,6,2,1,Sprint 22,
+PROJ-C-1358,Epic,Medium,Won't Fix,Mobile,PROJ-B,user_8,dev_9,8.0,224.7,4,2,0,,performance
+PROJ-A-1359,Story,High,Resolved,Backend,PROJ-D,user_3,dev_1,3.0,22.4,7,3,0,Sprint 20,ux
+PROJ-D-1360,Story,Critical,Done,Backend,PROJ-B,user_23,dev_2,13.0,5.0,8,6,0,Sprint 9,flaky-test
+PROJ-B-1361,Task,Medium,Done,Frontend,PROJ-D,user_7,dev_3,,95.4,5,2,0,Sprint 15,backend
+PROJ-A-1362,Story,High,Closed,Auth,PROJ-D,user_23,dev_14,1.0,0.7,9,2,0,Sprint 9,backend
+PROJ-C-1363,Story,Medium,Closed,Database,PROJ-C,user_7,dev_4,8.0,81.4,4,2,0,Sprint 23,
+PROJ-C-1364,Epic,Medium,Done,Infra,PROJ-A,user_14,,21.0,2.2,4,4,0,,frontend
+PROJ-A-1365,Story,Critical,Done,Testing,PROJ-B,user_2,dev_9,13.0,8.6,8,4,0,Sprint 7,backend
+PROJ-D-1366,Sub-task,High,Resolved,Auth,PROJ-B,user_10,dev_10,2.0,15.9,5,4,0,Sprint 24,backend
+PROJ-A-1367,Improvement,Medium,Resolved,Testing,PROJ-B,user_19,dev_13,,35.8,4,1,0,,
+PROJ-A-1368,Bug,Medium,Resolved,API,PROJ-A,user_9,dev_6,,33.0,3,2,0,,security
+PROJ-A-1369,Bug,Medium,Won't Fix,Backend,PROJ-C,user_16,dev_1,,57.7,3,6,0,,
+PROJ-D-1370,Bug,Medium,Done,API,PROJ-B,user_19,dev_12,,7.4,4,1,0,,performance
+PROJ-A-1371,Bug,Low,Won't Fix,Database,PROJ-A,user_18,dev_9,,60.5,1,1,0,,backend
+PROJ-B-1372,Bug,Medium,Resolved,API,PROJ-D,user_9,dev_6,,40.8,7,2,0,,performance
+PROJ-C-1373,Task,Medium,Duplicate,Auth,PROJ-B,user_16,,,27.3,0,2,0,Sprint 11,backend
+PROJ-D-1374,Bug,Medium,Done,API,PROJ-B,user_13,dev_14,,271.9,0,1,0,,performance
+PROJ-B-1375,Bug,High,Done,Database,PROJ-C,user_10,dev_4,,16.6,8,4,1,,security
+PROJ-A-1376,Improvement,High,Resolved,Database,PROJ-B,user_20,dev_3,,0.5,6,5,0,,
+PROJ-B-1377,Bug,Low,Won't Fix,Database,PROJ-B,user_14,dev_7,,457.9,1,1,0,,
+PROJ-D-1378,Improvement,Medium,Resolved,Auth,PROJ-D,user_12,dev_3,,156.2,1,2,0,,tech-debt
+PROJ-C-1379,Bug,Low,Resolved,Database,PROJ-A,user_19,dev_2,,60.5,0,2,0,,performance
+PROJ-D-1380,Bug,Low,Done,Backend,PROJ-A,user_7,dev_10,,368.9,1,3,0,,performance
+PROJ-A-1381,Task,Low,Resolved,Mobile,PROJ-C,user_23,dev_8,,140.1,0,1,0,Sprint 5,
+PROJ-A-1382,Story,Low,Resolved,Database,PROJ-D,user_15,dev_4,5.0,34.6,2,2,0,Sprint 9,
+PROJ-C-1383,Improvement,Medium,Resolved,API,PROJ-A,user_16,dev_8,,46.2,6,4,0,,
+PROJ-D-1384,Task,High,Resolved,Infra,PROJ-D,user_8,dev_1,,18.9,9,6,0,Sprint 6,regression
+PROJ-D-1385,Task,Medium,Done,API,PROJ-A,user_10,dev_5,,14.7,4,2,1,Sprint 7,
+PROJ-D-1386,Bug,Medium,Resolved,Infra,PROJ-D,user_4,dev_13,,19.6,4,1,0,,security
+PROJ-B-1387,Bug,Medium,Done,API,PROJ-C,user_19,dev_9,,16.4,2,1,0,,
+PROJ-C-1388,Task,Medium,Duplicate,Auth,PROJ-B,user_19,dev_1,,83.1,1,1,0,Sprint 23,ux
+PROJ-D-1389,Task,Medium,Closed,API,PROJ-C,user_21,dev_11,,14.9,5,1,0,Sprint 23,
+PROJ-C-1390,Sub-task,Medium,Closed,Auth,PROJ-A,user_15,dev_13,3.0,33.8,1,2,0,Sprint 14,backend
+PROJ-B-1391,Story,High,Duplicate,Auth,PROJ-C,user_14,dev_4,2.0,76.8,4,5,0,Sprint 19,flaky-test
+PROJ-D-1392,Bug,Medium,Done,Database,PROJ-B,user_1,dev_6,,32.6,4,1,0,,
+PROJ-B-1393,Task,High,Done,Backend,PROJ-C,user_16,dev_10,,34.2,6,5,0,Sprint 22,flaky-test
+PROJ-A-1394,Bug,Low,Resolved,Infra,PROJ-A,user_10,dev_8,,414.5,1,1,0,,
+PROJ-A-1395,Epic,Medium,Done,Database,PROJ-A,user_19,dev_14,21.0,32.0,2,3,0,,backend
+PROJ-A-1396,Improvement,High,Done,Database,PROJ-C,user_22,dev_3,,8.1,3,4,0,,backend
+PROJ-C-1397,Story,Critical,Won't Fix,Mobile,PROJ-B,user_3,dev_5,5.0,20.0,6,3,0,Sprint 22,
+PROJ-D-1398,Task,Medium,Closed,Auth,PROJ-C,user_5,dev_7,,193.9,3,1,1,Sprint 11,flaky-test
+PROJ-D-1399,Task,Medium,Done,Auth,PROJ-B,user_9,dev_1,,66.2,5,5,0,Sprint 7,security
+PROJ-B-1400,Bug,Medium,Done,Infra,PROJ-D,user_18,dev_7,,8.9,0,1,1,,
+PROJ-B-1401,Improvement,Critical,Done,API,PROJ-B,user_11,dev_13,,54.8,5,6,1,,ux
+PROJ-A-1402,Story,Medium,Closed,API,PROJ-D,user_16,dev_12,3.0,20.7,3,4,0,Sprint 6,performance
+PROJ-C-1403,Improvement,High,Done,Testing,PROJ-C,user_2,dev_11,,4.6,5,5,0,,frontend
+PROJ-C-1404,Bug,Medium,Won't Fix,Database,PROJ-B,user_12,dev_8,,27.1,2,1,0,,
+PROJ-B-1405,Improvement,Medium,Closed,Testing,PROJ-D,user_22,dev_8,,51.2,2,3,0,,security
+PROJ-B-1406,Story,Medium,Done,Frontend,PROJ-D,user_6,dev_9,21.0,168.6,0,1,0,Sprint 4,flaky-test
+PROJ-D-1407,Bug,High,Done,Frontend,PROJ-D,user_11,,,4.8,7,1,0,,backend
+PROJ-D-1408,Improvement,Low,Closed,Testing,PROJ-A,user_8,dev_12,,270.6,1,3,0,,
+PROJ-B-1409,Bug,Medium,Done,API,PROJ-C,user_12,dev_6,,1.3,3,2,0,,
+PROJ-D-1410,Bug,Medium,Closed,Frontend,PROJ-D,user_2,dev_2,,47.9,6,2,0,,
+PROJ-B-1411,Epic,High,Won't Fix,Mobile,PROJ-B,user_9,dev_3,8.0,68.3,5,1,0,,regression
+PROJ-C-1412,Epic,Medium,Done,API,PROJ-D,user_15,dev_4,1.0,127.0,0,1,0,,regression
+PROJ-A-1413,Story,Critical,Done,Auth,PROJ-A,user_2,dev_4,8.0,41.7,4,8,0,Sprint 14,regression
+PROJ-B-1414,Task,Medium,Resolved,Database,PROJ-C,user_1,dev_8,,125.0,3,3,0,Sprint 22,ux
+PROJ-B-1415,Story,Low,Done,Backend,PROJ-A,user_10,dev_14,5.0,566.2,2,2,0,Sprint 3,
+PROJ-D-1416,Bug,Medium,Done,Database,PROJ-A,user_2,dev_1,,3.7,4,5,0,,backend
+PROJ-B-1417,Bug,Critical,Done,Testing,PROJ-A,user_12,dev_10,,7.1,6,5,0,,security
+PROJ-C-1418,Task,Critical,Won't Fix,API,PROJ-B,user_23,dev_14,,8.0,9,9,0,Sprint 17,
+PROJ-A-1419,Task,Medium,Won't Fix,Testing,PROJ-C,user_8,dev_4,,34.4,2,2,0,Sprint 15,backend
+PROJ-D-1420,Task,High,Done,Mobile,PROJ-C,user_5,dev_11,,8.9,0,7,0,Sprint 1,ux
+PROJ-C-1421,Task,Critical,Closed,API,PROJ-B,user_22,,,0.7,13,6,0,Sprint 21,security
+PROJ-A-1422,Bug,Medium,Done,Database,PROJ-C,user_1,dev_13,,48.6,5,1,0,,tech-debt
+PROJ-D-1423,Story,Medium,Resolved,Mobile,PROJ-A,user_15,dev_11,21.0,112.9,2,3,0,Sprint 11,backend
+PROJ-C-1424,Bug,High,Done,Mobile,PROJ-C,user_6,dev_11,,0.8,4,1,1,,tech-debt
+PROJ-B-1425,Story,Low,Done,Mobile,PROJ-B,user_12,dev_4,1.0,1035.7,3,1,0,Sprint 13,tech-debt
+PROJ-D-1426,Story,High,Resolved,Infra,PROJ-A,user_8,dev_1,8.0,37.3,5,2,0,Sprint 24,backend
+PROJ-B-1427,Improvement,Low,Done,API,PROJ-B,user_13,dev_3,,35.2,0,1,0,,
+PROJ-D-1428,Bug,High,Done,Frontend,PROJ-D,user_19,dev_5,,6.7,7,4,1,,
+PROJ-A-1429,Bug,Low,Resolved,Frontend,PROJ-A,user_1,dev_6,,57.6,1,2,0,,regression
+PROJ-D-1430,Bug,Medium,Resolved,API,PROJ-A,user_11,dev_9,,35.9,2,1,0,,backend
+PROJ-D-1431,Task,Low,Resolved,API,PROJ-C,user_20,dev_9,,68.6,0,2,0,Sprint 3,flaky-test
+PROJ-C-1432,Story,Low,Won't Fix,Infra,PROJ-A,user_1,dev_9,1.0,103.2,0,1,0,Sprint 13,flaky-test
+PROJ-D-1433,Bug,High,Done,Frontend,PROJ-B,user_8,dev_11,,25.6,5,5,0,,
+PROJ-A-1434,Bug,Low,Done,API,PROJ-C,user_5,dev_1,,28.6,1,1,1,,backend
+PROJ-C-1435,Task,Medium,Done,API,PROJ-D,user_17,dev_12,,8.8,1,2,0,Sprint 18,tech-debt
+PROJ-B-1436,Bug,Medium,Done,Testing,PROJ-B,user_8,dev_9,,14.9,2,1,0,,
+PROJ-D-1437,Improvement,Medium,Done,Infra,PROJ-D,user_10,dev_13,,9.0,1,2,0,,tech-debt
+PROJ-A-1438,Task,Medium,Closed,Infra,PROJ-D,user_2,dev_8,,40.9,2,3,0,Sprint 24,flaky-test
+PROJ-A-1439,Bug,High,Done,Database,PROJ-D,user_9,dev_2,,21.0,4,5,1,,regression
+PROJ-D-1440,Bug,Medium,Done,Infra,PROJ-A,user_24,dev_13,,33.1,2,1,1,,backend
+PROJ-D-1441,Sub-task,Medium,Done,Backend,PROJ-B,user_23,dev_11,3.0,56.9,5,2,1,Sprint 9,
+PROJ-B-1442,Bug,Medium,Done,Frontend,PROJ-B,user_3,dev_1,,66.2,1,1,0,,
+PROJ-B-1443,Bug,Low,Resolved,Database,PROJ-A,user_18,dev_1,,148.6,1,1,0,,
+PROJ-B-1444,Improvement,Medium,Done,Backend,PROJ-C,user_7,dev_12,,96.8,3,1,0,,tech-debt
+PROJ-B-1445,Epic,High,Done,API,PROJ-D,user_15,dev_6,3.0,83.1,4,3,0,,ux
+PROJ-B-1446,Sub-task,High,Duplicate,Testing,PROJ-B,user_21,dev_9,3.0,0.5,6,2,0,Sprint 2,security
+PROJ-B-1447,Task,High,Resolved,Testing,PROJ-A,user_22,dev_7,,29.5,2,6,0,Sprint 8,ux
+PROJ-C-1448,Bug,Critical,Closed,API,PROJ-D,user_20,dev_5,,24.2,5,3,0,,ux
+PROJ-C-1449,Bug,Medium,Closed,Database,PROJ-C,user_18,dev_11,,16.2,3,1,0,,
+PROJ-A-1450,Task,High,Closed,Infra,PROJ-C,user_3,dev_2,,34.9,6,4,1,Sprint 2,performance
+PROJ-C-1451,Story,Low,Done,Mobile,PROJ-D,user_23,dev_1,8.0,81.7,1,2,0,Sprint 23,security
+PROJ-D-1452,Story,Medium,Done,Testing,PROJ-C,user_14,dev_2,2.0,66.4,2,2,0,Sprint 24,security
+PROJ-D-1453,Improvement,Medium,Closed,Mobile,PROJ-B,user_24,dev_1,,98.3,4,1,0,,tech-debt
+PROJ-D-1454,Bug,Medium,Done,API,PROJ-B,user_2,dev_3,,60.8,1,2,0,,ux
+PROJ-A-1455,Story,High,Done,Mobile,PROJ-B,user_14,dev_6,5.0,92.6,4,3,0,Sprint 1,regression
+PROJ-C-1456,Bug,Medium,Done,Auth,PROJ-C,user_22,,,11.7,2,1,0,,
+PROJ-D-1457,Story,Medium,Done,Database,PROJ-B,user_11,dev_8,8.0,241.9,4,3,0,Sprint 24,frontend
+PROJ-C-1458,Bug,Medium,Won't Fix,Backend,PROJ-A,user_16,dev_3,,161.0,4,4,0,,
+PROJ-D-1459,Bug,Medium,Done,Database,PROJ-B,user_8,,,87.3,1,3,0,,tech-debt
+PROJ-B-1460,Bug,Low,Done,Frontend,PROJ-B,user_7,dev_9,,76.0,0,3,0,,tech-debt
+PROJ-C-1461,Task,Low,Closed,Infra,PROJ-C,user_11,dev_10,,73.7,1,1,0,Sprint 3,
+PROJ-C-1462,Task,Medium,Closed,Infra,PROJ-B,user_3,dev_5,,20.5,5,1,0,Sprint 17,ux
+PROJ-D-1463,Story,Medium,Closed,Database,PROJ-D,user_17,dev_7,8.0,52.4,6,2,0,Sprint 7,ux
+PROJ-C-1464,Sub-task,Medium,Done,API,PROJ-A,user_14,dev_8,3.0,2.5,2,1,0,Sprint 10,performance
+PROJ-B-1465,Bug,High,Done,API,PROJ-C,user_6,dev_3,,24.4,5,3,1,,
+PROJ-D-1466,Bug,Medium,Resolved,Auth,PROJ-A,user_8,dev_2,,238.8,3,2,0,,frontend
+PROJ-B-1467,Improvement,Critical,Done,Auth,PROJ-D,user_22,dev_2,,2.8,8,4,0,,
+PROJ-D-1468,Bug,Medium,Done,Infra,PROJ-C,user_5,dev_5,,46.6,3,4,0,,regression
+PROJ-C-1469,Sub-task,Medium,Duplicate,Auth,PROJ-C,user_8,dev_1,3.0,15.1,0,5,0,Sprint 19,tech-debt
+PROJ-D-1470,Bug,High,Done,Testing,PROJ-B,user_2,dev_2,,35.5,9,3,0,,security
+PROJ-A-1471,Sub-task,Low,Done,Testing,PROJ-A,user_15,dev_13,1.0,99.7,1,1,0,Sprint 24,ux
+PROJ-D-1472,Bug,Low,Done,Backend,PROJ-D,user_12,dev_9,,80.5,2,2,0,,
+PROJ-C-1473,Improvement,Medium,Done,Auth,PROJ-D,user_17,dev_7,,51.2,3,3,0,,ux
+PROJ-B-1474,Story,Medium,Done,Backend,PROJ-C,user_1,dev_6,5.0,293.7,3,1,0,Sprint 9,
+PROJ-B-1475,Sub-task,Low,Done,Auth,PROJ-B,user_15,dev_9,1.0,14.9,1,1,0,Sprint 18,
+PROJ-A-1476,Bug,High,Done,Infra,PROJ-C,user_14,dev_7,,20.4,4,4,0,,security
+PROJ-D-1477,Story,Low,Done,Infra,PROJ-C,user_20,dev_14,13.0,975.7,2,2,0,Sprint 15,
+PROJ-D-1478,Sub-task,High,Done,Backend,PROJ-C,user_22,dev_11,2.0,2.0,2,7,0,Sprint 17,frontend
+PROJ-B-1479,Story,Low,Resolved,Database,PROJ-C,user_16,dev_5,5.0,60.7,1,1,0,Sprint 24,regression
+PROJ-B-1480,Story,High,Resolved,Infra,PROJ-D,user_9,dev_9,21.0,123.9,5,5,0,Sprint 22,security
+PROJ-C-1481,Task,Low,Done,Database,PROJ-D,user_1,dev_6,,120.9,0,5,0,Sprint 17,
+PROJ-A-1482,Story,Low,Duplicate,API,PROJ-C,user_17,dev_6,2.0,192.0,2,1,0,Sprint 19,security
+PROJ-B-1483,Story,High,Resolved,Testing,PROJ-C,user_13,dev_11,13.0,16.1,4,4,0,Sprint 9,
+PROJ-D-1484,Story,Medium,Resolved,Backend,PROJ-B,user_21,dev_4,3.0,56.3,4,3,0,Sprint 6,performance
+PROJ-B-1485,Improvement,Low,Done,Mobile,PROJ-C,user_21,dev_13,,171.1,1,1,0,,tech-debt
+PROJ-C-1486,Bug,Medium,Resolved,Infra,PROJ-D,user_5,dev_12,,1.9,0,2,0,,regression
+PROJ-D-1487,Bug,Low,Won't Fix,Frontend,PROJ-A,user_10,dev_1,,234.9,4,1,0,,
+PROJ-C-1488,Epic,Medium,Done,API,PROJ-D,user_6,dev_5,2.0,228.1,5,2,1,,ux
+PROJ-C-1489,Improvement,Medium,Resolved,Database,PROJ-B,user_24,dev_11,,115.6,3,5,0,,regression
+PROJ-C-1490,Story,High,Resolved,Infra,PROJ-D,user_19,dev_9,8.0,10.5,3,2,0,Sprint 19,
+PROJ-A-1491,Story,High,Done,Backend,PROJ-A,user_13,dev_13,13.0,5.4,5,2,0,Sprint 8,security
+PROJ-D-1492,Bug,Medium,Done,Mobile,PROJ-C,user_1,dev_8,,51.1,2,2,0,,
+PROJ-D-1493,Bug,Medium,Done,Auth,PROJ-A,user_20,,,44.4,3,1,0,,flaky-test
+PROJ-C-1494,Story,Medium,Done,Mobile,PROJ-C,user_15,dev_5,3.0,166.4,1,2,0,Sprint 6,
+PROJ-A-1495,Bug,Medium,Done,Frontend,PROJ-C,user_14,dev_12,,46.8,3,1,1,,
+PROJ-B-1496,Story,Medium,Closed,Database,PROJ-D,user_8,dev_9,8.0,210.1,5,4,0,Sprint 17,
+PROJ-D-1497,Bug,Low,Closed,API,PROJ-D,user_10,dev_3,,138.9,1,1,0,,
+PROJ-B-1498,Sub-task,Low,Won't Fix,Mobile,PROJ-D,user_9,dev_3,2.0,51.1,0,2,0,Sprint 6,regression
+PROJ-D-1499,Sub-task,Medium,Closed,Backend,PROJ-B,user_17,dev_1,1.0,8.5,10,1,0,Sprint 13,regression
+PROJ-C-1500,Task,Low,Done,Frontend,PROJ-D,user_9,dev_9,,437.4,1,1,0,Sprint 21,regression
+PROJ-D-1501,Story,Medium,Done,Backend,PROJ-B,user_3,dev_6,1.0,304.7,2,2,0,Sprint 24,security
+PROJ-C-1502,Bug,Medium,Won't Fix,Infra,PROJ-D,user_11,dev_2,,23.6,3,3,0,,
+PROJ-D-1503,Improvement,Low,Done,Auth,PROJ-C,user_12,dev_8,,247.7,0,1,0,,regression
+PROJ-C-1504,Task,High,Resolved,API,PROJ-B,user_10,,,11.5,3,4,0,Sprint 2,flaky-test
+PROJ-B-1505,Bug,High,Done,Backend,PROJ-A,user_17,dev_9,,0.5,8,4,0,,frontend
+PROJ-B-1506,Epic,Low,Done,Database,PROJ-B,user_17,dev_9,5.0,442.6,2,1,0,,
+PROJ-B-1507,Improvement,Medium,Done,Infra,PROJ-B,user_11,dev_2,,38.6,4,1,0,,
+PROJ-D-1508,Epic,Low,Done,Infra,PROJ-A,user_22,dev_2,5.0,890.5,2,2,0,,flaky-test
+PROJ-A-1509,Task,Low,Resolved,API,PROJ-B,user_4,dev_13,,211.9,2,1,0,Sprint 12,performance
+PROJ-B-1510,Story,Critical,Closed,Infra,PROJ-C,user_7,dev_7,2.0,13.1,6,10,0,Sprint 7,
+PROJ-D-1511,Story,Low,Done,Database,PROJ-D,user_21,dev_11,2.0,117.8,0,1,0,Sprint 6,
+PROJ-C-1512,Epic,Medium,Resolved,Backend,PROJ-A,user_14,dev_4,3.0,285.8,4,3,0,,flaky-test
+PROJ-A-1513,Improvement,Medium,Done,API,PROJ-D,user_7,dev_13,,39.4,6,1,0,,
+PROJ-A-1514,Bug,Medium,Done,Testing,PROJ-C,user_24,dev_1,,29.9,1,2,0,,
+PROJ-A-1515,Bug,Low,Won't Fix,Infra,PROJ-A,user_8,dev_8,,21.0,2,1,0,,ux
+PROJ-B-1516,Bug,Critical,Done,Infra,PROJ-D,user_1,dev_2,,6.4,7,10,0,,
+PROJ-B-1517,Improvement,Medium,Resolved,Database,PROJ-D,user_24,dev_14,,111.2,6,2,0,,regression
+PROJ-B-1518,Sub-task,Medium,Resolved,Auth,PROJ-C,user_22,dev_3,3.0,34.6,3,3,0,Sprint 17,
+PROJ-B-1519,Bug,Medium,Done,Auth,PROJ-D,user_4,dev_5,,84.8,6,1,0,,flaky-test
+PROJ-C-1520,Story,Medium,Done,Mobile,PROJ-C,user_12,dev_14,1.0,50.1,4,1,0,Sprint 8,security
+PROJ-D-1521,Story,High,Done,Infra,PROJ-B,user_24,dev_3,5.0,21.4,2,1,0,Sprint 6,frontend
+PROJ-A-1522,Sub-task,High,Done,Testing,PROJ-C,user_3,dev_7,3.0,30.9,9,7,0,Sprint 19,
+PROJ-D-1523,Improvement,Medium,Resolved,Backend,PROJ-B,user_13,dev_7,,28.3,1,1,0,,security
+PROJ-A-1524,Improvement,Low,Done,API,PROJ-A,user_20,dev_14,,139.3,0,3,0,,
+PROJ-A-1525,Story,High,Done,Infra,PROJ-D,user_6,dev_2,1.0,64.8,3,4,0,Sprint 21,performance
+PROJ-A-1526,Story,High,Closed,Frontend,PROJ-C,user_11,dev_13,1.0,2.0,4,6,0,Sprint 23,flaky-test
+PROJ-A-1527,Bug,Low,Closed,API,PROJ-C,user_23,dev_13,,35.5,1,1,0,,security
+PROJ-C-1528,Bug,Critical,Resolved,Mobile,PROJ-D,user_4,dev_7,,0.6,12,4,0,,performance
+PROJ-C-1529,Improvement,Low,Resolved,Auth,PROJ-D,user_20,dev_11,,389.6,2,1,0,,ux
+PROJ-A-1530,Improvement,Medium,Resolved,Testing,PROJ-A,user_16,dev_6,,195.2,0,1,0,,frontend
+PROJ-A-1531,Sub-task,Low,Resolved,Infra,PROJ-A,user_7,dev_10,3.0,76.6,1,1,0,Sprint 9,
+PROJ-B-1532,Sub-task,High,Done,Database,PROJ-C,user_22,dev_9,3.0,5.1,7,5,1,Sprint 20,
+PROJ-A-1533,Story,Critical,Closed,Frontend,PROJ-A,user_11,dev_13,21.0,14.5,8,12,0,Sprint 16,security
+PROJ-D-1534,Task,Medium,Done,Infra,PROJ-B,user_24,dev_9,,111.6,1,1,0,Sprint 18,flaky-test
+PROJ-C-1535,Epic,Low,Duplicate,Testing,PROJ-A,user_1,dev_2,2.0,409.1,2,1,0,,frontend
+PROJ-D-1536,Improvement,Medium,Done,Mobile,PROJ-A,user_7,dev_7,,19.9,4,1,0,,
+PROJ-B-1537,Bug,High,Duplicate,Backend,PROJ-C,user_12,dev_5,,1.8,4,3,1,,regression
+PROJ-C-1538,Story,Medium,Resolved,Frontend,PROJ-B,user_7,dev_13,1.0,139.9,4,3,0,Sprint 19,ux
+PROJ-B-1539,Bug,Medium,Resolved,Mobile,PROJ-A,user_23,dev_6,,41.2,7,1,0,,performance
+PROJ-B-1540,Epic,Medium,Done,Infra,PROJ-B,user_7,dev_1,1.0,261.7,6,1,1,,ux
+PROJ-D-1541,Story,Medium,Done,Backend,PROJ-B,user_10,dev_7,8.0,70.0,1,4,0,Sprint 7,
+PROJ-A-1542,Bug,Low,Closed,Frontend,PROJ-B,user_16,dev_6,,57.9,3,1,0,,flaky-test
+PROJ-C-1543,Task,Medium,Done,Backend,PROJ-D,user_8,dev_4,,24.2,4,2,0,Sprint 8,performance
+PROJ-C-1544,Story,High,Won't Fix,Backend,PROJ-D,user_9,dev_1,21.0,10.7,5,4,0,Sprint 21,tech-debt
+PROJ-A-1545,Bug,Medium,Resolved,Frontend,PROJ-D,user_9,dev_9,,18.7,6,1,0,,flaky-test
+PROJ-D-1546,Bug,Critical,Resolved,Frontend,PROJ-D,user_2,dev_4,,26.5,6,6,0,,security
+PROJ-B-1547,Task,Medium,Done,Backend,PROJ-C,user_13,dev_2,,34.9,3,1,0,Sprint 19,ux
+PROJ-D-1548,Story,Medium,Done,Mobile,PROJ-A,user_13,dev_8,21.0,159.1,3,2,0,Sprint 1,
+PROJ-B-1549,Task,Critical,Resolved,Testing,PROJ-D,user_23,dev_2,,7.8,9,6,0,Sprint 13,
+PROJ-C-1550,Story,Medium,Done,Auth,PROJ-C,user_23,dev_5,3.0,24.8,3,1,0,Sprint 1,security
+PROJ-A-1551,Improvement,High,Won't Fix,Frontend,PROJ-A,user_4,dev_11,,13.3,5,3,0,,frontend
+PROJ-A-1552,Story,Low,Resolved,Infra,PROJ-D,user_24,dev_6,3.0,155.6,1,2,1,Sprint 11,
+PROJ-C-1553,Story,Low,Done,API,PROJ-A,user_12,dev_11,5.0,10.5,0,1,0,Sprint 2,backend
+PROJ-B-1554,Improvement,Critical,Closed,Database,PROJ-D,user_17,dev_13,,4.2,7,5,1,,tech-debt
+PROJ-D-1555,Story,Low,Resolved,Backend,PROJ-C,user_2,dev_8,3.0,17.5,3,3,0,Sprint 21,security
+PROJ-B-1556,Bug,Medium,Closed,Backend,PROJ-B,user_13,dev_11,,31.5,0,4,0,,
+PROJ-A-1557,Bug,High,Closed,Database,PROJ-B,user_18,dev_1,,19.3,4,6,1,,performance
+PROJ-D-1558,Task,Critical,Done,Auth,PROJ-A,user_15,dev_1,,6.9,6,6,0,Sprint 3,flaky-test
+PROJ-D-1559,Story,Medium,Done,Database,PROJ-C,user_8,dev_12,13.0,73.1,1,1,0,Sprint 13,performance
+PROJ-B-1560,Task,Low,Resolved,Frontend,PROJ-B,user_15,dev_4,,529.0,0,2,0,Sprint 7,
+PROJ-B-1561,Bug,Medium,Done,Database,PROJ-D,user_1,dev_5,,84.4,5,1,0,,flaky-test
+PROJ-B-1562,Bug,Critical,Resolved,Backend,PROJ-B,user_20,dev_13,,3.9,3,9,0,,frontend
+PROJ-D-1563,Bug,Critical,Closed,Database,PROJ-A,user_10,dev_13,,3.1,8,4,0,,performance
+PROJ-C-1564,Bug,Medium,Won't Fix,API,PROJ-A,user_12,dev_9,,13.4,4,1,0,,tech-debt
+PROJ-D-1565,Story,High,Duplicate,Infra,PROJ-C,user_5,dev_11,5.0,115.7,4,2,0,Sprint 2,flaky-test
+PROJ-A-1566,Story,High,Resolved,Frontend,PROJ-A,user_9,dev_14,21.0,36.1,5,3,0,Sprint 2,
+PROJ-C-1567,Story,High,Done,Database,PROJ-B,user_23,dev_7,8.0,29.1,3,1,0,Sprint 3,performance
+PROJ-C-1568,Improvement,Low,Done,Backend,PROJ-B,user_8,dev_7,,79.5,0,1,0,,tech-debt
+PROJ-B-1569,Bug,Low,Done,Mobile,PROJ-B,user_16,dev_8,,430.4,0,1,0,,
+PROJ-D-1570,Story,Medium,Done,Infra,PROJ-B,user_14,dev_5,3.0,65.7,3,1,0,Sprint 13,frontend
+PROJ-A-1571,Task,Low,Closed,Frontend,PROJ-C,user_13,dev_5,,1.9,0,2,0,Sprint 12,frontend
+PROJ-D-1572,Story,High,Resolved,Backend,PROJ-D,user_23,dev_1,8.0,63.0,5,2,0,Sprint 1,flaky-test
+PROJ-B-1573,Story,Medium,Done,Auth,PROJ-D,user_21,dev_14,3.0,0.5,1,1,0,Sprint 18,
+PROJ-D-1574,Improvement,High,Done,API,PROJ-C,user_13,dev_9,,9.4,10,6,0,,tech-debt
+PROJ-A-1575,Epic,Medium,Closed,Testing,PROJ-A,user_5,,3.0,147.1,2,1,0,,ux
+PROJ-B-1576,Bug,Low,Won't Fix,Auth,PROJ-D,user_16,dev_9,,24.5,1,1,0,,frontend
+PROJ-D-1577,Epic,Medium,Done,Testing,PROJ-A,user_11,dev_3,8.0,14.7,3,1,0,,
+PROJ-A-1578,Story,Medium,Done,API,PROJ-D,user_22,dev_5,1.0,131.9,4,4,0,Sprint 5,ux
+PROJ-A-1579,Bug,Medium,Won't Fix,Database,PROJ-A,user_5,dev_2,,45.2,1,2,0,,performance
+PROJ-B-1580,Story,High,Done,Frontend,PROJ-C,user_13,dev_10,1.0,22.8,2,5,0,Sprint 19,
+PROJ-B-1581,Sub-task,Low,Resolved,Database,PROJ-B,user_11,dev_5,1.0,254.1,4,1,0,Sprint 10,frontend
+PROJ-C-1582,Story,Medium,Closed,API,PROJ-A,user_19,dev_13,13.0,97.6,2,5,0,Sprint 6,
+PROJ-C-1583,Bug,Medium,Done,API,PROJ-B,user_3,dev_13,,1.6,6,3,0,,frontend
+PROJ-A-1584,Task,Medium,Done,API,PROJ-A,user_15,dev_13,,4.8,4,5,0,Sprint 18,backend
+PROJ-B-1585,Bug,Medium,Won't Fix,Testing,PROJ-A,user_7,dev_14,,76.2,3,3,0,,
+PROJ-B-1586,Bug,Critical,Done,Infra,PROJ-A,user_7,dev_8,,3.9,10,8,1,,regression
+PROJ-D-1587,Bug,Medium,Done,Backend,PROJ-A,user_6,dev_11,,24.5,2,2,0,,
+PROJ-D-1588,Bug,High,Closed,Frontend,PROJ-A,user_3,dev_2,,22.1,6,4,0,,regression
+PROJ-D-1589,Bug,Medium,Done,Database,PROJ-B,user_13,dev_8,,34.0,5,1,0,,security
+PROJ-D-1590,Bug,Low,Closed,Database,PROJ-A,user_7,dev_4,,126.9,1,1,0,,frontend
+PROJ-C-1591,Task,Low,Won't Fix,Auth,PROJ-B,user_5,dev_10,,404.4,0,1,0,Sprint 15,
+PROJ-D-1592,Bug,Medium,Won't Fix,Testing,PROJ-C,user_23,dev_10,,43.1,3,3,0,,
+PROJ-B-1593,Bug,Medium,Done,API,PROJ-D,user_18,dev_1,,36.1,6,1,0,,performance
+PROJ-A-1594,Improvement,High,Done,Mobile,PROJ-A,user_22,dev_13,,4.8,5,5,0,,regression
+PROJ-A-1595,Story,Medium,Done,API,PROJ-D,user_8,dev_5,1.0,53.2,3,1,0,Sprint 14,security
+PROJ-A-1596,Task,High,Won't Fix,API,PROJ-B,user_17,dev_13,,18.7,6,4,0,Sprint 24,ux
+PROJ-C-1597,Bug,Medium,Done,Mobile,PROJ-C,user_20,dev_1,,40.3,4,1,0,,
+PROJ-A-1598,Bug,High,Done,Database,PROJ-C,user_1,dev_7,,10.0,7,3,0,,
+PROJ-C-1599,Bug,High,Resolved,Auth,PROJ-C,user_14,dev_8,,84.9,4,11,0,,ux
+PROJ-C-1600,Bug,Medium,Closed,Backend,PROJ-D,user_17,dev_3,,48.9,4,4,0,,
+PROJ-A-1601,Bug,Critical,Done,Mobile,PROJ-B,user_10,dev_3,,3.0,4,5,0,,
+PROJ-C-1602,Bug,Medium,Done,Testing,PROJ-A,user_12,dev_7,,90.8,5,1,0,,tech-debt
+PROJ-D-1603,Bug,High,Closed,Infra,PROJ-A,user_16,dev_4,,10.4,4,3,0,,frontend
+PROJ-D-1604,Bug,Critical,Resolved,Frontend,PROJ-B,user_14,dev_3,,1.1,4,5,1,,regression
+PROJ-D-1605,Story,Medium,Closed,Testing,PROJ-D,user_16,dev_8,3.0,216.4,1,3,0,Sprint 16,
+PROJ-C-1606,Bug,Critical,Done,Mobile,PROJ-A,user_8,dev_3,,8.9,3,4,0,,
+PROJ-D-1607,Bug,High,Done,Backend,PROJ-B,user_23,dev_13,,42.2,5,4,0,,regression
+PROJ-A-1608,Story,Medium,Resolved,Database,PROJ-A,user_10,dev_14,21.0,26.2,1,6,0,Sprint 4,ux
+PROJ-A-1609,Task,Critical,Won't Fix,Infra,PROJ-C,user_17,dev_7,,0.5,12,8,0,Sprint 19,regression
+PROJ-C-1610,Bug,Low,Done,Infra,PROJ-A,user_18,dev_2,,103.8,2,1,1,,ux
+PROJ-C-1611,Task,Critical,Done,Infra,PROJ-D,user_20,dev_11,,5.6,7,8,0,Sprint 21,frontend
+PROJ-D-1612,Story,High,Closed,API,PROJ-B,user_16,dev_11,2.0,46.2,2,3,0,Sprint 8,ux
+PROJ-B-1613,Bug,Medium,Closed,Frontend,PROJ-D,user_17,dev_1,,33.8,3,3,0,,backend
+PROJ-A-1614,Improvement,High,Done,Database,PROJ-B,user_16,dev_12,,99.3,7,4,0,,performance
+PROJ-B-1615,Epic,High,Closed,Database,PROJ-C,user_19,dev_6,8.0,115.5,4,8,0,,flaky-test
+PROJ-D-1616,Bug,Medium,Duplicate,Infra,PROJ-B,user_24,dev_8,,118.2,5,1,0,,security
+PROJ-C-1617,Bug,High,Closed,Database,PROJ-A,user_24,dev_1,,8.2,4,3,0,,tech-debt
+PROJ-D-1618,Task,Low,Done,Frontend,PROJ-A,user_8,dev_13,,36.2,0,1,0,Sprint 1,performance
+PROJ-B-1619,Task,High,Resolved,Frontend,PROJ-C,user_6,dev_10,,16.1,7,5,0,Sprint 20,flaky-test
+PROJ-D-1620,Bug,Low,Done,Auth,PROJ-B,user_6,dev_12,,130.4,0,2,0,,frontend
+PROJ-C-1621,Bug,Low,Done,Mobile,PROJ-C,user_21,dev_9,,74.6,1,1,0,,tech-debt
+PROJ-B-1622,Bug,Medium,Closed,Mobile,PROJ-A,user_9,dev_3,,69.9,3,1,0,,performance
+PROJ-D-1623,Story,Low,Closed,Auth,PROJ-D,user_4,dev_3,21.0,67.5,0,1,0,Sprint 22,regression
+PROJ-C-1624,Story,Medium,Won't Fix,Backend,PROJ-C,user_12,dev_4,2.0,76.1,6,1,1,Sprint 22,frontend
+PROJ-D-1625,Bug,Low,Done,Mobile,PROJ-D,user_12,dev_11,,119.6,0,2,0,,flaky-test
+PROJ-D-1626,Story,High,Done,Frontend,PROJ-D,user_23,,21.0,76.2,6,3,0,Sprint 13,security
+PROJ-C-1627,Task,Medium,Won't Fix,Frontend,PROJ-B,user_17,dev_9,,58.2,6,1,0,Sprint 9,regression
+PROJ-C-1628,Bug,Medium,Done,Mobile,PROJ-C,user_15,dev_11,,63.3,5,1,1,,frontend
+PROJ-D-1629,Bug,Medium,Done,Frontend,PROJ-D,user_9,dev_3,,153.3,1,1,0,,performance
+PROJ-A-1630,Task,Medium,Closed,Auth,PROJ-D,user_7,dev_13,,83.7,4,2,0,Sprint 1,performance
+PROJ-D-1631,Improvement,Medium,Duplicate,Infra,PROJ-B,user_10,dev_10,,33.4,4,2,0,,security
+PROJ-C-1632,Story,Critical,Closed,Infra,PROJ-B,user_16,dev_4,13.0,0.8,3,3,0,Sprint 15,backend
+PROJ-A-1633,Story,High,Done,Database,PROJ-A,user_12,dev_1,2.0,0.5,4,2,0,Sprint 15,regression
+PROJ-C-1634,Bug,Medium,Closed,Testing,PROJ-D,user_7,dev_4,,12.4,0,3,0,,
+PROJ-D-1635,Story,Medium,Duplicate,Testing,PROJ-A,user_18,dev_13,5.0,19.0,2,2,0,Sprint 14,regression
+PROJ-B-1636,Story,Low,Resolved,Infra,PROJ-D,user_15,dev_1,1.0,8.9,0,3,0,Sprint 5,security
+PROJ-C-1637,Bug,Medium,Done,API,PROJ-A,user_6,dev_5,,41.0,4,3,1,,tech-debt
+PROJ-C-1638,Bug,Low,Resolved,Auth,PROJ-B,user_12,dev_5,,100.9,0,2,0,,ux
+PROJ-B-1639,Bug,Medium,Resolved,Frontend,PROJ-C,user_11,dev_14,,160.3,7,1,0,,
+PROJ-C-1640,Bug,High,Resolved,Mobile,PROJ-B,user_20,dev_11,,30.9,3,2,0,,security
+PROJ-C-1641,Bug,High,Resolved,Infra,PROJ-A,user_3,dev_7,,52.7,5,4,0,,flaky-test
+PROJ-C-1642,Bug,Low,Done,Auth,PROJ-A,user_2,dev_14,,639.4,0,1,0,,
+PROJ-B-1643,Bug,Medium,Closed,Infra,PROJ-C,user_6,dev_8,,168.3,5,3,0,,
+PROJ-D-1644,Bug,Critical,Resolved,Backend,PROJ-D,user_24,dev_4,,21.7,12,3,0,,tech-debt
+PROJ-C-1645,Improvement,Medium,Done,Frontend,PROJ-A,user_22,dev_7,,246.6,2,1,0,,frontend
+PROJ-A-1646,Story,Low,Done,Backend,PROJ-A,user_5,dev_4,13.0,591.4,2,1,0,Sprint 17,backend
+PROJ-D-1647,Task,Medium,Done,Frontend,PROJ-A,user_18,dev_3,,87.0,1,1,0,Sprint 6,regression
+PROJ-D-1648,Task,Medium,Resolved,Auth,PROJ-C,user_16,dev_6,,9.4,3,2,0,Sprint 9,frontend
+PROJ-A-1649,Story,Medium,Resolved,Database,PROJ-B,user_8,dev_4,21.0,224.0,2,1,0,Sprint 20,
+PROJ-A-1650,Bug,High,Done,Infra,PROJ-A,user_20,dev_14,,16.5,4,2,0,,tech-debt
+PROJ-A-1651,Story,Medium,Resolved,Infra,PROJ-C,user_22,dev_3,3.0,41.3,1,1,0,Sprint 19,ux
+PROJ-B-1652,Story,Medium,Resolved,API,PROJ-A,user_11,dev_9,1.0,510.6,3,2,0,Sprint 23,frontend
+PROJ-C-1653,Task,Critical,Won't Fix,Mobile,PROJ-D,user_10,dev_5,,26.6,7,9,0,Sprint 21,
+PROJ-D-1654,Story,Medium,Done,Backend,PROJ-C,user_24,dev_13,1.0,15.2,3,1,0,Sprint 17,ux
+PROJ-A-1655,Bug,Medium,Closed,Infra,PROJ-A,user_12,dev_14,,200.6,2,1,0,,frontend
+PROJ-C-1656,Bug,Low,Resolved,Auth,PROJ-C,user_21,dev_7,,30.9,1,1,0,,regression
+PROJ-C-1657,Bug,Low,Done,Database,PROJ-A,user_6,dev_12,,31.4,0,1,0,,tech-debt
+PROJ-B-1658,Task,High,Done,Mobile,PROJ-B,user_20,dev_14,,10.4,6,4,0,Sprint 7,frontend
+PROJ-D-1659,Story,Medium,Done,Auth,PROJ-A,user_5,dev_6,2.0,53.5,6,1,0,Sprint 8,regression
+PROJ-C-1660,Bug,Medium,Resolved,Backend,PROJ-C,user_23,dev_10,,27.7,3,3,0,,regression
+PROJ-A-1661,Sub-task,Low,Done,API,PROJ-D,user_9,dev_5,1.0,484.2,2,1,0,Sprint 15,backend
+PROJ-A-1662,Story,High,Done,Infra,PROJ-D,user_16,dev_7,21.0,14.9,4,3,0,Sprint 6,
+PROJ-B-1663,Bug,Medium,Done,Auth,PROJ-D,user_22,dev_11,,18.0,3,1,0,,tech-debt
+PROJ-A-1664,Bug,Medium,Done,Mobile,PROJ-A,user_14,dev_6,,3.2,1,2,0,,security
+PROJ-A-1665,Bug,High,Won't Fix,Frontend,PROJ-B,user_22,dev_10,,1.5,7,2,0,,flaky-test
+PROJ-B-1666,Bug,High,Done,Database,PROJ-A,user_8,dev_2,,11.9,4,4,0,,security
+PROJ-B-1667,Bug,Medium,Closed,Mobile,PROJ-D,user_20,dev_13,,125.4,3,1,1,,tech-debt
+PROJ-A-1668,Bug,Medium,Done,Auth,PROJ-C,user_19,dev_13,,72.8,2,1,1,,
+PROJ-D-1669,Bug,High,Done,Database,PROJ-D,user_14,dev_13,,0.8,8,5,0,,frontend
+PROJ-D-1670,Bug,Medium,Won't Fix,Infra,PROJ-C,user_7,dev_3,,162.6,5,1,0,,frontend
+PROJ-B-1671,Improvement,Medium,Duplicate,Frontend,PROJ-B,user_5,,,198.9,4,2,0,,performance
+PROJ-D-1672,Bug,Medium,Done,API,PROJ-C,user_18,dev_12,,24.6,3,1,0,,security
+PROJ-D-1673,Story,High,Done,Mobile,PROJ-A,user_2,dev_3,21.0,44.8,6,3,1,Sprint 1,
+PROJ-D-1674,Story,Low,Done,API,PROJ-A,user_11,dev_1,8.0,366.7,0,1,0,Sprint 9,regression
+PROJ-B-1675,Sub-task,High,Done,Frontend,PROJ-A,user_22,dev_8,1.0,9.0,3,4,0,Sprint 7,ux
+PROJ-D-1676,Bug,Medium,Closed,Database,PROJ-C,user_8,dev_6,,130.8,2,4,0,,
+PROJ-A-1677,Story,Critical,Done,Infra,PROJ-A,user_1,dev_13,1.0,3.4,10,12,0,Sprint 22,
+PROJ-A-1678,Sub-task,High,Resolved,Auth,PROJ-A,user_22,dev_2,2.0,3.6,4,3,0,Sprint 20,flaky-test
+PROJ-B-1679,Improvement,Medium,Resolved,Frontend,PROJ-A,user_12,dev_8,,78.8,4,3,0,,regression
+PROJ-D-1680,Improvement,High,Done,Backend,PROJ-B,user_2,dev_6,,19.4,5,2,0,,security
+PROJ-C-1681,Bug,Low,Resolved,Database,PROJ-C,user_18,dev_7,,215.1,0,1,1,,
+PROJ-C-1682,Bug,Critical,Resolved,API,PROJ-C,user_7,dev_11,,13.7,7,6,0,,
+PROJ-A-1683,Task,Medium,Closed,Mobile,PROJ-D,user_17,dev_1,,63.2,2,2,0,Sprint 19,
+PROJ-A-1684,Epic,Medium,Won't Fix,Frontend,PROJ-C,user_22,dev_7,2.0,289.2,2,2,0,,flaky-test
+PROJ-C-1685,Story,Critical,Resolved,API,PROJ-B,user_23,dev_3,3.0,3.4,9,2,0,Sprint 4,backend
+PROJ-B-1686,Story,High,Closed,Database,PROJ-C,user_14,dev_11,13.0,1.7,2,1,0,Sprint 1,tech-debt
+PROJ-D-1687,Bug,Medium,Won't Fix,API,PROJ-B,user_24,,,96.9,1,3,0,,security
+PROJ-C-1688,Task,Medium,Closed,Frontend,PROJ-B,user_7,dev_8,,221.5,2,4,0,Sprint 9,flaky-test
+PROJ-D-1689,Bug,Medium,Closed,Database,PROJ-C,user_22,dev_6,,15.1,2,3,0,,
+PROJ-C-1690,Bug,Medium,Done,Backend,PROJ-D,user_3,dev_4,,16.8,7,1,0,,frontend
+PROJ-A-1691,Story,Medium,Won't Fix,Frontend,PROJ-A,user_6,,13.0,303.5,2,1,0,Sprint 2,performance
+PROJ-D-1692,Story,Critical,Done,Auth,PROJ-A,user_20,dev_8,13.0,4.5,9,3,0,Sprint 16,backend
+PROJ-B-1693,Bug,Medium,Done,Testing,PROJ-C,user_2,dev_9,,73.0,1,1,0,,frontend
+PROJ-D-1694,Bug,Low,Closed,Infra,PROJ-C,user_17,dev_10,,303.3,1,4,0,,
+PROJ-D-1695,Story,Medium,Closed,Frontend,PROJ-B,user_12,dev_2,5.0,36.3,2,5,0,Sprint 2,ux
+PROJ-C-1696,Bug,Medium,Resolved,Database,PROJ-C,user_12,dev_6,,61.1,3,3,0,,frontend
+PROJ-B-1697,Story,High,Closed,Mobile,PROJ-B,user_17,dev_5,2.0,84.5,6,2,0,Sprint 3,regression
+PROJ-A-1698,Bug,Medium,Done,Infra,PROJ-D,user_10,dev_5,,51.7,0,1,0,,regression
+PROJ-D-1699,Story,Medium,Won't Fix,Frontend,PROJ-C,user_3,dev_10,3.0,11.3,3,2,0,Sprint 14,regression
+PROJ-D-1700,Story,Medium,Resolved,Backend,PROJ-A,user_20,dev_11,8.0,576.0,2,1,1,Sprint 13,
+PROJ-C-1701,Bug,Low,Won't Fix,Mobile,PROJ-A,user_18,dev_3,,93.0,0,1,0,,performance
+PROJ-A-1702,Bug,High,Done,Backend,PROJ-C,user_13,dev_12,,13.1,6,2,0,,
+PROJ-C-1703,Bug,Critical,Closed,Auth,PROJ-B,user_12,dev_8,,3.3,10,7,1,,performance
+PROJ-B-1704,Bug,Medium,Resolved,Mobile,PROJ-A,user_17,,,31.7,4,5,0,,
+PROJ-A-1705,Sub-task,Low,Done,API,PROJ-B,user_4,dev_8,3.0,101.3,0,1,0,Sprint 17,flaky-test
+PROJ-B-1706,Bug,High,Resolved,Testing,PROJ-C,user_23,dev_12,,25.9,3,7,0,,security
+PROJ-C-1707,Task,High,Done,Mobile,PROJ-C,user_10,dev_5,,17.1,6,5,0,Sprint 10,regression
+PROJ-A-1708,Bug,Critical,Closed,Infra,PROJ-A,user_11,dev_8,,0.5,7,9,0,,tech-debt
+PROJ-B-1709,Task,High,Closed,Mobile,PROJ-C,user_6,dev_10,,9.8,4,7,0,Sprint 3,performance
+PROJ-B-1710,Task,Medium,Closed,Database,PROJ-D,user_6,dev_8,,12.5,5,3,0,Sprint 4,
+PROJ-C-1711,Story,Medium,Closed,Testing,PROJ-D,user_9,dev_3,13.0,3.1,1,1,0,Sprint 5,
+PROJ-A-1712,Story,Medium,Done,Database,PROJ-A,user_15,dev_2,8.0,258.7,1,3,0,Sprint 11,performance
+PROJ-B-1713,Story,Medium,Resolved,API,PROJ-D,user_2,dev_9,8.0,186.2,4,1,0,Sprint 6,regression
+PROJ-D-1714,Bug,Critical,Done,Mobile,PROJ-B,user_4,dev_2,,1.6,8,3,0,,ux
+PROJ-A-1715,Epic,High,Done,Backend,PROJ-A,user_5,dev_9,1.0,47.0,6,4,0,,security
+PROJ-A-1716,Improvement,Medium,Done,Backend,PROJ-A,user_17,dev_4,,14.7,9,2,0,,tech-debt
+PROJ-D-1717,Sub-task,Low,Done,Frontend,PROJ-B,user_8,dev_12,3.0,55.9,1,1,0,Sprint 1,
+PROJ-A-1718,Bug,Low,Closed,Auth,PROJ-D,user_8,dev_13,,18.3,0,1,0,,
+PROJ-A-1719,Task,Critical,Resolved,Infra,PROJ-D,user_22,dev_2,,0.5,9,11,0,Sprint 19,
+PROJ-D-1720,Epic,Low,Done,Testing,PROJ-D,user_12,dev_10,5.0,425.0,0,1,0,,ux
+PROJ-C-1721,Bug,Low,Done,Auth,PROJ-A,user_21,dev_1,,143.7,1,1,1,,ux
+PROJ-B-1722,Bug,Low,Done,Mobile,PROJ-A,user_8,dev_4,,83.4,0,1,0,,
+PROJ-D-1723,Task,Medium,Resolved,Auth,PROJ-D,user_19,dev_9,,60.8,2,2,0,Sprint 7,performance
+PROJ-A-1724,Story,Medium,Done,Frontend,PROJ-C,user_3,dev_12,1.0,12.9,5,2,0,Sprint 23,
+PROJ-B-1725,Improvement,High,Done,Auth,PROJ-D,user_18,,,1.6,1,1,0,,backend
+PROJ-B-1726,Bug,Critical,Closed,Testing,PROJ-B,user_21,dev_4,,4.3,7,7,0,,performance
+PROJ-B-1727,Task,High,Done,API,PROJ-A,user_19,dev_9,,53.3,3,4,0,Sprint 10,flaky-test
+PROJ-C-1728,Bug,High,Done,Frontend,PROJ-B,user_19,dev_12,,19.4,11,3,0,,flaky-test
+PROJ-A-1729,Bug,Medium,Done,API,PROJ-B,user_15,dev_6,,49.9,3,2,0,,ux
+PROJ-A-1730,Bug,Medium,Done,Mobile,PROJ-A,user_6,dev_1,,16.3,1,1,0,,regression
+PROJ-B-1731,Improvement,Medium,Done,Frontend,PROJ-C,user_16,dev_10,,32.0,4,1,0,,security
+PROJ-B-1732,Task,Critical,Closed,Mobile,PROJ-D,user_8,dev_13,,15.7,18,8,0,Sprint 12,tech-debt
+PROJ-C-1733,Story,Low,Done,Mobile,PROJ-B,user_16,dev_14,3.0,318.5,2,3,0,Sprint 12,security
+PROJ-C-1734,Bug,Low,Done,Auth,PROJ-A,user_18,dev_6,,144.0,1,1,0,,
+PROJ-B-1735,Improvement,Low,Done,API,PROJ-B,user_20,dev_9,,170.4,0,1,0,,regression
+PROJ-A-1736,Story,Low,Closed,Mobile,PROJ-D,user_16,dev_13,3.0,1496.7,2,2,0,Sprint 1,ux
+PROJ-D-1737,Improvement,Medium,Won't Fix,API,PROJ-C,user_11,dev_2,,65.9,3,1,0,,
+PROJ-C-1738,Story,Low,Closed,API,PROJ-C,user_7,dev_6,2.0,194.7,1,1,0,Sprint 9,regression
+PROJ-A-1739,Bug,Critical,Closed,Frontend,PROJ-C,user_17,dev_2,,2.2,11,4,0,,performance
+PROJ-C-1740,Story,Medium,Resolved,Database,PROJ-A,user_17,dev_4,5.0,50.7,4,1,0,Sprint 17,performance
+PROJ-A-1741,Bug,High,Done,Auth,PROJ-A,user_12,dev_8,,23.1,3,5,0,,
+PROJ-B-1742,Task,High,Done,Mobile,PROJ-C,user_13,dev_13,,8.3,8,3,0,Sprint 23,flaky-test
+PROJ-C-1743,Story,High,Done,API,PROJ-D,user_10,dev_7,5.0,61.6,4,3,0,Sprint 12,backend
+PROJ-D-1744,Bug,Medium,Done,Infra,PROJ-D,user_7,,,110.7,2,3,0,,backend
+PROJ-B-1745,Improvement,Low,Done,Database,PROJ-A,user_14,dev_12,,135.8,2,3,0,,backend
+PROJ-C-1746,Story,Medium,Closed,Mobile,PROJ-C,user_23,dev_13,2.0,223.5,8,4,0,Sprint 2,regression
+PROJ-B-1747,Story,High,Done,Infra,PROJ-D,user_1,dev_9,8.0,30.6,5,7,1,Sprint 9,security
+PROJ-D-1748,Improvement,Low,Won't Fix,Auth,PROJ-D,user_17,dev_7,,255.4,1,1,0,,regression
+PROJ-C-1749,Story,Medium,Won't Fix,Auth,PROJ-D,user_4,dev_1,1.0,101.5,2,1,0,Sprint 12,backend
+PROJ-C-1750,Bug,Medium,Duplicate,API,PROJ-A,user_21,dev_2,,2.9,2,6,0,,security
+PROJ-C-1751,Epic,Medium,Done,API,PROJ-C,user_5,dev_6,5.0,444.5,3,3,0,,security
+PROJ-A-1752,Story,High,Won't Fix,Testing,PROJ-B,user_20,dev_7,2.0,31.6,5,2,0,Sprint 4,frontend
+PROJ-A-1753,Bug,Medium,Resolved,Testing,PROJ-C,user_24,dev_3,,47.3,6,4,0,,backend
+PROJ-C-1754,Bug,Low,Won't Fix,Mobile,PROJ-C,user_23,dev_9,,16.1,1,2,0,,tech-debt
+PROJ-B-1755,Task,High,Closed,Frontend,PROJ-A,user_7,dev_13,,3.8,4,7,0,Sprint 22,regression
+PROJ-B-1756,Story,Medium,Resolved,Database,PROJ-D,user_10,dev_7,21.0,251.7,2,1,0,Sprint 12,security
+PROJ-C-1757,Story,Low,Done,Mobile,PROJ-D,user_17,dev_14,3.0,497.4,0,2,0,Sprint 18,frontend
+PROJ-D-1758,Improvement,Medium,Done,Database,PROJ-A,user_7,dev_6,,74.4,3,2,0,,ux
+PROJ-D-1759,Task,Critical,Done,API,PROJ-A,user_1,dev_13,,20.0,14,5,1,Sprint 3,
+PROJ-D-1760,Bug,High,Won't Fix,Auth,PROJ-A,user_7,dev_6,,28.1,4,3,1,,flaky-test
+PROJ-A-1761,Bug,Critical,Done,API,PROJ-A,user_24,dev_1,,10.4,7,5,1,,security
+PROJ-A-1762,Bug,Medium,Done,Auth,PROJ-A,user_11,dev_13,,64.6,5,3,0,,ux
+PROJ-A-1763,Task,Medium,Won't Fix,Testing,PROJ-B,user_9,dev_5,,7.9,3,1,0,Sprint 22,tech-debt
+PROJ-A-1764,Bug,High,Done,Mobile,PROJ-C,user_12,dev_10,,13.5,6,4,0,,
+PROJ-B-1765,Story,Low,Won't Fix,Testing,PROJ-C,user_3,dev_3,13.0,57.7,0,1,0,Sprint 1,ux
+PROJ-C-1766,Task,Medium,Resolved,Auth,PROJ-C,user_4,dev_7,,34.6,0,4,0,Sprint 23,regression
+PROJ-C-1767,Improvement,High,Done,API,PROJ-D,user_4,dev_10,,0.7,11,4,0,,
+PROJ-C-1768,Bug,Medium,Done,Testing,PROJ-B,user_13,dev_3,,25.3,2,2,0,,regression
+PROJ-B-1769,Improvement,Medium,Closed,Backend,PROJ-C,user_23,dev_5,,35.6,4,1,0,,tech-debt
+PROJ-D-1770,Bug,Critical,Duplicate,Database,PROJ-D,user_19,dev_7,,27.9,8,13,0,,
+PROJ-D-1771,Improvement,High,Won't Fix,Infra,PROJ-B,user_10,dev_14,,9.7,5,4,1,,ux
+PROJ-A-1772,Bug,Low,Done,Auth,PROJ-B,user_5,dev_3,,69.0,0,2,0,,backend
+PROJ-A-1773,Story,Medium,Done,Auth,PROJ-D,user_7,dev_13,21.0,16.8,3,1,0,Sprint 18,security
+PROJ-B-1774,Task,Medium,Done,Backend,PROJ-B,user_24,dev_13,,148.6,4,3,0,Sprint 24,performance
+PROJ-B-1775,Bug,Medium,Resolved,Mobile,PROJ-D,user_16,dev_10,,19.3,2,2,0,,frontend
+PROJ-D-1776,Bug,Critical,Done,Mobile,PROJ-C,user_1,dev_2,,7.7,3,6,0,,flaky-test
+PROJ-C-1777,Task,High,Done,Mobile,PROJ-D,user_12,dev_6,,13.5,4,4,0,Sprint 21,flaky-test
+PROJ-C-1778,Task,Medium,Resolved,Infra,PROJ-B,user_2,dev_8,,58.6,2,1,0,Sprint 23,tech-debt
+PROJ-B-1779,Task,High,Done,Frontend,PROJ-C,user_7,dev_4,,4.4,7,5,0,Sprint 8,
+PROJ-B-1780,Task,Critical,Done,Backend,PROJ-C,user_11,dev_9,,20.0,4,7,0,Sprint 19,ux
+PROJ-B-1781,Story,Low,Resolved,Infra,PROJ-A,user_13,dev_12,2.0,112.7,0,2,0,Sprint 22,backend
+PROJ-A-1782,Bug,Low,Closed,Testing,PROJ-A,user_2,dev_12,,88.4,1,1,0,,regression
+PROJ-C-1783,Bug,Low,Done,Backend,PROJ-B,user_7,dev_8,,46.4,1,1,0,,regression
+PROJ-B-1784,Bug,Low,Resolved,Auth,PROJ-D,user_15,dev_7,,122.2,1,1,0,,
+PROJ-B-1785,Improvement,High,Closed,Database,PROJ-D,user_11,dev_14,,70.6,3,3,0,,tech-debt
+PROJ-A-1786,Story,Low,Closed,Backend,PROJ-B,user_2,,13.0,149.5,0,1,0,Sprint 4,
+PROJ-B-1787,Story,High,Won't Fix,Frontend,PROJ-C,user_7,dev_3,8.0,1.6,6,1,0,Sprint 23,frontend
+PROJ-C-1788,Story,Low,Closed,API,PROJ-B,user_4,,1.0,183.4,0,1,0,Sprint 16,
+PROJ-A-1789,Epic,Low,Resolved,Testing,PROJ-B,user_11,dev_6,13.0,78.5,0,1,0,,
+PROJ-B-1790,Bug,Medium,Closed,Infra,PROJ-C,user_2,dev_13,,4.3,3,1,0,,
+PROJ-C-1791,Story,Low,Closed,Testing,PROJ-D,user_16,dev_13,8.0,156.3,2,1,0,Sprint 17,regression
+PROJ-C-1792,Story,Medium,Done,Testing,PROJ-B,user_7,dev_5,13.0,153.2,3,4,0,Sprint 23,backend
+PROJ-A-1793,Story,High,Done,Backend,PROJ-D,user_13,dev_1,3.0,77.6,4,4,0,Sprint 9,
+PROJ-C-1794,Bug,Medium,Resolved,Backend,PROJ-B,user_5,dev_11,,132.6,3,3,0,,tech-debt
+PROJ-A-1795,Improvement,Medium,Done,Frontend,PROJ-C,user_17,dev_3,,225.0,2,2,0,,
+PROJ-C-1796,Epic,Critical,Done,Database,PROJ-C,user_21,dev_13,3.0,13.2,11,8,0,,backend
+PROJ-B-1797,Story,Medium,Resolved,Backend,PROJ-A,user_12,dev_12,3.0,103.2,3,4,0,Sprint 8,tech-debt
+PROJ-A-1798,Task,Low,Done,Backend,PROJ-C,user_19,dev_1,,769.9,1,1,0,Sprint 20,flaky-test
+PROJ-C-1799,Epic,High,Resolved,Database,PROJ-A,user_7,dev_4,3.0,8.9,5,5,0,,ux
+PROJ-A-1800,Task,Low,Done,Frontend,PROJ-B,user_6,dev_10,,54.6,0,1,0,Sprint 19,regression
+PROJ-C-1801,Bug,Low,Done,Infra,PROJ-D,user_8,dev_3,,268.6,2,1,0,,security
+PROJ-A-1802,Story,Low,Done,Testing,PROJ-C,user_13,dev_11,2.0,0.9,0,1,1,Sprint 7,
+PROJ-B-1803,Story,Low,Done,Infra,PROJ-C,user_5,dev_4,3.0,56.6,0,1,0,Sprint 12,
+PROJ-A-1804,Story,Medium,Done,Backend,PROJ-C,user_2,dev_9,21.0,5.8,3,1,0,Sprint 1,
+PROJ-A-1805,Task,Low,Done,Database,PROJ-B,user_9,dev_3,,29.8,0,1,0,Sprint 24,backend
+PROJ-B-1806,Epic,Medium,Done,Backend,PROJ-A,user_11,dev_12,3.0,77.4,5,4,0,,
+PROJ-C-1807,Epic,High,Resolved,Mobile,PROJ-B,user_24,,21.0,120.7,8,2,0,,performance
+PROJ-D-1808,Story,Medium,Done,API,PROJ-D,user_6,dev_6,2.0,53.3,2,3,0,Sprint 17,frontend
+PROJ-B-1809,Bug,Medium,Resolved,Infra,PROJ-B,user_7,dev_7,,0.5,7,1,0,,security
+PROJ-A-1810,Sub-task,High,Closed,Mobile,PROJ-D,user_7,dev_9,3.0,1.5,5,3,0,Sprint 23,security
+PROJ-B-1811,Improvement,Medium,Done,Auth,PROJ-C,user_19,dev_12,,57.6,1,3,0,,
+PROJ-B-1812,Bug,Medium,Done,API,PROJ-D,user_6,dev_7,,114.6,6,1,0,,security
+PROJ-A-1813,Epic,High,Done,Backend,PROJ-D,user_11,dev_14,8.0,13.7,8,2,0,,ux
+PROJ-A-1814,Improvement,Medium,Won't Fix,Frontend,PROJ-A,user_11,dev_1,,39.0,0,2,0,,regression
+PROJ-D-1815,Story,Medium,Won't Fix,Infra,PROJ-D,user_7,dev_8,8.0,566.9,2,1,0,Sprint 6,security
+PROJ-B-1816,Story,Medium,Done,Auth,PROJ-D,user_2,dev_5,5.0,91.5,3,3,1,Sprint 24,backend
+PROJ-A-1817,Story,Critical,Closed,API,PROJ-B,user_19,dev_9,8.0,2.8,12,7,1,Sprint 22,frontend
+PROJ-C-1818,Bug,Critical,Duplicate,Infra,PROJ-C,user_4,dev_10,,14.8,8,3,0,,performance
+PROJ-C-1819,Bug,Medium,Resolved,Database,PROJ-B,user_6,dev_13,,95.4,2,1,0,,security
+PROJ-C-1820,Task,Low,Done,Frontend,PROJ-B,user_17,dev_12,,133.6,1,1,0,Sprint 5,ux
+PROJ-C-1821,Bug,High,Done,API,PROJ-C,user_5,dev_5,,67.4,6,3,0,,
+PROJ-B-1822,Bug,Medium,Done,Database,PROJ-C,user_7,dev_5,,81.2,2,1,0,,
+PROJ-B-1823,Story,High,Resolved,Mobile,PROJ-D,user_9,dev_12,1.0,22.7,0,3,1,Sprint 20,performance
+PROJ-D-1824,Story,High,Resolved,Backend,PROJ-D,user_1,dev_12,1.0,149.9,7,1,0,Sprint 7,
+PROJ-B-1825,Epic,Low,Closed,Database,PROJ-A,user_1,dev_14,1.0,1407.2,1,1,0,,backend
+PROJ-A-1826,Bug,Medium,Done,API,PROJ-B,user_19,dev_2,,50.1,3,1,1,,
+PROJ-D-1827,Bug,High,Won't Fix,Testing,PROJ-C,user_6,dev_12,,7.8,6,3,0,,
+PROJ-B-1828,Task,Medium,Resolved,API,PROJ-D,user_18,dev_11,,22.3,1,1,0,Sprint 22,tech-debt
+PROJ-B-1829,Story,Critical,Done,Testing,PROJ-C,user_10,dev_3,2.0,34.1,9,3,0,Sprint 22,tech-debt
+PROJ-A-1830,Bug,Medium,Done,Mobile,PROJ-D,user_11,dev_10,,223.1,4,3,1,,security
+PROJ-A-1831,Story,Medium,Closed,Backend,PROJ-A,user_1,dev_9,8.0,73.6,2,2,0,Sprint 12,flaky-test
+PROJ-A-1832,Bug,High,Done,Testing,PROJ-A,user_1,dev_7,,4.2,6,5,0,,security
+PROJ-C-1833,Bug,High,Done,Testing,PROJ-C,user_13,dev_1,,0.5,7,2,0,,performance
+PROJ-B-1834,Story,Medium,Done,Database,PROJ-A,user_5,dev_3,21.0,242.6,1,1,0,Sprint 5,flaky-test
+PROJ-B-1835,Story,Low,Duplicate,Database,PROJ-C,user_20,dev_12,1.0,397.0,0,1,0,Sprint 2,regression
+PROJ-B-1836,Epic,Low,Resolved,Backend,PROJ-D,user_1,dev_2,5.0,456.7,1,3,0,,backend
+PROJ-D-1837,Bug,Critical,Done,Database,PROJ-B,user_20,dev_1,,4.2,11,6,1,,
+PROJ-D-1838,Story,Medium,Won't Fix,Infra,PROJ-A,user_3,dev_9,2.0,41.2,2,2,0,Sprint 4,frontend
+PROJ-D-1839,Task,Medium,Resolved,Backend,PROJ-D,user_18,dev_8,,17.3,2,1,0,Sprint 17,performance
+PROJ-D-1840,Bug,Medium,Done,Frontend,PROJ-B,user_9,dev_5,,136.1,3,4,0,,ux
+PROJ-D-1841,Task,Medium,Won't Fix,Testing,PROJ-B,user_14,dev_11,,165.1,3,2,0,Sprint 8,performance
+PROJ-A-1842,Bug,Low,Closed,API,PROJ-B,user_17,dev_12,,155.6,0,3,0,,performance
+PROJ-D-1843,Sub-task,Low,Resolved,Frontend,PROJ-D,user_23,dev_2,1.0,123.8,0,1,0,Sprint 20,tech-debt
+PROJ-B-1844,Bug,Medium,Done,Testing,PROJ-D,user_14,dev_1,,114.1,3,1,0,,security
+PROJ-C-1845,Story,Medium,Closed,Infra,PROJ-C,user_4,dev_7,3.0,55.0,2,1,0,Sprint 5,
+PROJ-B-1846,Bug,Low,Done,Testing,PROJ-B,user_5,dev_13,,103.7,1,1,0,,frontend
+PROJ-B-1847,Sub-task,High,Done,Testing,PROJ-B,user_21,dev_11,3.0,52.5,3,5,0,Sprint 17,ux
+PROJ-A-1848,Story,Medium,Closed,Testing,PROJ-B,user_17,dev_11,2.0,58.2,5,1,0,Sprint 20,frontend
+PROJ-C-1849,Story,Medium,Won't Fix,Mobile,PROJ-C,user_22,dev_2,5.0,26.7,4,3,0,Sprint 4,
+PROJ-B-1850,Bug,Medium,Closed,Infra,PROJ-B,user_2,dev_1,,73.5,1,5,0,,
+PROJ-A-1851,Task,High,Done,Auth,PROJ-D,user_23,dev_2,,7.4,6,4,1,Sprint 21,tech-debt
+PROJ-C-1852,Bug,High,Done,Auth,PROJ-B,user_22,dev_7,,2.7,5,3,0,,performance
+PROJ-C-1853,Improvement,Low,Won't Fix,Auth,PROJ-A,user_5,,,41.0,0,2,0,,frontend
+PROJ-A-1854,Bug,High,Done,Backend,PROJ-D,user_4,dev_10,,10.0,4,2,0,,performance
+PROJ-D-1855,Bug,Medium,Done,Database,PROJ-C,user_4,dev_6,,16.6,6,1,0,,performance
+PROJ-A-1856,Bug,High,Resolved,Infra,PROJ-B,user_6,dev_5,,45.0,6,5,0,,backend
+PROJ-A-1857,Story,Critical,Won't Fix,Frontend,PROJ-A,user_20,dev_3,5.0,6.7,7,7,0,Sprint 18,performance
+PROJ-D-1858,Story,Critical,Resolved,Mobile,PROJ-C,user_21,dev_14,13.0,15.6,5,5,0,Sprint 18,performance
+PROJ-A-1859,Bug,High,Done,Frontend,PROJ-C,user_13,dev_12,,40.5,6,3,0,,security
+PROJ-A-1860,Task,Low,Done,Frontend,PROJ-D,user_22,dev_3,,233.4,1,1,0,Sprint 18,tech-debt
+PROJ-A-1861,Story,High,Resolved,Frontend,PROJ-C,user_5,dev_11,2.0,95.3,4,2,0,Sprint 16,
+PROJ-B-1862,Story,Low,Won't Fix,Mobile,PROJ-C,user_23,,2.0,108.0,1,1,0,Sprint 11,backend
+PROJ-A-1863,Story,Medium,Duplicate,Auth,PROJ-C,user_23,dev_12,1.0,166.1,3,1,0,Sprint 8,backend
+PROJ-A-1864,Story,Medium,Closed,Frontend,PROJ-C,user_7,dev_9,8.0,86.1,3,2,0,Sprint 12,regression
+PROJ-C-1865,Story,Medium,Resolved,Mobile,PROJ-B,user_20,,5.0,123.1,3,2,0,Sprint 18,backend
+PROJ-C-1866,Bug,Medium,Done,Mobile,PROJ-B,user_1,dev_9,,160.5,1,2,0,,ux
+PROJ-C-1867,Bug,Medium,Done,Database,PROJ-B,user_14,dev_4,,58.6,7,1,0,,backend
+PROJ-A-1868,Improvement,High,Done,Mobile,PROJ-B,user_24,dev_2,,5.1,5,6,0,,tech-debt
+PROJ-D-1869,Epic,Medium,Duplicate,Auth,PROJ-A,user_4,dev_4,5.0,128.9,2,1,0,,ux
+PROJ-A-1870,Bug,Low,Done,Frontend,PROJ-B,user_17,dev_6,,74.5,0,1,0,,regression
+PROJ-B-1871,Bug,Low,Done,Mobile,PROJ-C,user_21,dev_6,,33.6,0,2,0,,security
+PROJ-B-1872,Task,Low,Won't Fix,Backend,PROJ-B,user_14,dev_5,,15.2,0,1,0,Sprint 22,tech-debt
+PROJ-B-1873,Story,Medium,Done,Mobile,PROJ-B,user_16,dev_1,21.0,93.0,4,3,0,Sprint 18,
+PROJ-B-1874,Bug,Low,Done,API,PROJ-D,user_14,dev_3,,129.3,3,1,0,,
+PROJ-A-1875,Bug,Medium,Resolved,API,PROJ-C,user_16,dev_5,,83.0,2,1,0,,backend
+PROJ-C-1876,Task,Medium,Resolved,API,PROJ-B,user_24,dev_6,,27.6,3,4,0,Sprint 8,flaky-test
+PROJ-A-1877,Task,High,Done,Mobile,PROJ-B,user_20,dev_14,,65.9,1,4,0,Sprint 16,security
+PROJ-A-1878,Bug,Medium,Won't Fix,Auth,PROJ-B,user_8,dev_1,,178.4,4,1,0,,
+PROJ-A-1879,Bug,High,Done,Frontend,PROJ-A,user_24,dev_14,,7.8,3,5,0,,
+PROJ-A-1880,Bug,Medium,Won't Fix,Infra,PROJ-B,user_3,,,5.8,3,1,1,,tech-debt
+PROJ-D-1881,Task,Low,Resolved,Infra,PROJ-D,user_19,dev_9,,368.1,0,1,0,Sprint 17,flaky-test
+PROJ-C-1882,Bug,High,Done,Infra,PROJ-C,user_1,dev_14,,14.0,4,5,1,,backend
+PROJ-C-1883,Bug,Critical,Resolved,Auth,PROJ-C,user_2,dev_3,,0.5,9,5,1,,backend
+PROJ-B-1884,Task,Critical,Done,Database,PROJ-B,user_15,dev_10,,10.4,4,9,1,Sprint 2,backend
+PROJ-A-1885,Bug,Low,Done,Testing,PROJ-B,user_22,dev_13,,147.6,1,2,0,,frontend
+PROJ-B-1886,Task,Medium,Won't Fix,Backend,PROJ-B,user_10,dev_3,,33.9,3,1,0,Sprint 21,
+PROJ-C-1887,Bug,Medium,Done,Backend,PROJ-C,user_18,dev_11,,19.1,2,2,0,,frontend
+PROJ-C-1888,Bug,Low,Done,API,PROJ-C,user_22,dev_2,,80.0,0,1,1,,
+PROJ-B-1889,Bug,Low,Done,API,PROJ-A,user_14,dev_8,,143.8,0,1,0,,ux
+PROJ-C-1890,Task,Medium,Done,Mobile,PROJ-D,user_17,dev_13,,2.0,6,2,0,Sprint 22,backend
+PROJ-C-1891,Improvement,Medium,Won't Fix,Infra,PROJ-A,user_13,dev_3,,106.3,0,2,0,,flaky-test
+PROJ-D-1892,Improvement,Medium,Won't Fix,Mobile,PROJ-D,user_1,dev_6,,42.5,3,3,0,,
+PROJ-A-1893,Story,Medium,Done,Testing,PROJ-A,user_5,dev_2,2.0,81.8,3,1,0,Sprint 15,frontend
+PROJ-A-1894,Task,High,Done,Infra,PROJ-C,user_13,dev_7,,80.1,7,6,0,Sprint 22,performance
+PROJ-C-1895,Bug,Low,Closed,API,PROJ-A,user_14,dev_13,,170.1,0,1,0,,security
+PROJ-C-1896,Bug,Medium,Done,Frontend,PROJ-D,user_24,dev_4,,15.8,5,3,0,,performance
+PROJ-D-1897,Improvement,High,Done,Database,PROJ-B,user_3,dev_9,,58.5,10,6,0,,performance
+PROJ-B-1898,Bug,Medium,Done,Mobile,PROJ-D,user_15,dev_14,,23.8,5,2,0,,
+PROJ-D-1899,Bug,Critical,Done,Database,PROJ-B,user_19,dev_10,,1.9,8,6,1,,security
+PROJ-D-1900,Bug,High,Closed,Database,PROJ-C,user_17,dev_9,,3.3,3,4,0,,tech-debt
+PROJ-B-1901,Bug,Medium,Won't Fix,Database,PROJ-D,user_3,dev_7,,13.4,2,3,0,,backend
+PROJ-C-1902,Bug,Critical,Resolved,API,PROJ-A,user_16,dev_12,,0.7,4,8,0,,regression
+PROJ-A-1903,Story,Medium,Resolved,Backend,PROJ-D,user_14,dev_8,2.0,26.2,1,1,0,Sprint 24,backend
+PROJ-D-1904,Story,Medium,Done,API,PROJ-B,user_12,dev_3,8.0,31.9,1,6,0,Sprint 7,ux
+PROJ-D-1905,Improvement,Critical,Won't Fix,Database,PROJ-C,user_12,dev_11,,5.4,6,3,1,,flaky-test
+PROJ-A-1906,Improvement,Low,Won't Fix,API,PROJ-A,user_11,dev_5,,100.7,0,3,0,,backend
+PROJ-D-1907,Bug,High,Won't Fix,Database,PROJ-D,user_17,dev_2,,1.9,7,7,0,,
+PROJ-B-1908,Bug,High,Done,Auth,PROJ-B,user_8,dev_10,,25.3,1,6,0,,
+PROJ-A-1909,Bug,High,Closed,Infra,PROJ-A,user_17,dev_7,,25.8,6,5,0,,
+PROJ-A-1910,Story,High,Closed,Backend,PROJ-C,user_21,dev_13,2.0,38.8,2,2,1,Sprint 1,regression
+PROJ-B-1911,Bug,Critical,Done,Auth,PROJ-A,user_23,dev_8,,0.5,12,8,0,,frontend
+PROJ-B-1912,Story,Medium,Duplicate,Frontend,PROJ-C,user_20,dev_9,3.0,5.8,0,2,0,Sprint 2,frontend
+PROJ-A-1913,Story,Low,Done,API,PROJ-A,user_11,dev_11,3.0,200.4,5,1,0,Sprint 4,
+PROJ-B-1914,Story,High,Done,Frontend,PROJ-D,user_2,dev_11,13.0,39.9,7,1,0,Sprint 16,security
+PROJ-D-1915,Story,Medium,Done,Mobile,PROJ-B,user_10,dev_7,3.0,547.1,2,4,0,Sprint 12,regression
+PROJ-C-1916,Bug,Medium,Done,API,PROJ-D,user_10,dev_10,,7.7,2,3,0,,
+PROJ-D-1917,Epic,Low,Won't Fix,Testing,PROJ-D,user_11,dev_10,3.0,125.7,0,1,1,,frontend
+PROJ-B-1918,Task,Medium,Done,Testing,PROJ-C,user_6,dev_13,,16.0,1,2,0,Sprint 17,security
+PROJ-D-1919,Bug,High,Done,Infra,PROJ-C,user_4,dev_8,,1.4,8,4,0,,frontend
+PROJ-C-1920,Improvement,High,Closed,Auth,PROJ-C,user_24,dev_12,,32.2,5,2,0,,performance
+PROJ-C-1921,Story,Medium,Done,Infra,PROJ-D,user_12,dev_9,8.0,410.6,4,2,0,Sprint 24,frontend
+PROJ-C-1922,Improvement,Low,Resolved,Mobile,PROJ-A,user_11,dev_6,,211.0,0,2,0,,tech-debt
+PROJ-B-1923,Task,High,Resolved,Database,PROJ-A,user_23,dev_12,,8.2,1,4,0,Sprint 4,ux
+PROJ-B-1924,Story,Medium,Done,Infra,PROJ-D,user_23,dev_12,5.0,1.0,0,2,0,Sprint 16,ux
+PROJ-B-1925,Bug,Low,Duplicate,Infra,PROJ-D,user_13,dev_10,,26.4,0,3,0,,tech-debt
+PROJ-C-1926,Bug,Low,Closed,Testing,PROJ-B,user_5,dev_2,,161.7,2,1,1,,
+PROJ-B-1927,Story,Low,Resolved,Database,PROJ-C,user_6,dev_2,3.0,7.0,2,1,0,Sprint 7,tech-debt
+PROJ-A-1928,Task,Medium,Won't Fix,Testing,PROJ-C,user_1,dev_4,,158.8,2,2,0,Sprint 23,flaky-test
+PROJ-D-1929,Bug,Medium,Resolved,API,PROJ-D,user_6,dev_9,,20.7,4,3,0,,ux
+PROJ-D-1930,Bug,Medium,Done,Database,PROJ-D,user_18,,,32.6,4,1,0,,flaky-test
+PROJ-A-1931,Improvement,Medium,Done,Auth,PROJ-A,user_22,dev_2,,64.9,2,2,0,,backend
+PROJ-B-1932,Sub-task,Critical,Resolved,Infra,PROJ-D,user_9,dev_8,2.0,1.4,13,5,0,Sprint 8,performance
+PROJ-D-1933,Story,Medium,Duplicate,Testing,PROJ-A,user_24,dev_11,2.0,258.3,0,2,0,Sprint 9,performance
+PROJ-C-1934,Bug,Medium,Done,Database,PROJ-D,user_15,dev_7,,36.0,3,1,0,,frontend
+PROJ-D-1935,Bug,High,Done,Mobile,PROJ-B,user_8,dev_9,,10.9,7,5,1,,regression
+PROJ-D-1936,Bug,Low,Closed,Mobile,PROJ-B,user_19,dev_8,,308.5,1,2,0,,performance
+PROJ-D-1937,Epic,Medium,Resolved,Infra,PROJ-A,user_24,dev_3,3.0,80.8,4,4,0,,security
+PROJ-B-1938,Bug,Low,Done,Auth,PROJ-C,user_16,dev_1,,166.8,1,1,0,,performance
+PROJ-A-1939,Story,Critical,Won't Fix,Frontend,PROJ-B,user_6,dev_2,13.0,0.5,5,3,0,Sprint 14,flaky-test
+PROJ-D-1940,Bug,High,Won't Fix,Testing,PROJ-A,user_6,dev_14,,28.5,8,1,0,,security
+PROJ-C-1941,Story,Medium,Closed,Auth,PROJ-D,user_22,dev_13,8.0,325.4,1,4,1,Sprint 23,ux
+PROJ-D-1942,Task,High,Done,Backend,PROJ-D,user_3,dev_2,,2.3,3,3,0,Sprint 9,flaky-test
+PROJ-B-1943,Improvement,Medium,Resolved,Backend,PROJ-A,user_10,dev_4,,42.4,4,2,0,,security
+PROJ-B-1944,Bug,Medium,Done,Backend,PROJ-C,user_1,,,58.6,0,2,0,,regression
+PROJ-C-1945,Bug,High,Closed,Infra,PROJ-A,user_14,dev_4,,46.1,5,2,0,,
+PROJ-D-1946,Bug,Medium,Done,Mobile,PROJ-A,user_4,dev_9,,13.7,6,1,0,,regression
+PROJ-D-1947,Improvement,Medium,Closed,API,PROJ-B,user_12,,,5.3,2,2,0,,ux
+PROJ-C-1948,Improvement,Medium,Done,Testing,PROJ-A,user_6,dev_6,,66.6,2,1,0,,backend
+PROJ-A-1949,Story,Low,Resolved,Mobile,PROJ-A,user_11,dev_6,21.0,222.8,1,1,0,Sprint 15,tech-debt
+PROJ-B-1950,Story,Low,Resolved,API,PROJ-D,user_12,dev_10,21.0,360.3,0,1,0,Sprint 21,ux
+PROJ-A-1951,Task,Medium,Duplicate,API,PROJ-B,user_10,dev_11,,159.9,3,2,0,Sprint 4,ux
+PROJ-A-1952,Bug,Medium,Done,Mobile,PROJ-D,user_18,dev_10,,0.5,3,4,0,,performance
+PROJ-D-1953,Epic,Medium,Done,Testing,PROJ-D,user_7,dev_1,21.0,366.6,6,2,1,,
+PROJ-C-1954,Story,Low,Done,Infra,PROJ-C,user_7,dev_8,2.0,173.7,0,2,0,Sprint 3,frontend
+PROJ-B-1955,Story,Medium,Done,Auth,PROJ-C,user_11,dev_12,13.0,88.5,3,3,0,Sprint 22,backend
+PROJ-A-1956,Story,Medium,Done,API,PROJ-B,user_4,dev_3,3.0,120.3,3,6,0,Sprint 10,
+PROJ-A-1957,Bug,Low,Closed,Frontend,PROJ-B,user_20,dev_13,,299.0,1,1,0,,ux
+PROJ-D-1958,Bug,High,Closed,Mobile,PROJ-C,user_1,dev_6,,39.3,3,1,0,,
+PROJ-D-1959,Task,Low,Done,Mobile,PROJ-C,user_13,dev_3,,71.7,0,1,0,Sprint 4,security
+PROJ-D-1960,Bug,High,Done,Backend,PROJ-C,user_18,dev_11,,35.6,4,3,0,,flaky-test
+PROJ-C-1961,Story,Medium,Closed,Auth,PROJ-C,user_9,dev_2,5.0,27.0,3,3,0,Sprint 18,security
+PROJ-B-1962,Bug,Medium,Done,Backend,PROJ-C,user_24,dev_5,,1.6,4,2,0,,
+PROJ-B-1963,Story,Low,Won't Fix,Mobile,PROJ-D,user_24,dev_14,2.0,61.7,0,1,0,Sprint 11,frontend
+PROJ-D-1964,Bug,Low,Done,Mobile,PROJ-B,user_9,dev_1,,83.5,1,1,0,,
+PROJ-A-1965,Bug,Medium,Done,API,PROJ-D,user_23,dev_9,,27.4,0,3,0,,tech-debt
+PROJ-D-1966,Task,Medium,Done,Auth,PROJ-D,user_9,dev_11,,1.9,1,1,0,Sprint 19,security
+PROJ-D-1967,Bug,Medium,Done,Database,PROJ-A,user_10,dev_7,,74.8,3,2,0,,tech-debt
+PROJ-C-1968,Story,Low,Won't Fix,Frontend,PROJ-D,user_2,dev_3,2.0,10.7,1,1,0,Sprint 19,
+PROJ-D-1969,Story,Medium,Done,Testing,PROJ-C,user_6,dev_4,21.0,14.4,1,5,0,Sprint 18,frontend
+PROJ-B-1970,Task,Medium,Resolved,API,PROJ-C,user_15,dev_13,,10.5,0,2,0,Sprint 13,security
+PROJ-D-1971,Epic,High,Done,Mobile,PROJ-A,user_3,dev_6,5.0,186.2,3,6,0,,
+PROJ-B-1972,Task,Low,Closed,Testing,PROJ-A,user_11,dev_3,,136.5,0,3,0,Sprint 4,regression
+PROJ-A-1973,Bug,Medium,Won't Fix,API,PROJ-A,user_6,dev_12,,90.1,3,3,0,,flaky-test
+PROJ-B-1974,Bug,Medium,Resolved,Frontend,PROJ-A,user_3,dev_7,,12.9,3,4,1,,ux
+PROJ-B-1975,Bug,Critical,Done,Mobile,PROJ-A,user_24,dev_13,,8.5,9,8,0,,
+PROJ-D-1976,Story,Low,Resolved,Frontend,PROJ-D,user_11,dev_6,21.0,129.0,3,2,0,Sprint 3,
+PROJ-B-1977,Bug,Critical,Done,Testing,PROJ-A,user_15,dev_9,,19.1,15,4,1,,flaky-test
+PROJ-B-1978,Story,Medium,Done,Database,PROJ-D,user_13,dev_12,2.0,25.5,2,1,0,Sprint 16,
+PROJ-A-1979,Story,Low,Resolved,API,PROJ-B,user_20,dev_5,3.0,89.9,1,1,0,Sprint 14,security
+PROJ-B-1980,Bug,Medium,Duplicate,Infra,PROJ-A,user_10,dev_4,,41.0,1,1,0,,tech-debt
+PROJ-B-1981,Task,High,Done,API,PROJ-A,user_6,dev_3,,7.7,2,5,0,Sprint 10,performance
+PROJ-D-1982,Bug,Medium,Resolved,Backend,PROJ-D,user_15,dev_10,,97.0,3,3,0,,performance
+PROJ-C-1983,Bug,Low,Done,Auth,PROJ-B,user_18,dev_1,,66.9,1,3,0,,ux
+PROJ-D-1984,Task,Medium,Done,Auth,PROJ-D,user_18,dev_3,,176.4,3,1,0,Sprint 6,regression
+PROJ-A-1985,Story,Low,Won't Fix,Backend,PROJ-D,user_7,dev_3,21.0,401.9,0,1,0,Sprint 8,performance
+PROJ-D-1986,Task,Critical,Closed,Mobile,PROJ-A,user_15,dev_7,,30.7,8,7,0,Sprint 24,
+PROJ-B-1987,Story,Medium,Done,Auth,PROJ-C,user_18,dev_7,21.0,43.5,1,2,0,Sprint 16,frontend
+PROJ-C-1988,Bug,Medium,Closed,Frontend,PROJ-C,user_18,dev_13,,40.0,3,2,0,,ux
+PROJ-D-1989,Improvement,Low,Resolved,Testing,PROJ-D,user_20,dev_12,,142.1,3,2,0,,
+PROJ-D-1990,Task,High,Closed,Testing,PROJ-A,user_9,dev_1,,31.1,6,2,0,Sprint 10,regression
+PROJ-A-1991,Task,Low,Done,Auth,PROJ-B,user_24,dev_3,,8.2,2,1,0,Sprint 22,performance
+PROJ-B-1992,Bug,Medium,Done,Auth,PROJ-C,user_2,dev_13,,22.4,2,3,0,,flaky-test
+PROJ-D-1993,Story,Medium,Won't Fix,Backend,PROJ-B,user_8,dev_8,21.0,90.9,5,2,0,Sprint 21,performance
+PROJ-D-1994,Bug,High,Resolved,Mobile,PROJ-C,user_20,dev_9,,12.3,6,3,0,,frontend
+PROJ-C-1995,Bug,Low,Resolved,Database,PROJ-A,user_2,dev_7,,23.9,2,1,0,,
+PROJ-A-1996,Epic,High,Resolved,Auth,PROJ-D,user_11,dev_7,2.0,2.4,4,3,0,,security
+PROJ-B-1997,Bug,High,Done,Infra,PROJ-B,user_7,dev_12,,5.3,4,3,1,,performance
+PROJ-D-1998,Epic,High,Closed,Auth,PROJ-B,user_6,dev_11,3.0,12.1,2,1,0,,flaky-test
+PROJ-C-1999,Story,Low,Done,Database,PROJ-D,user_10,dev_8,5.0,289.1,0,3,0,Sprint 7,tech-debt
+PROJ-D-2000,Bug,Medium,Done,Backend,PROJ-B,user_5,dev_6,,17.7,1,3,0,,performance
+PROJ-D-2001,Story,Low,Done,Database,PROJ-C,user_11,dev_11,1.0,249.6,0,3,0,Sprint 19,regression
+PROJ-A-2002,Improvement,High,Resolved,Backend,PROJ-D,user_1,dev_3,,3.7,6,5,0,,backend
+PROJ-C-2003,Task,Medium,Done,Frontend,PROJ-C,user_2,dev_1,,10.8,2,2,0,Sprint 18,ux
+PROJ-C-2004,Task,Medium,Done,Backend,PROJ-C,user_24,dev_7,,51.0,3,3,0,Sprint 13,frontend
+PROJ-B-2005,Task,Low,Done,Frontend,PROJ-A,user_1,dev_1,,57.1,2,1,0,Sprint 8,backend
+PROJ-D-2006,Task,Low,Done,Frontend,PROJ-C,user_19,dev_1,,56.5,0,1,0,Sprint 14,flaky-test
+PROJ-C-2007,Improvement,Critical,Done,Backend,PROJ-A,user_2,dev_9,,12.0,4,8,0,,
+PROJ-D-2008,Bug,Medium,Resolved,Infra,PROJ-B,user_21,dev_13,,9.2,2,3,1,,security
+PROJ-D-2009,Story,Critical,Done,API,PROJ-B,user_20,dev_10,5.0,3.9,12,8,0,Sprint 9,ux
+PROJ-B-2010,Bug,Medium,Done,Backend,PROJ-A,user_23,dev_7,,2.3,6,1,0,,frontend
+PROJ-B-2011,Sub-task,High,Resolved,Auth,PROJ-C,user_21,dev_13,3.0,14.9,6,2,0,Sprint 12,tech-debt
+PROJ-C-2012,Epic,High,Closed,Infra,PROJ-D,user_24,dev_11,8.0,65.9,4,4,0,,
+PROJ-D-2013,Bug,Medium,Resolved,Infra,PROJ-D,user_4,dev_13,,16.8,3,3,0,,
+PROJ-C-2014,Task,Medium,Done,Auth,PROJ-A,user_12,dev_4,,82.8,2,2,0,Sprint 6,performance
+PROJ-D-2015,Epic,Medium,Resolved,API,PROJ-B,user_22,dev_6,21.0,278.3,0,1,0,,flaky-test
+PROJ-C-2016,Bug,Medium,Done,Infra,PROJ-B,user_20,dev_1,,130.0,3,1,0,,
+PROJ-C-2017,Story,Medium,Closed,Frontend,PROJ-D,user_18,dev_7,5.0,154.4,3,4,0,Sprint 20,backend
+PROJ-D-2018,Epic,Critical,Done,Testing,PROJ-A,user_1,dev_12,8.0,83.3,4,5,0,,
+PROJ-A-2019,Bug,Low,Done,API,PROJ-D,user_1,,,17.9,1,1,1,,backend
+PROJ-B-2020,Task,High,Resolved,Mobile,PROJ-C,user_24,dev_4,,19.7,5,2,0,Sprint 22,flaky-test
+PROJ-D-2021,Bug,Medium,Done,Auth,PROJ-C,user_14,dev_7,,28.1,1,4,0,,backend
+PROJ-C-2022,Epic,Medium,Done,API,PROJ-A,user_4,dev_3,8.0,37.7,4,3,0,,
+PROJ-A-2023,Sub-task,Medium,Closed,Backend,PROJ-A,user_5,dev_1,3.0,4.4,2,2,0,Sprint 23,
+PROJ-C-2024,Epic,Critical,Closed,Testing,PROJ-C,user_11,dev_4,3.0,15.4,8,8,0,,tech-debt
+PROJ-A-2025,Story,Medium,Closed,API,PROJ-B,user_24,dev_3,21.0,137.6,1,3,0,Sprint 12,tech-debt
+PROJ-D-2026,Improvement,Low,Closed,Frontend,PROJ-A,user_23,dev_1,,135.8,1,1,0,,security
+PROJ-B-2027,Improvement,Medium,Closed,Testing,PROJ-C,user_13,dev_2,,51.8,3,1,0,,security
+PROJ-C-2028,Bug,Medium,Done,Backend,PROJ-C,user_16,dev_11,,42.6,5,4,0,,ux
+PROJ-A-2029,Improvement,Medium,Won't Fix,Database,PROJ-B,user_24,dev_5,,62.8,6,1,0,,
+PROJ-A-2030,Bug,High,Closed,Auth,PROJ-B,user_13,dev_8,,5.0,7,1,1,,performance
+PROJ-B-2031,Story,Medium,Closed,Testing,PROJ-B,user_24,dev_1,1.0,5.3,2,2,0,Sprint 24,security
+PROJ-C-2032,Bug,Medium,Done,Auth,PROJ-B,user_22,dev_4,,71.3,2,1,1,,
+PROJ-D-2033,Bug,High,Won't Fix,API,PROJ-D,user_2,dev_14,,37.3,3,1,0,,ux
+PROJ-D-2034,Bug,High,Done,Infra,PROJ-B,user_16,dev_4,,24.6,10,4,1,,flaky-test
+PROJ-C-2035,Task,High,Closed,Backend,PROJ-D,user_6,dev_5,,51.7,8,5,0,Sprint 19,ux
+PROJ-B-2036,Bug,Medium,Done,Database,PROJ-A,user_14,dev_7,,6.6,2,2,0,,
+PROJ-B-2037,Task,Low,Closed,Backend,PROJ-C,user_1,dev_13,,66.9,1,1,0,Sprint 12,regression
+PROJ-B-2038,Bug,Critical,Done,Auth,PROJ-D,user_17,dev_12,,2.0,6,8,0,,performance
+PROJ-A-2039,Bug,Medium,Resolved,Backend,PROJ-A,user_11,dev_8,,23.5,5,2,0,,regression
+PROJ-A-2040,Story,High,Done,Database,PROJ-A,user_19,dev_6,13.0,30.1,5,3,0,Sprint 22,regression
+PROJ-B-2041,Task,Low,Done,Infra,PROJ-D,user_3,dev_1,,162.2,2,1,0,Sprint 22,
+PROJ-C-2042,Bug,High,Resolved,API,PROJ-A,user_11,dev_7,,25.5,5,3,0,,backend
+PROJ-D-2043,Story,Medium,Done,Frontend,PROJ-A,user_5,dev_3,2.0,11.8,4,4,0,Sprint 7,flaky-test
+PROJ-A-2044,Improvement,Medium,Done,Backend,PROJ-D,user_17,dev_13,,36.3,6,1,0,,performance
+PROJ-B-2045,Story,Medium,Done,Testing,PROJ-A,user_22,dev_13,5.0,148.0,3,1,0,Sprint 15,backend
+PROJ-A-2046,Bug,Medium,Duplicate,Frontend,PROJ-B,user_7,dev_13,,56.7,1,1,0,,backend
+PROJ-A-2047,Bug,Medium,Done,Auth,PROJ-B,user_10,dev_6,,31.0,2,3,1,,ux
+PROJ-B-2048,Improvement,Medium,Done,API,PROJ-C,user_11,dev_8,,289.0,3,1,0,,
+PROJ-C-2049,Bug,High,Closed,Mobile,PROJ-A,user_3,dev_7,,7.5,5,1,0,,
+PROJ-D-2050,Improvement,High,Done,API,PROJ-C,user_20,dev_10,,55.9,2,3,0,,frontend
+PROJ-C-2051,Story,Medium,Done,Backend,PROJ-B,user_10,dev_6,3.0,147.4,2,5,0,Sprint 16,frontend
+PROJ-A-2052,Epic,High,Resolved,Testing,PROJ-B,user_10,dev_9,5.0,52.5,5,4,0,,security
+PROJ-C-2053,Task,High,Done,Infra,PROJ-B,user_14,dev_9,,32.6,3,2,0,Sprint 4,
+PROJ-C-2054,Sub-task,Medium,Resolved,API,PROJ-A,user_12,dev_1,2.0,10.2,6,3,0,Sprint 6,
+PROJ-D-2055,Bug,Low,Closed,Backend,PROJ-A,user_15,dev_1,,20.8,1,2,0,,flaky-test
+PROJ-B-2056,Task,Medium,Won't Fix,Backend,PROJ-B,user_10,dev_1,,26.7,4,2,0,Sprint 16,tech-debt
+PROJ-B-2057,Story,Critical,Duplicate,Frontend,PROJ-C,user_10,dev_8,13.0,5.9,16,4,0,Sprint 15,
+PROJ-B-2058,Story,Critical,Done,API,PROJ-C,user_19,dev_12,21.0,18.6,7,9,1,Sprint 2,
+PROJ-C-2059,Story,Low,Closed,Backend,PROJ-D,user_1,dev_13,8.0,120.5,0,1,0,Sprint 24,flaky-test
+PROJ-C-2060,Improvement,High,Resolved,Frontend,PROJ-B,user_24,dev_14,,35.1,4,7,0,,
+PROJ-D-2061,Sub-task,High,Done,Testing,PROJ-C,user_10,dev_12,3.0,31.8,8,8,0,Sprint 3,flaky-test
+PROJ-B-2062,Task,Medium,Done,Database,PROJ-B,user_2,dev_14,,109.3,7,1,0,Sprint 15,security
+PROJ-D-2063,Story,Medium,Duplicate,Testing,PROJ-C,user_17,dev_10,2.0,30.1,2,1,0,Sprint 8,
+PROJ-D-2064,Story,Medium,Done,Mobile,PROJ-D,user_24,dev_7,1.0,321.0,5,3,0,Sprint 12,
+PROJ-C-2065,Task,High,Done,Frontend,PROJ-D,user_7,dev_3,,7.3,8,6,0,Sprint 22,performance
+PROJ-B-2066,Bug,Critical,Resolved,Frontend,PROJ-B,user_7,dev_13,,0.5,6,2,0,,
+PROJ-A-2067,Bug,Low,Closed,Backend,PROJ-C,user_20,dev_2,,31.7,0,1,0,,tech-debt
+PROJ-A-2068,Bug,High,Done,Auth,PROJ-A,user_9,dev_4,,3.7,3,6,0,,backend
+PROJ-C-2069,Bug,Medium,Done,Auth,PROJ-D,user_22,dev_3,,183.9,3,3,0,,frontend
+PROJ-C-2070,Bug,Medium,Done,Infra,PROJ-B,user_2,dev_7,,24.3,1,1,0,,tech-debt
+PROJ-C-2071,Bug,Medium,Won't Fix,Auth,PROJ-B,user_14,dev_10,,12.1,2,1,0,,tech-debt
+PROJ-C-2072,Bug,High,Won't Fix,Frontend,PROJ-C,user_17,dev_8,,3.3,8,4,0,,regression
+PROJ-A-2073,Bug,High,Done,Infra,PROJ-B,user_1,dev_6,,22.1,5,10,0,,tech-debt
+PROJ-B-2074,Sub-task,Medium,Resolved,Testing,PROJ-D,user_9,dev_3,2.0,3.9,3,2,0,Sprint 2,tech-debt
+PROJ-D-2075,Story,Low,Done,Backend,PROJ-B,user_20,dev_6,1.0,83.2,1,2,0,Sprint 15,frontend
+PROJ-A-2076,Story,Low,Resolved,Testing,PROJ-B,user_21,dev_2,5.0,57.5,1,1,0,Sprint 8,performance
+PROJ-B-2077,Task,High,Done,API,PROJ-A,user_19,dev_12,,44.7,6,7,0,Sprint 22,flaky-test
+PROJ-C-2078,Bug,High,Closed,Mobile,PROJ-A,user_4,dev_7,,7.7,5,4,0,,performance
+PROJ-D-2079,Epic,Low,Done,Mobile,PROJ-D,user_8,dev_14,2.0,119.9,3,1,0,,
+PROJ-B-2080,Task,Medium,Done,Frontend,PROJ-C,user_13,dev_11,,29.4,4,2,0,Sprint 11,frontend
+PROJ-B-2081,Bug,Low,Done,Frontend,PROJ-A,user_4,dev_10,,528.4,1,1,0,,regression
+PROJ-D-2082,Story,High,Done,Infra,PROJ-C,user_9,dev_14,3.0,1.7,2,7,0,Sprint 17,frontend
+PROJ-B-2083,Improvement,Medium,Duplicate,Backend,PROJ-D,user_9,dev_7,,38.7,4,2,0,,frontend
+PROJ-B-2084,Epic,Medium,Duplicate,Database,PROJ-A,user_22,dev_4,5.0,330.5,2,2,0,,
+PROJ-D-2085,Story,Medium,Resolved,Frontend,PROJ-C,user_18,dev_13,2.0,397.3,3,3,0,Sprint 22,frontend
+PROJ-D-2086,Story,Medium,Done,Database,PROJ-A,user_12,dev_8,13.0,94.9,4,2,0,Sprint 21,security
+PROJ-A-2087,Bug,Critical,Done,Testing,PROJ-D,user_10,dev_4,,2.9,5,6,0,,flaky-test
+PROJ-C-2088,Sub-task,Medium,Done,Database,PROJ-D,user_11,dev_7,1.0,10.9,2,1,0,Sprint 22,regression
+PROJ-C-2089,Bug,High,Done,Auth,PROJ-A,user_7,dev_4,,10.5,7,2,0,,ux
+PROJ-B-2090,Epic,Medium,Done,Backend,PROJ-C,user_9,dev_13,2.0,249.9,4,2,0,,security
+PROJ-C-2091,Task,Low,Closed,Mobile,PROJ-B,user_6,dev_12,,153.9,2,1,0,Sprint 1,frontend
+PROJ-A-2092,Story,Medium,Done,Mobile,PROJ-B,user_19,dev_5,3.0,3.0,5,1,0,Sprint 20,
+PROJ-B-2093,Story,Low,Resolved,Database,PROJ-A,user_16,dev_7,21.0,221.2,1,1,0,Sprint 23,tech-debt
+PROJ-C-2094,Bug,High,Resolved,Mobile,PROJ-C,user_15,dev_13,,39.7,5,1,0,,frontend
+PROJ-C-2095,Bug,Medium,Done,Testing,PROJ-B,user_7,dev_14,,78.5,4,1,0,,
+PROJ-B-2096,Bug,Low,Closed,Backend,PROJ-D,user_16,dev_14,,69.3,1,1,0,,tech-debt
+PROJ-D-2097,Bug,High,Done,Auth,PROJ-C,user_5,dev_13,,10.8,4,3,0,,
+PROJ-A-2098,Task,Critical,Done,Backend,PROJ-B,user_16,dev_10,,5.1,9,2,0,Sprint 15,security
+PROJ-B-2099,Bug,Medium,Done,Frontend,PROJ-C,user_1,dev_3,,54.0,3,2,0,,ux
+PROJ-B-2100,Bug,High,Resolved,Database,PROJ-A,user_19,,,22.8,5,3,0,,
+PROJ-C-2101,Sub-task,Medium,Done,Backend,PROJ-C,user_5,dev_5,3.0,62.0,4,2,0,Sprint 21,backend
+PROJ-D-2102,Improvement,Low,Closed,Testing,PROJ-B,user_7,dev_11,,381.4,1,1,0,,frontend
+PROJ-C-2103,Epic,Medium,Done,Mobile,PROJ-A,user_19,dev_14,1.0,109.2,1,2,0,,
+PROJ-B-2104,Sub-task,High,Done,API,PROJ-C,user_22,dev_3,1.0,1.6,6,5,0,Sprint 22,tech-debt
+PROJ-B-2105,Bug,Medium,Done,Backend,PROJ-D,user_5,,,104.5,2,2,0,,backend
+PROJ-C-2106,Story,Medium,Closed,Database,PROJ-B,user_17,dev_14,2.0,86.3,5,2,0,Sprint 2,performance
+PROJ-D-2107,Task,Critical,Closed,Auth,PROJ-A,user_22,dev_3,,7.5,5,2,1,Sprint 24,frontend
+PROJ-B-2108,Task,Medium,Resolved,Mobile,PROJ-C,user_8,dev_11,,82.6,3,1,1,Sprint 10,
+PROJ-A-2109,Bug,Medium,Done,Auth,PROJ-D,user_1,dev_10,,106.1,6,2,0,,ux
+PROJ-D-2110,Improvement,Medium,Done,Database,PROJ-B,user_2,dev_11,,12.3,4,5,0,,security
+PROJ-B-2111,Bug,High,Resolved,Mobile,PROJ-D,user_15,dev_7,,0.5,5,6,0,,security
+PROJ-D-2112,Bug,Medium,Done,Frontend,PROJ-C,user_20,dev_13,,49.3,0,1,0,,security
+PROJ-D-2113,Story,High,Done,Mobile,PROJ-C,user_18,dev_1,13.0,41.6,7,5,0,Sprint 20,
+PROJ-A-2114,Story,High,Done,Frontend,PROJ-A,user_11,dev_9,13.0,65.5,4,3,0,Sprint 6,security
+PROJ-B-2115,Story,Low,Resolved,Auth,PROJ-D,user_10,dev_9,1.0,436.0,1,2,0,Sprint 3,security
+PROJ-D-2116,Bug,Medium,Closed,Auth,PROJ-A,user_24,dev_5,,4.3,1,1,0,,regression
+PROJ-B-2117,Improvement,Critical,Done,Database,PROJ-B,user_24,dev_9,,17.3,9,7,0,,frontend
+PROJ-B-2118,Bug,High,Closed,Frontend,PROJ-A,user_4,dev_10,,65.7,4,8,0,,security
+PROJ-D-2119,Bug,High,Resolved,Auth,PROJ-B,user_5,dev_13,,82.4,7,2,0,,flaky-test
+PROJ-C-2120,Improvement,High,Done,Frontend,PROJ-C,user_4,dev_6,,23.0,5,5,0,,flaky-test
+PROJ-D-2121,Epic,High,Done,Auth,PROJ-C,user_13,dev_5,1.0,5.3,7,6,1,,backend
+PROJ-C-2122,Improvement,Critical,Resolved,Mobile,PROJ-D,user_13,dev_13,,11.1,10,4,0,,
+PROJ-C-2123,Task,Medium,Closed,Backend,PROJ-B,user_18,dev_3,,50.3,3,2,0,Sprint 13,
+PROJ-C-2124,Task,Medium,Done,Testing,PROJ-C,user_24,dev_11,,22.6,1,2,0,Sprint 24,flaky-test
+PROJ-C-2125,Story,Medium,Resolved,API,PROJ-D,user_2,dev_11,13.0,98.5,4,2,0,Sprint 15,
+PROJ-D-2126,Bug,Medium,Done,Testing,PROJ-D,user_16,dev_8,,13.0,2,1,0,,regression
+PROJ-C-2127,Story,High,Resolved,Mobile,PROJ-A,user_1,dev_4,5.0,4.1,6,3,0,Sprint 6,frontend
+PROJ-B-2128,Bug,Low,Done,Infra,PROJ-D,user_19,dev_10,,29.1,0,4,0,,regression
+PROJ-D-2129,Bug,Low,Done,Testing,PROJ-C,user_9,dev_13,,11.4,0,1,0,,ux
+PROJ-A-2130,Task,Low,Closed,Backend,PROJ-A,user_3,dev_13,,266.7,2,1,0,Sprint 9,
+PROJ-C-2131,Story,Low,Done,Infra,PROJ-B,user_7,dev_3,8.0,98.9,0,2,0,Sprint 10,backend
+PROJ-D-2132,Bug,Low,Done,Auth,PROJ-B,user_10,dev_13,,261.4,1,1,0,,ux
+PROJ-C-2133,Bug,Medium,Resolved,API,PROJ-C,user_1,dev_6,,154.5,0,1,0,,performance
+PROJ-B-2134,Task,High,Closed,API,PROJ-C,user_10,dev_8,,41.3,7,4,0,Sprint 9,
+PROJ-C-2135,Bug,Medium,Resolved,Auth,PROJ-A,user_21,dev_13,,68.2,4,2,0,,backend
+PROJ-D-2136,Improvement,Medium,Done,Auth,PROJ-A,user_9,dev_9,,35.5,2,2,0,,regression
+PROJ-B-2137,Story,Medium,Resolved,Frontend,PROJ-C,user_15,dev_14,8.0,11.9,4,2,0,Sprint 18,performance
+PROJ-C-2138,Story,Medium,Done,Auth,PROJ-C,user_15,dev_6,3.0,92.1,3,1,1,Sprint 9,backend
+PROJ-A-2139,Story,Critical,Done,Database,PROJ-B,user_3,dev_5,21.0,9.9,6,3,1,Sprint 24,
+PROJ-C-2140,Improvement,Medium,Done,Testing,PROJ-B,user_5,dev_12,,262.8,3,1,0,,performance
+PROJ-C-2141,Bug,Low,Done,Auth,PROJ-B,user_9,dev_11,,5.1,1,2,0,,frontend
+PROJ-B-2142,Task,Medium,Done,Database,PROJ-C,user_22,dev_2,,84.5,4,1,0,Sprint 18,
+PROJ-C-2143,Story,Medium,Done,Auth,PROJ-D,user_9,dev_2,13.0,92.4,4,5,0,Sprint 9,tech-debt
+PROJ-D-2144,Bug,High,Duplicate,Frontend,PROJ-C,user_23,dev_9,,21.6,5,3,0,,performance
+PROJ-D-2145,Improvement,Medium,Won't Fix,Database,PROJ-C,user_7,dev_2,,77.5,0,3,0,,
+PROJ-B-2146,Task,Low,Resolved,Testing,PROJ-B,user_24,dev_2,,1.3,1,1,0,Sprint 5,flaky-test
+PROJ-D-2147,Task,Medium,Closed,Backend,PROJ-C,user_23,dev_3,,49.0,1,3,0,Sprint 13,
+PROJ-A-2148,Improvement,Low,Resolved,Database,PROJ-A,user_12,dev_3,,217.3,0,1,0,,regression
+PROJ-C-2149,Improvement,Medium,Done,Mobile,PROJ-C,user_9,dev_4,,15.5,3,4,0,,flaky-test
+PROJ-B-2150,Task,Medium,Closed,Frontend,PROJ-C,user_6,dev_7,,44.8,5,6,0,Sprint 12,
+PROJ-D-2151,Improvement,High,Done,Infra,PROJ-C,user_23,dev_9,,34.3,8,2,0,,flaky-test
+PROJ-A-2152,Task,Medium,Done,Testing,PROJ-C,user_2,dev_2,,48.4,3,6,0,Sprint 9,
+PROJ-A-2153,Task,Medium,Done,Database,PROJ-D,user_9,dev_4,,48.3,3,1,0,Sprint 19,backend
+PROJ-B-2154,Story,Medium,Closed,Mobile,PROJ-C,user_17,dev_9,13.0,8.7,7,2,0,Sprint 20,security
+PROJ-B-2155,Task,Medium,Done,Mobile,PROJ-A,user_1,dev_14,,15.2,1,4,0,Sprint 1,security
+PROJ-D-2156,Bug,Low,Resolved,Testing,PROJ-A,user_19,dev_2,,275.5,1,1,1,,ux
+PROJ-C-2157,Improvement,Critical,Won't Fix,Testing,PROJ-C,user_6,dev_10,,30.8,6,2,0,,
+PROJ-A-2158,Improvement,Low,Done,Mobile,PROJ-B,user_5,dev_11,,348.5,2,1,0,,ux
+PROJ-A-2159,Bug,High,Done,Auth,PROJ-D,user_2,dev_13,,29.6,4,5,0,,tech-debt
+PROJ-B-2160,Improvement,Medium,Resolved,Mobile,PROJ-C,user_9,dev_1,,15.0,7,3,0,,security
+PROJ-A-2161,Bug,Critical,Done,Auth,PROJ-C,user_14,dev_10,,12.9,10,9,0,,backend
+PROJ-B-2162,Bug,High,Won't Fix,Infra,PROJ-C,user_4,dev_8,,4.2,5,4,0,,ux
+PROJ-C-2163,Task,Medium,Won't Fix,Frontend,PROJ-B,user_4,dev_9,,40.7,4,1,0,Sprint 11,backend
+PROJ-B-2164,Bug,Critical,Done,API,PROJ-B,user_21,dev_7,,0.5,8,7,0,,performance
+PROJ-C-2165,Improvement,Medium,Done,Auth,PROJ-B,user_15,dev_8,,154.8,6,2,0,,tech-debt
+PROJ-D-2166,Improvement,Low,Duplicate,Mobile,PROJ-D,user_8,,,268.7,1,1,0,,
+PROJ-B-2167,Story,High,Duplicate,Mobile,PROJ-A,user_4,dev_4,3.0,33.9,4,2,0,Sprint 5,ux
+PROJ-D-2168,Bug,Medium,Done,Backend,PROJ-D,user_16,dev_13,,156.6,1,1,0,,flaky-test
+PROJ-C-2169,Bug,Medium,Done,Mobile,PROJ-B,user_21,dev_2,,6.7,2,1,0,,backend
+PROJ-A-2170,Story,Medium,Closed,Frontend,PROJ-A,user_4,dev_8,8.0,108.7,4,5,0,Sprint 7,regression
+PROJ-D-2171,Sub-task,High,Done,Database,PROJ-A,user_16,dev_11,2.0,3.8,8,3,0,Sprint 13,tech-debt
+PROJ-B-2172,Task,High,Won't Fix,Database,PROJ-B,user_22,dev_2,,2.7,5,5,0,Sprint 23,regression
+PROJ-B-2173,Bug,High,Resolved,Mobile,PROJ-B,user_12,dev_9,,19.7,9,4,0,,security
+PROJ-D-2174,Task,Critical,Closed,Backend,PROJ-D,user_16,dev_14,,9.6,6,4,0,Sprint 6,
+PROJ-D-2175,Story,High,Done,Auth,PROJ-B,user_19,dev_4,5.0,82.6,4,3,0,Sprint 13,tech-debt
+PROJ-D-2176,Task,Medium,Resolved,Frontend,PROJ-A,user_8,dev_1,,16.0,1,1,0,Sprint 6,tech-debt
+PROJ-B-2177,Bug,Low,Done,Backend,PROJ-C,user_6,dev_13,,173.5,1,1,0,,regression
+PROJ-D-2178,Task,Low,Done,Auth,PROJ-B,user_10,dev_4,,4.0,0,1,0,Sprint 15,tech-debt
+PROJ-D-2179,Story,Medium,Closed,Frontend,PROJ-B,user_5,dev_3,5.0,67.6,3,3,0,Sprint 8,regression
+PROJ-C-2180,Sub-task,High,Done,Mobile,PROJ-D,user_18,dev_12,2.0,3.7,2,3,0,Sprint 11,security
+PROJ-D-2181,Bug,High,Resolved,Database,PROJ-D,user_10,dev_6,,0.5,5,5,1,,
+PROJ-D-2182,Task,High,Won't Fix,Frontend,PROJ-B,user_10,,,20.5,7,6,0,Sprint 10,regression
+PROJ-B-2183,Epic,High,Done,Mobile,PROJ-A,user_7,dev_8,2.0,17.2,2,3,0,,
+PROJ-B-2184,Bug,Medium,Done,Infra,PROJ-A,user_18,dev_2,,127.8,2,1,0,,tech-debt
+PROJ-A-2185,Epic,Medium,Done,API,PROJ-C,user_1,dev_6,8.0,128.9,1,1,0,,flaky-test
+PROJ-B-2186,Task,Medium,Done,Frontend,PROJ-B,user_7,dev_6,,57.5,2,2,0,Sprint 9,ux
+PROJ-B-2187,Bug,Medium,Resolved,API,PROJ-D,user_21,dev_10,,130.7,5,3,1,,flaky-test
+PROJ-B-2188,Bug,Low,Closed,Frontend,PROJ-A,user_1,dev_12,,133.1,0,1,0,,backend
+PROJ-B-2189,Task,Low,Won't Fix,API,PROJ-C,user_15,dev_5,,458.8,1,1,0,Sprint 4,tech-debt
+PROJ-D-2190,Bug,High,Resolved,Infra,PROJ-B,user_4,dev_10,,15.8,6,5,0,,ux
+PROJ-A-2191,Story,Low,Done,Database,PROJ-A,user_20,dev_10,3.0,238.1,3,2,0,Sprint 14,flaky-test
+PROJ-B-2192,Bug,Low,Done,Testing,PROJ-B,user_10,dev_7,,52.8,1,1,0,,flaky-test
+PROJ-D-2193,Story,High,Done,Auth,PROJ-B,user_23,dev_3,2.0,2.5,3,6,0,Sprint 4,tech-debt
+PROJ-B-2194,Bug,Medium,Done,API,PROJ-A,user_9,dev_4,,115.1,2,1,0,,flaky-test
+PROJ-A-2195,Improvement,Medium,Done,Infra,PROJ-A,user_2,dev_10,,80.8,2,1,0,,regression
+PROJ-C-2196,Sub-task,Low,Done,API,PROJ-A,user_14,dev_13,3.0,215.5,2,4,0,Sprint 24,regression
+PROJ-C-2197,Sub-task,Low,Duplicate,Database,PROJ-B,user_16,dev_9,3.0,43.6,0,1,0,Sprint 15,ux
+PROJ-A-2198,Task,High,Done,API,PROJ-B,user_1,dev_4,,30.9,4,3,1,Sprint 21,ux
+PROJ-D-2199,Bug,Medium,Resolved,Infra,PROJ-C,user_2,dev_3,,22.2,5,2,0,,security
+PROJ-D-2200,Task,Medium,Done,Mobile,PROJ-D,user_7,dev_14,,34.8,3,1,0,Sprint 10,flaky-test
+PROJ-A-2201,Bug,Medium,Done,Infra,PROJ-B,user_10,dev_2,,57.3,3,3,1,,
+PROJ-C-2202,Bug,High,Done,Testing,PROJ-D,user_22,dev_5,,0.6,4,5,0,,performance
+PROJ-B-2203,Bug,Low,Done,Testing,PROJ-A,user_20,dev_4,,17.9,2,1,0,,ux
+PROJ-C-2204,Story,Medium,Done,Testing,PROJ-B,user_1,dev_13,1.0,17.1,2,1,0,Sprint 14,performance
+PROJ-B-2205,Task,Low,Closed,Backend,PROJ-C,user_13,dev_13,,372.1,2,2,0,Sprint 6,tech-debt
+PROJ-A-2206,Task,Low,Closed,Database,PROJ-C,user_1,dev_8,,743.2,0,1,0,Sprint 16,ux
+PROJ-A-2207,Story,Medium,Closed,Mobile,PROJ-D,user_5,dev_7,5.0,31.1,2,3,0,Sprint 12,
+PROJ-A-2208,Bug,Medium,Resolved,Backend,PROJ-A,user_16,dev_6,,74.2,6,4,0,,
+PROJ-C-2209,Sub-task,Medium,Won't Fix,Database,PROJ-D,user_15,dev_11,1.0,37.0,4,2,0,Sprint 4,regression
+PROJ-A-2210,Story,High,Resolved,Mobile,PROJ-A,user_17,dev_12,5.0,20.9,5,5,1,Sprint 1,backend
+PROJ-C-2211,Story,Medium,Done,API,PROJ-C,user_23,dev_2,8.0,21.2,5,1,0,Sprint 4,
+PROJ-D-2212,Bug,High,Duplicate,Mobile,PROJ-D,user_16,dev_3,,26.3,10,2,0,,security
+PROJ-B-2213,Task,Medium,Won't Fix,Infra,PROJ-C,user_13,dev_10,,119.3,3,2,0,Sprint 13,
+PROJ-B-2214,Task,High,Resolved,Backend,PROJ-C,user_11,dev_9,,35.5,11,2,0,Sprint 7,ux
+PROJ-B-2215,Bug,High,Closed,API,PROJ-A,user_17,dev_13,,7.5,1,3,0,,backend
+PROJ-A-2216,Bug,High,Done,Infra,PROJ-D,user_17,dev_9,,25.9,8,2,0,,security
+PROJ-B-2217,Task,Critical,Resolved,Database,PROJ-D,user_2,dev_5,,26.9,7,10,0,Sprint 15,regression
+PROJ-A-2218,Task,Medium,Won't Fix,Mobile,PROJ-C,user_13,dev_14,,53.6,5,3,0,Sprint 6,flaky-test
+PROJ-C-2219,Bug,Medium,Resolved,Infra,PROJ-C,user_14,dev_3,,69.7,3,3,0,,flaky-test
+PROJ-A-2220,Epic,Medium,Closed,API,PROJ-A,user_11,dev_2,1.0,757.0,1,2,1,,tech-debt
+PROJ-B-2221,Bug,High,Done,Backend,PROJ-B,user_10,dev_8,,1.0,4,3,0,,ux
+PROJ-A-2222,Story,High,Done,Backend,PROJ-B,user_3,dev_6,5.0,15.5,3,4,0,Sprint 14,regression
+PROJ-A-2223,Epic,Critical,Resolved,Testing,PROJ-C,user_17,dev_10,1.0,22.4,8,2,0,,
+PROJ-C-2224,Story,High,Done,Mobile,PROJ-B,user_15,dev_11,8.0,1.1,6,4,0,Sprint 18,
+PROJ-A-2225,Task,Low,Closed,Infra,PROJ-B,user_9,dev_12,,141.8,1,1,0,Sprint 4,frontend
+PROJ-B-2226,Story,High,Resolved,Testing,PROJ-B,user_10,dev_7,2.0,20.3,5,3,0,Sprint 1,
+PROJ-A-2227,Bug,Medium,Done,API,PROJ-B,user_8,dev_1,,74.4,1,1,0,,frontend
+PROJ-D-2228,Sub-task,High,Done,Testing,PROJ-C,user_21,dev_1,3.0,4.9,6,5,1,Sprint 3,performance
+PROJ-A-2229,Story,High,Resolved,Frontend,PROJ-B,user_13,dev_10,5.0,68.2,3,2,0,Sprint 13,security
+PROJ-D-2230,Improvement,Medium,Done,Database,PROJ-B,user_18,dev_2,,88.6,3,1,1,,regression
+PROJ-B-2231,Bug,Medium,Done,Testing,PROJ-A,user_5,dev_10,,11.9,2,1,0,,regression
+PROJ-D-2232,Bug,High,Resolved,Database,PROJ-C,user_6,dev_3,,59.2,5,4,1,,performance
+PROJ-D-2233,Bug,Critical,Resolved,API,PROJ-D,user_17,dev_12,,5.2,9,6,0,,backend
+PROJ-D-2234,Task,Medium,Won't Fix,Frontend,PROJ-D,user_11,dev_1,,39.5,4,3,0,Sprint 18,performance
+PROJ-D-2235,Bug,High,Closed,Backend,PROJ-A,user_20,dev_14,,23.6,2,1,0,,security
+PROJ-D-2236,Improvement,High,Done,Mobile,PROJ-A,user_16,dev_5,,65.1,4,8,0,,
+PROJ-A-2237,Story,Low,Resolved,Auth,PROJ-C,user_9,dev_3,1.0,159.8,1,1,0,Sprint 4,
+PROJ-C-2238,Sub-task,Medium,Closed,Auth,PROJ-D,user_2,dev_1,2.0,59.8,4,2,0,Sprint 4,tech-debt
+PROJ-D-2239,Bug,Medium,Closed,Mobile,PROJ-B,user_5,dev_8,,4.3,6,3,0,,security
+PROJ-B-2240,Improvement,Medium,Done,API,PROJ-A,user_1,dev_12,,54.4,1,3,0,,flaky-test
+PROJ-B-2241,Task,Medium,Done,Frontend,PROJ-D,user_4,dev_11,,13.9,2,3,0,Sprint 11,
+PROJ-A-2242,Task,Medium,Done,Frontend,PROJ-C,user_4,dev_6,,11.0,8,2,0,Sprint 14,frontend
+PROJ-C-2243,Improvement,Medium,Done,Database,PROJ-B,user_22,dev_9,,11.6,2,3,0,,performance
+PROJ-C-2244,Task,Medium,Done,Backend,PROJ-C,user_3,dev_3,,43.4,4,4,0,Sprint 7,backend
+PROJ-D-2245,Story,High,Duplicate,Infra,PROJ-A,user_9,dev_9,5.0,6.0,5,5,0,Sprint 3,tech-debt
+PROJ-B-2246,Bug,Medium,Done,Testing,PROJ-D,user_22,dev_9,,8.2,3,2,0,,frontend
+PROJ-B-2247,Bug,Medium,Done,Frontend,PROJ-D,user_23,dev_12,,223.6,4,3,0,,flaky-test
+PROJ-A-2248,Epic,Low,Done,Mobile,PROJ-D,user_12,dev_13,5.0,405.9,1,1,0,,flaky-test
+PROJ-D-2249,Story,Medium,Closed,Infra,PROJ-D,user_10,dev_12,5.0,66.3,1,1,0,Sprint 7,
+PROJ-B-2250,Task,Medium,Won't Fix,Auth,PROJ-B,user_2,dev_1,,17.5,2,2,0,Sprint 8,performance
+PROJ-D-2251,Story,High,Resolved,Infra,PROJ-B,user_11,dev_3,3.0,8.3,2,4,0,Sprint 12,frontend
+PROJ-C-2252,Bug,Medium,Resolved,Backend,PROJ-C,user_10,dev_6,,81.3,3,2,0,,performance
+PROJ-D-2253,Bug,High,Won't Fix,Mobile,PROJ-B,user_22,dev_8,,19.2,2,5,0,,tech-debt
+PROJ-D-2254,Task,Medium,Won't Fix,Backend,PROJ-A,user_6,dev_4,,24.2,8,2,0,Sprint 7,
+PROJ-A-2255,Story,High,Done,Infra,PROJ-A,user_18,dev_5,1.0,9.5,7,4,0,Sprint 24,
+PROJ-A-2256,Bug,Medium,Done,Testing,PROJ-D,user_2,dev_9,,81.9,4,1,1,,tech-debt
+PROJ-C-2257,Story,High,Done,API,PROJ-A,user_2,dev_6,1.0,65.0,5,4,0,Sprint 16,
+PROJ-C-2258,Bug,Medium,Done,Frontend,PROJ-C,user_10,dev_12,,26.6,2,1,0,,frontend
+PROJ-D-2259,Story,Low,Resolved,Mobile,PROJ-B,user_16,dev_7,5.0,92.1,2,1,0,Sprint 17,
+PROJ-B-2260,Bug,High,Done,API,PROJ-B,user_12,dev_7,,31.3,6,4,0,,regression
+PROJ-D-2261,Task,Medium,Closed,Infra,PROJ-B,user_1,dev_4,,11.9,2,2,1,Sprint 22,frontend
+PROJ-C-2262,Bug,Medium,Done,Frontend,PROJ-A,user_21,dev_4,,125.5,3,1,0,,
+PROJ-A-2263,Story,Critical,Done,Database,PROJ-B,user_8,dev_4,2.0,4.1,6,6,0,Sprint 4,ux
+PROJ-A-2264,Bug,Low,Done,API,PROJ-D,user_16,dev_14,,57.3,0,1,1,,regression
+PROJ-C-2265,Bug,Critical,Resolved,API,PROJ-D,user_18,dev_11,,12.9,13,4,0,,backend
+PROJ-D-2266,Story,Medium,Closed,Infra,PROJ-D,user_13,dev_5,5.0,77.1,5,1,0,Sprint 17,frontend
+PROJ-B-2267,Story,Medium,Duplicate,Auth,PROJ-A,user_15,dev_5,3.0,79.5,2,4,0,Sprint 18,backend
+PROJ-A-2268,Story,Medium,Resolved,Infra,PROJ-B,user_21,dev_8,8.0,96.4,7,2,0,Sprint 4,security
+PROJ-D-2269,Bug,Medium,Done,API,PROJ-A,user_12,dev_9,,3.6,4,3,0,,frontend
+PROJ-B-2270,Task,High,Done,Frontend,PROJ-B,user_8,,,36.2,6,5,0,Sprint 17,backend
+PROJ-C-2271,Improvement,Critical,Resolved,Testing,PROJ-C,user_10,dev_11,,17.9,13,7,0,,performance
+PROJ-D-2272,Task,Medium,Resolved,Auth,PROJ-C,user_14,dev_7,,188.0,3,1,0,Sprint 15,security
+PROJ-B-2273,Bug,Medium,Done,Infra,PROJ-A,user_5,dev_1,,0.6,3,1,0,,security
+PROJ-D-2274,Story,Low,Done,Testing,PROJ-D,user_18,dev_1,3.0,52.0,0,1,0,Sprint 22,performance
+PROJ-A-2275,Bug,Low,Closed,Mobile,PROJ-A,user_19,dev_4,,351.4,1,2,0,,frontend
+PROJ-C-2276,Bug,Low,Done,Infra,PROJ-D,user_15,,,164.4,1,1,0,,tech-debt
+PROJ-A-2277,Sub-task,Medium,Won't Fix,API,PROJ-B,user_6,dev_7,2.0,16.7,2,1,0,Sprint 17,
+PROJ-A-2278,Bug,Medium,Closed,Testing,PROJ-D,user_11,dev_2,,105.7,3,2,1,,
+PROJ-D-2279,Story,Low,Done,API,PROJ-D,user_21,dev_11,5.0,14.6,0,1,0,Sprint 13,frontend
+PROJ-C-2280,Story,Medium,Done,Database,PROJ-B,user_11,dev_2,1.0,119.0,2,1,0,Sprint 3,ux
+PROJ-D-2281,Task,High,Resolved,Testing,PROJ-C,user_20,dev_1,,43.8,4,3,0,Sprint 12,flaky-test
+PROJ-B-2282,Story,Low,Resolved,Testing,PROJ-B,user_20,dev_10,21.0,203.5,1,1,0,Sprint 17,
+PROJ-C-2283,Bug,Low,Closed,Infra,PROJ-A,user_21,dev_2,,140.1,2,1,1,,performance
+PROJ-A-2284,Bug,Medium,Closed,API,PROJ-A,user_18,dev_13,,28.2,3,1,0,,backend
+PROJ-A-2285,Story,Critical,Closed,Mobile,PROJ-A,user_18,dev_7,13.0,6.4,5,6,0,Sprint 22,
+PROJ-A-2286,Bug,Medium,Done,Backend,PROJ-A,user_10,dev_9,,131.2,1,1,0,,backend
+PROJ-D-2287,Bug,Low,Won't Fix,Auth,PROJ-A,user_2,dev_6,,231.5,0,4,0,,tech-debt
+PROJ-D-2288,Bug,Low,Done,Backend,PROJ-C,user_9,dev_10,,136.1,1,1,0,,frontend
+PROJ-D-2289,Bug,High,Done,Auth,PROJ-C,user_14,dev_2,,0.5,4,4,0,,flaky-test
+PROJ-C-2290,Story,Critical,Done,Mobile,PROJ-D,user_19,dev_12,5.0,7.1,14,5,0,Sprint 22,performance
+PROJ-C-2291,Bug,Low,Done,Testing,PROJ-A,user_10,dev_10,,217.3,0,4,0,,regression
+PROJ-C-2292,Story,Medium,Done,Testing,PROJ-B,user_23,dev_10,2.0,14.6,2,2,0,Sprint 7,regression
+PROJ-C-2293,Task,Medium,Closed,Infra,PROJ-A,user_4,dev_13,,121.7,2,2,0,Sprint 7,security
+PROJ-B-2294,Task,Low,Done,Database,PROJ-C,user_6,dev_9,,52.2,0,1,0,Sprint 11,tech-debt
+PROJ-A-2295,Bug,Critical,Won't Fix,API,PROJ-A,user_14,dev_7,,4.1,8,6,1,,ux
+PROJ-D-2296,Bug,Medium,Closed,API,PROJ-C,user_4,dev_11,,216.3,3,2,1,,flaky-test
+PROJ-D-2297,Bug,Critical,Done,API,PROJ-D,user_15,dev_1,,12.6,11,9,0,,ux
+PROJ-B-2298,Task,Medium,Done,Infra,PROJ-D,user_16,dev_12,,10.9,6,1,0,Sprint 16,security
+PROJ-A-2299,Task,Low,Done,Auth,PROJ-D,user_7,dev_9,,330.5,1,1,0,Sprint 4,regression
+PROJ-A-2300,Bug,Medium,Done,Testing,PROJ-C,user_17,dev_2,,101.7,1,1,1,,performance
+PROJ-B-2301,Epic,Low,Done,Mobile,PROJ-A,user_19,,1.0,144.6,1,3,0,,regression
+PROJ-C-2302,Bug,Medium,Done,API,PROJ-A,user_19,,,312.1,2,3,1,,regression
+PROJ-A-2303,Story,High,Done,Backend,PROJ-B,user_17,dev_4,3.0,67.5,5,3,0,Sprint 16,
+PROJ-C-2304,Task,High,Done,API,PROJ-C,user_6,dev_3,,17.5,5,4,0,Sprint 5,
+PROJ-B-2305,Improvement,Medium,Done,Testing,PROJ-B,user_11,dev_1,,39.2,2,2,0,,regression
+PROJ-D-2306,Task,Medium,Won't Fix,Infra,PROJ-D,user_16,dev_7,,44.1,2,3,0,Sprint 19,
+PROJ-D-2307,Task,Critical,Done,Mobile,PROJ-A,user_8,dev_6,,3.2,6,5,0,Sprint 22,performance
+PROJ-D-2308,Bug,Medium,Closed,Database,PROJ-C,user_11,dev_10,,90.6,1,2,0,,tech-debt
+PROJ-D-2309,Improvement,Medium,Done,Mobile,PROJ-B,user_7,dev_4,,22.9,4,4,0,,security
+PROJ-A-2310,Bug,Medium,Done,Backend,PROJ-B,user_24,dev_6,,153.0,3,1,0,,
+PROJ-C-2311,Improvement,Medium,Resolved,API,PROJ-B,user_22,dev_6,,174.6,6,1,0,,frontend
+PROJ-D-2312,Story,Medium,Done,API,PROJ-A,user_19,dev_13,8.0,2.0,2,2,0,Sprint 14,flaky-test
+PROJ-D-2313,Improvement,Critical,Done,Frontend,PROJ-A,user_10,dev_4,,0.5,12,6,0,,
+PROJ-D-2314,Story,High,Closed,Auth,PROJ-A,user_9,dev_14,8.0,10.7,10,6,0,Sprint 7,tech-debt
+PROJ-B-2315,Task,Medium,Done,Backend,PROJ-C,user_4,dev_13,,44.5,0,3,0,Sprint 9,
+PROJ-A-2316,Story,Medium,Done,Frontend,PROJ-A,user_23,dev_6,21.0,133.1,5,5,1,Sprint 13,security
+PROJ-B-2317,Task,Critical,Done,Mobile,PROJ-C,user_15,dev_10,,4.9,10,5,0,Sprint 16,regression
+PROJ-C-2318,Bug,Low,Done,Database,PROJ-B,user_13,dev_11,,200.4,0,1,0,,tech-debt
+PROJ-D-2319,Bug,Medium,Done,Auth,PROJ-B,user_2,dev_8,,55.2,3,1,0,,ux
+PROJ-A-2320,Bug,Medium,Duplicate,Backend,PROJ-D,user_2,dev_13,,15.3,3,2,0,,
+PROJ-A-2321,Bug,Critical,Closed,API,PROJ-A,user_16,dev_3,,1.8,9,3,0,,regression
+PROJ-A-2322,Improvement,Medium,Closed,Mobile,PROJ-B,user_9,dev_4,,21.7,2,3,0,,regression
+PROJ-B-2323,Bug,Medium,Resolved,Backend,PROJ-A,user_13,dev_10,,9.2,5,1,1,,frontend
+PROJ-B-2324,Sub-task,Low,Resolved,API,PROJ-C,user_3,dev_13,3.0,31.5,1,2,0,Sprint 21,flaky-test
+PROJ-B-2325,Bug,Medium,Closed,Testing,PROJ-B,user_9,dev_12,,218.5,0,1,0,,
+PROJ-B-2326,Bug,Low,Resolved,Auth,PROJ-A,user_13,dev_14,,110.0,1,1,0,,ux
+PROJ-C-2327,Task,Medium,Done,Testing,PROJ-B,user_21,dev_1,,31.6,3,3,0,Sprint 4,ux
+PROJ-D-2328,Task,High,Done,Testing,PROJ-B,user_22,dev_4,,47.5,4,2,0,Sprint 7,
+PROJ-D-2329,Story,Medium,Resolved,API,PROJ-A,user_2,dev_11,21.0,33.5,1,3,1,Sprint 3,ux
+PROJ-B-2330,Story,Medium,Won't Fix,Database,PROJ-B,user_8,dev_10,13.0,55.9,2,1,0,Sprint 20,backend
+PROJ-B-2331,Task,Medium,Done,Mobile,PROJ-B,user_9,dev_10,,87.1,1,4,0,Sprint 15,ux
+PROJ-B-2332,Bug,High,Closed,Infra,PROJ-B,user_16,dev_12,,24.3,3,2,0,,
+PROJ-C-2333,Sub-task,High,Resolved,API,PROJ-B,user_2,dev_14,2.0,4.4,4,6,0,Sprint 21,tech-debt
+PROJ-C-2334,Sub-task,Low,Done,Database,PROJ-C,user_6,dev_9,3.0,28.3,1,1,0,Sprint 14,performance
+PROJ-A-2335,Task,Medium,Won't Fix,Infra,PROJ-B,user_22,dev_8,,153.4,1,1,0,Sprint 7,
+PROJ-D-2336,Bug,Low,Closed,Mobile,PROJ-D,user_8,dev_11,,15.6,0,1,1,,
+PROJ-B-2337,Task,Medium,Closed,Testing,PROJ-B,user_5,dev_4,,53.5,2,1,0,Sprint 18,regression
+PROJ-A-2338,Bug,Medium,Done,Auth,PROJ-A,user_9,dev_12,,8.5,2,1,1,,security
+PROJ-D-2339,Bug,Medium,Done,Auth,PROJ-D,user_1,dev_7,,48.0,2,3,0,,security
+PROJ-A-2340,Bug,Low,Done,Mobile,PROJ-C,user_9,dev_10,,94.5,0,3,0,,
+PROJ-C-2341,Story,Medium,Done,Mobile,PROJ-D,user_10,dev_3,2.0,210.6,0,1,0,Sprint 5,backend
+PROJ-C-2342,Improvement,Medium,Done,Backend,PROJ-D,user_23,dev_9,,69.2,6,1,0,,
+PROJ-A-2343,Task,High,Resolved,Database,PROJ-D,user_4,dev_10,,4.4,5,2,0,Sprint 21,ux
+PROJ-A-2344,Task,Medium,Closed,Testing,PROJ-A,user_3,dev_4,,131.2,4,2,0,Sprint 20,ux
+PROJ-D-2345,Story,Medium,Done,Database,PROJ-A,user_10,dev_2,8.0,427.8,4,3,0,Sprint 8,ux
+PROJ-B-2346,Bug,High,Done,Mobile,PROJ-A,user_15,dev_10,,7.9,6,2,0,,backend
+PROJ-D-2347,Bug,High,Closed,Frontend,PROJ-C,user_11,dev_5,,9.2,2,2,1,,backend
+PROJ-D-2348,Sub-task,High,Done,Frontend,PROJ-A,user_14,dev_2,3.0,9.0,5,4,0,Sprint 20,
+PROJ-C-2349,Bug,High,Duplicate,Infra,PROJ-A,user_6,dev_14,,12.1,7,5,0,,frontend
+PROJ-C-2350,Improvement,High,Resolved,Infra,PROJ-D,user_12,dev_10,,8.6,5,1,0,,backend
+PROJ-A-2351,Story,Medium,Resolved,Frontend,PROJ-A,user_13,dev_6,5.0,131.8,1,2,0,Sprint 18,tech-debt
+PROJ-C-2352,Story,Low,Done,Mobile,PROJ-B,user_17,dev_11,1.0,392.3,1,1,0,Sprint 21,security
+PROJ-D-2353,Task,Medium,Resolved,Mobile,PROJ-A,user_16,dev_10,,61.7,2,3,0,Sprint 19,regression
+PROJ-A-2354,Story,High,Done,Infra,PROJ-C,user_3,dev_1,5.0,7.0,5,1,0,Sprint 20,tech-debt
+PROJ-A-2355,Improvement,Critical,Closed,API,PROJ-C,user_2,dev_14,,10.0,11,5,0,,ux
+PROJ-C-2356,Improvement,Medium,Done,Mobile,PROJ-B,user_11,dev_6,,37.2,3,3,0,,regression
+PROJ-B-2357,Story,Medium,Closed,Frontend,PROJ-C,user_9,dev_4,5.0,155.1,3,2,0,Sprint 3,security
+PROJ-C-2358,Bug,Low,Done,Database,PROJ-C,user_3,dev_3,,24.2,1,1,0,,regression
+PROJ-A-2359,Story,Medium,Done,Mobile,PROJ-D,user_18,dev_2,3.0,17.5,4,1,0,Sprint 23,regression
+PROJ-A-2360,Epic,Low,Done,Testing,PROJ-B,user_20,dev_7,8.0,513.5,0,1,0,,performance
+PROJ-B-2361,Bug,High,Done,Mobile,PROJ-D,user_15,dev_9,,27.6,4,4,0,,security
+PROJ-D-2362,Story,Medium,Resolved,API,PROJ-D,user_14,dev_12,3.0,67.8,3,1,0,Sprint 6,regression
+PROJ-A-2363,Task,High,Duplicate,Infra,PROJ-A,user_2,dev_3,,66.0,4,5,0,Sprint 18,tech-debt
+PROJ-B-2364,Task,Low,Resolved,Mobile,PROJ-B,user_17,dev_6,,10.4,0,1,0,Sprint 15,flaky-test
+PROJ-D-2365,Bug,Medium,Done,Auth,PROJ-A,user_22,dev_9,,123.2,4,2,0,,security
+PROJ-C-2366,Task,High,Done,Backend,PROJ-A,user_8,,,3.4,4,2,0,Sprint 14,performance
+PROJ-B-2367,Improvement,High,Done,Frontend,PROJ-D,user_10,dev_7,,61.0,5,2,0,,
+PROJ-D-2368,Bug,High,Done,Testing,PROJ-C,user_18,dev_5,,13.7,4,2,0,,tech-debt
+PROJ-A-2369,Bug,Medium,Duplicate,Testing,PROJ-B,user_19,dev_5,,65.0,3,1,0,,regression
+PROJ-A-2370,Sub-task,High,Done,Testing,PROJ-C,user_8,dev_11,1.0,13.8,3,1,0,Sprint 24,tech-debt
+PROJ-B-2371,Bug,Medium,Resolved,Auth,PROJ-D,user_8,dev_7,,41.5,5,4,1,,
+PROJ-C-2372,Improvement,High,Resolved,Testing,PROJ-D,user_3,dev_9,,43.1,8,6,0,,
+PROJ-B-2373,Story,Medium,Closed,Testing,PROJ-D,user_3,dev_4,21.0,238.9,1,1,0,Sprint 21,
+PROJ-A-2374,Bug,Low,Won't Fix,Infra,PROJ-D,user_12,dev_9,,69.2,0,1,0,,
+PROJ-D-2375,Improvement,Medium,Done,Database,PROJ-D,user_22,dev_14,,65.9,2,3,0,,
+PROJ-C-2376,Story,Medium,Done,Backend,PROJ-D,user_17,dev_13,3.0,335.6,2,3,0,Sprint 22,
+PROJ-D-2377,Story,High,Won't Fix,Auth,PROJ-C,user_4,dev_11,2.0,42.6,8,5,0,Sprint 8,backend
+PROJ-B-2378,Bug,High,Closed,Backend,PROJ-A,user_17,dev_10,,7.5,5,3,0,,performance
+PROJ-B-2379,Story,Medium,Done,Frontend,PROJ-C,user_14,dev_9,5.0,173.6,2,1,1,Sprint 11,
+PROJ-D-2380,Bug,Medium,Done,Infra,PROJ-B,user_19,dev_13,,18.7,2,2,0,,security
+PROJ-D-2381,Story,Medium,Resolved,Mobile,PROJ-C,user_9,dev_4,8.0,192.6,3,3,0,Sprint 11,
+PROJ-D-2382,Sub-task,Critical,Done,Database,PROJ-D,user_21,dev_3,2.0,1.5,9,6,1,Sprint 12,frontend
+PROJ-B-2383,Bug,High,Won't Fix,Infra,PROJ-C,user_12,dev_2,,19.2,3,4,0,,backend
+PROJ-D-2384,Task,Critical,Done,Backend,PROJ-A,user_5,dev_9,,5.8,6,9,0,Sprint 16,ux
+PROJ-A-2385,Bug,Low,Closed,Auth,PROJ-B,user_11,,,144.4,0,1,0,,security
+PROJ-D-2386,Task,High,Closed,Frontend,PROJ-C,user_20,dev_2,,32.4,5,1,0,Sprint 7,ux
+PROJ-A-2387,Bug,Medium,Closed,Frontend,PROJ-A,user_3,dev_6,,14.7,3,1,1,,
+PROJ-A-2388,Sub-task,Critical,Done,Infra,PROJ-C,user_21,dev_5,1.0,14.8,5,3,0,Sprint 3,ux
+PROJ-D-2389,Story,Medium,Won't Fix,Mobile,PROJ-B,user_15,dev_14,13.0,194.6,2,3,0,Sprint 2,tech-debt
+PROJ-C-2390,Bug,High,Resolved,Auth,PROJ-C,user_14,dev_5,,30.1,3,2,0,,regression
+PROJ-C-2391,Bug,Low,Resolved,Mobile,PROJ-D,user_11,dev_4,,280.4,1,1,0,,performance
+PROJ-C-2392,Bug,Low,Done,Mobile,PROJ-C,user_20,dev_6,,234.5,0,1,1,,
+PROJ-A-2393,Story,High,Done,Testing,PROJ-A,user_8,dev_5,5.0,6.6,5,4,0,Sprint 3,tech-debt
+PROJ-C-2394,Bug,Low,Done,Auth,PROJ-C,user_4,dev_11,,112.4,1,1,0,,
+PROJ-C-2395,Improvement,Low,Done,Backend,PROJ-A,user_12,,,542.6,0,1,0,,security
+PROJ-D-2396,Story,Low,Resolved,Infra,PROJ-B,user_8,dev_13,3.0,79.9,1,2,0,Sprint 8,tech-debt
+PROJ-B-2397,Bug,Low,Done,Infra,PROJ-C,user_6,dev_9,,182.3,1,1,0,,
+PROJ-A-2398,Story,High,Resolved,Testing,PROJ-B,user_15,dev_13,13.0,77.8,8,4,0,Sprint 20,performance
+PROJ-B-2399,Task,Medium,Done,API,PROJ-B,user_12,dev_6,,55.6,1,1,0,Sprint 8,ux
+PROJ-A-2400,Bug,Critical,Done,Infra,PROJ-C,user_16,dev_11,,5.9,7,13,0,,flaky-test
+PROJ-A-2401,Bug,High,Won't Fix,Frontend,PROJ-A,user_16,dev_10,,55.7,8,9,0,,backend
+PROJ-C-2402,Bug,Low,Won't Fix,Backend,PROJ-B,user_21,dev_10,,128.7,1,1,0,,backend
+PROJ-D-2403,Task,High,Won't Fix,Auth,PROJ-B,user_20,dev_13,,5.8,4,7,0,Sprint 4,performance
+PROJ-B-2404,Task,Medium,Resolved,Infra,PROJ-C,user_20,dev_10,,2.0,2,5,0,Sprint 23,security
+PROJ-B-2405,Story,Low,Resolved,Backend,PROJ-C,user_4,dev_13,2.0,300.0,0,1,0,Sprint 13,backend
+PROJ-C-2406,Improvement,Low,Won't Fix,Testing,PROJ-C,user_11,dev_3,,178.0,0,1,0,,tech-debt
+PROJ-B-2407,Task,Low,Resolved,Infra,PROJ-C,user_13,dev_10,,168.4,1,1,0,Sprint 22,frontend
+PROJ-B-2408,Story,High,Duplicate,Auth,PROJ-C,user_9,dev_6,3.0,32.8,4,2,0,Sprint 17,
+PROJ-A-2409,Improvement,Critical,Done,Database,PROJ-D,user_4,dev_14,,1.7,9,7,0,,ux
+PROJ-D-2410,Bug,Medium,Won't Fix,Auth,PROJ-C,user_12,dev_1,,219.8,1,2,0,,regression
+PROJ-D-2411,Bug,High,Closed,Auth,PROJ-A,user_9,dev_5,,9.2,7,2,1,,
+PROJ-B-2412,Bug,Critical,Done,Auth,PROJ-B,user_13,dev_10,,0.5,11,4,0,,regression
+PROJ-B-2413,Bug,Medium,Done,Infra,PROJ-A,user_16,dev_6,,2.4,4,1,1,,regression
+PROJ-A-2414,Story,Low,Won't Fix,API,PROJ-A,user_6,dev_11,5.0,335.6,1,1,0,Sprint 24,
+PROJ-C-2415,Epic,Medium,Closed,Auth,PROJ-D,user_10,dev_8,13.0,101.2,1,2,0,,backend
+PROJ-A-2416,Bug,High,Duplicate,Testing,PROJ-C,user_13,dev_11,,4.5,2,5,1,,performance
+PROJ-C-2417,Bug,Medium,Done,Frontend,PROJ-B,user_7,dev_9,,4.4,1,3,0,,performance
+PROJ-C-2418,Story,High,Done,Frontend,PROJ-A,user_19,dev_11,21.0,43.6,4,6,0,Sprint 22,tech-debt
+PROJ-A-2419,Epic,Critical,Done,Testing,PROJ-C,user_24,dev_3,1.0,18.9,4,6,0,,regression
+PROJ-D-2420,Bug,Medium,Closed,Backend,PROJ-C,user_19,dev_2,,68.5,1,1,0,,frontend
+PROJ-A-2421,Story,Medium,Closed,API,PROJ-D,user_17,dev_13,13.0,160.6,3,3,0,Sprint 18,backend
+PROJ-C-2422,Bug,Medium,Resolved,Backend,PROJ-D,user_13,dev_4,,2.5,2,3,0,,security
+PROJ-D-2423,Bug,Critical,Done,Testing,PROJ-D,user_13,dev_8,,10.5,9,2,0,,backend
+PROJ-D-2424,Sub-task,Low,Done,Frontend,PROJ-B,user_21,dev_11,3.0,49.5,4,1,0,Sprint 5,ux
+PROJ-A-2425,Sub-task,Medium,Done,Mobile,PROJ-A,user_2,dev_8,3.0,24.4,3,1,0,Sprint 12,
+PROJ-D-2426,Bug,Medium,Won't Fix,Frontend,PROJ-D,user_10,dev_3,,32.8,2,1,0,,tech-debt
+PROJ-D-2427,Epic,Medium,Done,Database,PROJ-D,user_22,dev_4,13.0,148.9,4,1,0,,
+PROJ-A-2428,Task,Low,Done,Auth,PROJ-D,user_13,dev_3,,42.3,0,1,0,Sprint 2,frontend
+PROJ-B-2429,Improvement,Medium,Done,Mobile,PROJ-A,user_9,dev_10,,141.3,5,1,0,,tech-debt
+PROJ-D-2430,Story,Medium,Resolved,Frontend,PROJ-A,user_1,dev_2,8.0,109.4,1,2,0,Sprint 10,tech-debt
+PROJ-A-2431,Story,Low,Done,Infra,PROJ-D,user_14,dev_4,13.0,146.4,1,1,0,Sprint 7,regression
+PROJ-A-2432,Story,Medium,Done,Infra,PROJ-D,user_16,dev_6,5.0,122.5,4,2,0,Sprint 15,tech-debt
+PROJ-B-2433,Task,Medium,Resolved,Backend,PROJ-C,user_20,dev_11,,123.0,6,5,0,Sprint 22,frontend
+PROJ-D-2434,Bug,Medium,Duplicate,Mobile,PROJ-D,user_15,dev_14,,47.8,3,4,1,,flaky-test
+PROJ-C-2435,Bug,Medium,Closed,Backend,PROJ-B,user_1,dev_11,,42.9,5,1,1,,tech-debt
+PROJ-C-2436,Bug,High,Done,Auth,PROJ-B,user_17,dev_5,,9.0,6,6,1,,security
+PROJ-D-2437,Task,Medium,Closed,Auth,PROJ-D,user_24,dev_3,,1.4,2,3,0,Sprint 7,
+PROJ-D-2438,Bug,Low,Duplicate,Database,PROJ-A,user_13,dev_2,,52.2,2,1,1,,
+PROJ-A-2439,Task,Low,Closed,Testing,PROJ-C,user_15,dev_9,,7.1,1,2,1,Sprint 15,regression
+PROJ-A-2440,Sub-task,Medium,Done,Testing,PROJ-A,user_16,dev_1,3.0,54.1,2,1,0,Sprint 16,performance
+PROJ-C-2441,Bug,Medium,Done,API,PROJ-D,user_16,dev_9,,2.2,7,3,0,,security
+PROJ-D-2442,Task,High,Duplicate,Backend,PROJ-B,user_2,dev_1,,53.9,5,5,0,Sprint 22,security
+PROJ-A-2443,Story,Low,Resolved,Auth,PROJ-C,user_17,dev_14,1.0,401.4,1,1,0,Sprint 1,backend
+PROJ-C-2444,Improvement,Low,Resolved,Testing,PROJ-A,user_11,dev_7,,43.0,0,3,0,,
+PROJ-C-2445,Bug,Medium,Done,Backend,PROJ-A,user_8,dev_6,,26.6,4,1,0,,backend
+PROJ-B-2446,Task,Low,Closed,Auth,PROJ-D,user_20,dev_7,,682.9,0,1,0,Sprint 15,backend
+PROJ-D-2447,Improvement,Medium,Done,Frontend,PROJ-C,user_3,dev_3,,172.3,4,2,0,,security
+PROJ-B-2448,Epic,Medium,Done,Backend,PROJ-B,user_12,dev_14,5.0,28.4,2,3,0,,backend
+PROJ-A-2449,Task,Critical,Won't Fix,Frontend,PROJ-D,user_20,dev_3,,13.4,11,5,0,Sprint 3,regression
+PROJ-A-2450,Story,Medium,Done,Backend,PROJ-C,user_16,dev_13,2.0,42.3,2,1,0,Sprint 10,frontend
+PROJ-C-2451,Story,Medium,Done,API,PROJ-A,user_14,dev_11,3.0,97.1,3,1,0,Sprint 16,backend
+PROJ-A-2452,Improvement,Medium,Won't Fix,Database,PROJ-D,user_16,dev_1,,66.9,1,3,0,,flaky-test
+PROJ-B-2453,Story,Medium,Done,Infra,PROJ-A,user_21,dev_4,13.0,117.5,2,1,0,Sprint 2,regression
+PROJ-D-2454,Bug,Low,Resolved,Testing,PROJ-A,user_17,dev_12,,109.7,0,2,0,,backend
+PROJ-C-2455,Epic,High,Resolved,Infra,PROJ-D,user_11,dev_2,8.0,6.9,6,2,0,,
+PROJ-C-2456,Task,Medium,Won't Fix,Infra,PROJ-D,user_17,dev_10,,157.8,2,2,0,Sprint 17,
+PROJ-A-2457,Task,Medium,Resolved,Frontend,PROJ-D,user_19,dev_8,,119.4,1,3,0,Sprint 1,regression
+PROJ-C-2458,Bug,Medium,Resolved,Mobile,PROJ-D,user_22,dev_3,,88.7,2,1,0,,frontend
+PROJ-C-2459,Task,Medium,Done,Auth,PROJ-D,user_1,dev_7,,44.1,4,1,0,Sprint 4,flaky-test
+PROJ-D-2460,Story,High,Done,Infra,PROJ-A,user_12,dev_7,1.0,42.5,6,8,0,Sprint 11,performance
+PROJ-C-2461,Task,High,Won't Fix,API,PROJ-B,user_15,dev_12,,5.4,11,3,0,Sprint 17,flaky-test
+PROJ-D-2462,Bug,Medium,Done,Infra,PROJ-B,user_18,,,131.7,4,4,0,,
+PROJ-B-2463,Task,Medium,Resolved,Backend,PROJ-D,user_23,dev_6,,15.2,2,1,0,Sprint 2,ux
+PROJ-C-2464,Sub-task,High,Done,Frontend,PROJ-A,user_14,dev_1,1.0,26.9,7,3,0,Sprint 1,backend
+PROJ-B-2465,Bug,Medium,Done,Mobile,PROJ-B,user_1,dev_8,,95.0,2,2,0,,ux
+PROJ-D-2466,Sub-task,Medium,Done,Backend,PROJ-B,user_13,dev_1,1.0,53.5,5,1,0,Sprint 6,tech-debt
+PROJ-C-2467,Story,Medium,Done,Mobile,PROJ-B,user_15,dev_3,8.0,122.1,4,1,0,Sprint 11,tech-debt
+PROJ-A-2468,Improvement,Low,Duplicate,Backend,PROJ-A,user_7,dev_11,,126.5,0,1,0,,performance
+PROJ-A-2469,Task,High,Won't Fix,Backend,PROJ-D,user_15,dev_5,,3.1,11,3,0,Sprint 4,security
+PROJ-C-2470,Story,Critical,Closed,Testing,PROJ-D,user_20,dev_8,13.0,0.5,9,12,0,Sprint 24,tech-debt
+PROJ-D-2471,Task,Medium,Resolved,Database,PROJ-D,user_10,dev_9,,134.4,3,3,0,Sprint 11,tech-debt
+PROJ-A-2472,Improvement,Medium,Closed,Database,PROJ-C,user_14,dev_7,,103.0,5,2,0,,flaky-test
+PROJ-B-2473,Story,Medium,Resolved,Auth,PROJ-C,user_6,dev_9,1.0,159.3,2,5,0,Sprint 5,regression
+PROJ-D-2474,Bug,Low,Resolved,Frontend,PROJ-C,user_14,,,94.9,0,1,1,,security
+PROJ-D-2475,Task,Low,Done,API,PROJ-A,user_24,dev_3,,371.5,0,1,0,Sprint 10,
+PROJ-C-2476,Task,Low,Done,API,PROJ-B,user_22,dev_13,,95.6,1,1,0,Sprint 5,
+PROJ-B-2477,Task,Medium,Closed,API,PROJ-B,user_12,dev_5,,116.2,1,3,0,Sprint 24,frontend
+PROJ-D-2478,Task,Medium,Duplicate,Testing,PROJ-A,user_11,dev_10,,21.6,6,3,0,Sprint 22,frontend
+PROJ-C-2479,Story,Medium,Resolved,Backend,PROJ-A,user_20,dev_8,1.0,94.2,4,1,0,Sprint 22,backend
+PROJ-B-2480,Improvement,High,Won't Fix,Database,PROJ-D,user_22,dev_12,,45.0,10,1,0,,
+PROJ-D-2481,Bug,Medium,Resolved,Frontend,PROJ-D,user_24,dev_1,,1.3,1,1,0,,performance
+PROJ-A-2482,Story,High,Closed,Backend,PROJ-C,user_19,dev_8,21.0,55.0,5,7,0,Sprint 3,performance
+PROJ-B-2483,Bug,Low,Won't Fix,Mobile,PROJ-C,user_2,dev_7,,234.3,1,1,0,,security
+PROJ-D-2484,Bug,Medium,Done,Database,PROJ-A,user_22,dev_1,,53.9,6,2,0,,performance
+PROJ-B-2485,Bug,Medium,Done,Database,PROJ-C,user_20,dev_13,,42.7,3,2,1,,
+PROJ-A-2486,Story,Medium,Resolved,Infra,PROJ-B,user_1,,8.0,312.0,6,1,0,Sprint 6,regression
+PROJ-D-2487,Task,Critical,Done,Infra,PROJ-A,user_8,dev_10,,3.2,14,4,0,Sprint 13,
+PROJ-A-2488,Story,Critical,Done,Testing,PROJ-A,user_14,dev_12,21.0,7.1,12,7,0,Sprint 16,tech-debt
+PROJ-C-2489,Story,Medium,Closed,Frontend,PROJ-B,user_9,dev_10,21.0,152.7,1,1,0,Sprint 7,regression
+PROJ-C-2490,Bug,High,Done,Mobile,PROJ-D,user_2,dev_12,,10.5,5,5,0,,tech-debt
+PROJ-D-2491,Bug,Medium,Won't Fix,Frontend,PROJ-D,user_23,dev_6,,29.9,2,1,0,,tech-debt
+PROJ-D-2492,Bug,Low,Duplicate,Frontend,PROJ-B,user_5,dev_1,,0.5,0,3,0,,
+PROJ-B-2493,Bug,Low,Closed,Testing,PROJ-B,user_23,dev_2,,53.9,1,1,0,,regression
+PROJ-D-2494,Story,Medium,Closed,Testing,PROJ-C,user_8,dev_5,3.0,1.3,5,1,0,Sprint 18,frontend
+PROJ-C-2495,Task,High,Resolved,Backend,PROJ-A,user_16,dev_2,,20.1,7,2,0,Sprint 3,ux
+PROJ-D-2496,Story,Low,Done,Auth,PROJ-C,user_22,dev_14,13.0,58.2,0,1,0,Sprint 6,security
+PROJ-B-2497,Story,Low,Done,Testing,PROJ-B,user_16,dev_10,13.0,121.4,1,1,0,Sprint 10,regression
+PROJ-C-2498,Bug,High,Resolved,Frontend,PROJ-C,user_13,dev_1,,39.0,3,1,0,,frontend
+PROJ-D-2499,Improvement,Medium,Resolved,Infra,PROJ-B,user_20,dev_6,,132.8,3,1,0,,security
+PROJ-A-2500,Story,High,Done,Auth,PROJ-C,user_15,dev_8,5.0,42.5,5,4,0,Sprint 16,tech-debt
+PROJ-A-2501,Story,Low,Resolved,Backend,PROJ-C,user_1,dev_8,21.0,68.4,0,2,0,Sprint 13,backend
+PROJ-A-2502,Bug,Low,Closed,Auth,PROJ-D,user_22,dev_13,,75.3,2,1,0,,performance
+PROJ-A-2503,Bug,Critical,Done,API,PROJ-B,user_3,dev_13,,12.4,8,4,0,,security
+PROJ-B-2504,Story,Low,Resolved,Mobile,PROJ-C,user_6,dev_8,13.0,153.8,1,3,0,Sprint 24,frontend
+PROJ-A-2505,Story,Medium,Done,Auth,PROJ-A,user_22,,8.0,25.0,0,3,0,Sprint 24,frontend
+PROJ-A-2506,Story,Low,Done,Frontend,PROJ-C,user_14,dev_6,2.0,186.7,0,1,0,Sprint 9,regression
+PROJ-D-2507,Story,Medium,Resolved,Backend,PROJ-C,user_4,dev_11,8.0,98.1,1,3,0,Sprint 16,regression
+PROJ-A-2508,Story,Low,Won't Fix,Mobile,PROJ-A,user_18,dev_3,1.0,203.1,0,1,0,Sprint 11,performance
+PROJ-A-2509,Task,Critical,Done,Frontend,PROJ-B,user_15,dev_1,,1.2,10,2,0,Sprint 9,tech-debt
+PROJ-D-2510,Improvement,Medium,Won't Fix,Mobile,PROJ-D,user_9,dev_2,,29.3,3,1,0,,performance
+PROJ-C-2511,Task,Critical,Done,Infra,PROJ-D,user_18,dev_5,,6.7,6,3,0,Sprint 10,frontend
+PROJ-B-2512,Epic,Low,Done,API,PROJ-D,user_3,dev_13,13.0,449.1,0,2,0,,ux
+PROJ-B-2513,Bug,Low,Done,Infra,PROJ-A,user_10,dev_10,,19.8,4,1,1,,flaky-test
+PROJ-C-2514,Bug,Low,Done,Frontend,PROJ-C,user_17,dev_5,,250.5,3,1,0,,backend
+PROJ-D-2515,Bug,Low,Done,Frontend,PROJ-B,user_7,dev_10,,86.6,2,1,0,,frontend
+PROJ-C-2516,Task,High,Won't Fix,Frontend,PROJ-C,user_15,dev_14,,3.3,7,3,0,Sprint 11,frontend
+PROJ-B-2517,Improvement,Medium,Done,Database,PROJ-D,user_1,dev_1,,9.7,3,2,0,,tech-debt
+PROJ-B-2518,Bug,Critical,Done,API,PROJ-C,user_11,dev_1,,2.6,13,4,0,,
+PROJ-C-2519,Epic,High,Resolved,Mobile,PROJ-A,user_17,dev_9,13.0,96.2,7,4,0,,regression
+PROJ-A-2520,Bug,High,Done,Testing,PROJ-A,user_5,dev_2,,0.5,6,6,0,,security
+PROJ-B-2521,Epic,Medium,Resolved,Frontend,PROJ-B,user_7,dev_7,5.0,60.0,5,1,0,,security
+PROJ-C-2522,Bug,High,Done,Frontend,PROJ-B,user_19,dev_10,,14.8,4,2,0,,ux
+PROJ-A-2523,Bug,High,Done,Mobile,PROJ-D,user_24,dev_4,,14.6,7,5,0,,performance
+PROJ-A-2524,Story,High,Resolved,Testing,PROJ-B,user_15,dev_7,21.0,36.5,8,11,0,Sprint 21,security
+PROJ-D-2525,Bug,High,Done,Infra,PROJ-C,user_3,dev_8,,7.0,3,3,0,,security
+PROJ-C-2526,Bug,Low,Done,Infra,PROJ-A,user_15,dev_5,,48.4,0,1,0,,flaky-test
+PROJ-B-2527,Bug,Medium,Done,Frontend,PROJ-A,user_5,dev_13,,17.5,1,3,1,,flaky-test
+PROJ-D-2528,Task,Low,Done,Backend,PROJ-A,user_23,dev_12,,126.5,0,2,0,Sprint 22,backend
+PROJ-B-2529,Story,Medium,Resolved,Database,PROJ-B,user_12,dev_12,2.0,14.1,2,2,0,Sprint 15,performance
+PROJ-A-2530,Bug,High,Done,Infra,PROJ-A,user_20,dev_1,,22.2,6,5,1,,
+PROJ-C-2531,Story,Low,Closed,Backend,PROJ-A,user_5,dev_4,13.0,225.0,0,1,0,Sprint 21,regression
+PROJ-A-2532,Task,High,Closed,Database,PROJ-A,user_3,dev_10,,3.1,10,1,0,Sprint 13,regression
+PROJ-A-2533,Bug,High,Done,Frontend,PROJ-D,user_9,dev_3,,16.0,6,6,0,,security
+PROJ-A-2534,Story,High,Won't Fix,API,PROJ-D,user_9,dev_10,5.0,11.3,7,3,0,Sprint 17,
+PROJ-C-2535,Bug,High,Duplicate,Auth,PROJ-B,user_7,dev_12,,9.6,5,1,0,,
+PROJ-D-2536,Bug,High,Closed,Auth,PROJ-A,user_2,dev_5,,9.8,3,6,1,,performance
+PROJ-B-2537,Task,Medium,Done,Frontend,PROJ-B,user_23,dev_10,,4.3,1,1,0,Sprint 4,tech-debt
+PROJ-A-2538,Bug,Medium,Done,Infra,PROJ-A,user_23,dev_13,,45.3,4,3,1,,regression
+PROJ-B-2539,Story,Critical,Done,Backend,PROJ-A,user_21,dev_10,5.0,5.8,13,7,0,Sprint 11,frontend
+PROJ-B-2540,Task,High,Done,API,PROJ-A,user_16,dev_13,,30.1,9,2,0,Sprint 1,performance
+PROJ-D-2541,Bug,Low,Done,Mobile,PROJ-B,user_9,dev_6,,69.8,1,1,0,,backend
+PROJ-C-2542,Story,High,Resolved,Database,PROJ-B,user_13,dev_2,2.0,28.5,3,4,0,Sprint 1,performance
+PROJ-B-2543,Bug,Medium,Done,Frontend,PROJ-A,user_19,dev_7,,8.3,4,1,0,,security
+PROJ-D-2544,Sub-task,Low,Duplicate,API,PROJ-C,user_20,dev_13,1.0,69.7,2,1,0,Sprint 3,regression
+PROJ-B-2545,Story,High,Done,Testing,PROJ-B,user_17,dev_3,8.0,39.4,1,3,0,Sprint 23,
+PROJ-A-2546,Task,High,Resolved,API,PROJ-D,user_6,dev_1,,7.4,4,2,0,Sprint 15,flaky-test
+PROJ-D-2547,Story,Medium,Won't Fix,Infra,PROJ-B,user_4,dev_10,8.0,21.9,3,2,0,Sprint 1,performance
+PROJ-C-2548,Bug,High,Done,Testing,PROJ-A,user_1,dev_3,,11.2,6,4,0,,
+PROJ-C-2549,Task,Medium,Won't Fix,Database,PROJ-C,user_18,dev_9,,30.4,2,6,0,Sprint 23,flaky-test
+PROJ-A-2550,Epic,Low,Done,Testing,PROJ-A,user_19,dev_10,3.0,388.3,0,1,0,,security
+PROJ-A-2551,Story,High,Duplicate,API,PROJ-D,user_9,dev_11,21.0,70.5,4,2,0,Sprint 16,backend
+PROJ-B-2552,Improvement,Medium,Duplicate,Infra,PROJ-B,user_13,dev_11,,58.5,2,1,0,,backend
+PROJ-D-2553,Improvement,Medium,Done,Testing,PROJ-B,user_8,dev_6,,35.7,3,1,0,,tech-debt
+PROJ-D-2554,Bug,High,Resolved,Backend,PROJ-A,user_23,dev_11,,1.2,4,1,1,,
+PROJ-D-2555,Bug,Medium,Done,Infra,PROJ-A,user_13,dev_6,,24.6,1,1,0,,flaky-test
+PROJ-D-2556,Story,High,Done,Backend,PROJ-D,user_15,dev_4,21.0,0.6,7,5,0,Sprint 17,security
+PROJ-B-2557,Story,Medium,Done,Backend,PROJ-C,user_11,dev_8,8.0,4.7,5,1,0,Sprint 9,backend
+PROJ-D-2558,Improvement,High,Done,Testing,PROJ-D,user_12,dev_5,,13.2,2,3,0,,regression
+PROJ-D-2559,Improvement,Medium,Closed,Testing,PROJ-C,user_14,dev_7,,49.0,2,2,0,,
+PROJ-C-2560,Bug,High,Done,Mobile,PROJ-B,user_4,dev_9,,74.5,3,3,0,,
+PROJ-C-2561,Bug,Low,Resolved,Mobile,PROJ-C,user_1,dev_13,,33.4,0,1,0,,
+PROJ-B-2562,Task,Critical,Done,API,PROJ-C,user_24,dev_13,,13.8,9,5,0,Sprint 5,flaky-test
+PROJ-A-2563,Bug,Medium,Duplicate,Infra,PROJ-B,user_4,dev_14,,125.2,8,4,0,,regression
+PROJ-C-2564,Improvement,Medium,Done,Mobile,PROJ-B,user_19,dev_5,,24.7,2,3,0,,regression
+PROJ-A-2565,Story,Medium,Done,Backend,PROJ-B,user_9,dev_11,2.0,195.5,3,3,0,Sprint 6,tech-debt
+PROJ-B-2566,Task,Medium,Resolved,Mobile,PROJ-D,user_10,dev_14,,44.2,0,5,0,Sprint 15,regression
+PROJ-C-2567,Bug,Medium,Won't Fix,Database,PROJ-B,user_4,dev_5,,18.4,3,1,0,,frontend
+PROJ-C-2568,Story,Medium,Resolved,API,PROJ-A,user_20,dev_14,3.0,456.9,1,1,0,Sprint 9,flaky-test
+PROJ-B-2569,Story,Low,Done,Infra,PROJ-B,user_9,dev_4,21.0,149.5,0,1,0,Sprint 3,
+PROJ-D-2570,Story,High,Done,Infra,PROJ-B,user_13,dev_6,8.0,1.6,2,3,0,Sprint 19,security
+PROJ-B-2571,Bug,Medium,Done,Auth,PROJ-B,user_12,dev_2,,10.6,1,2,0,,
+PROJ-A-2572,Task,Low,Closed,Infra,PROJ-C,user_11,dev_3,,288.1,2,1,0,Sprint 21,
+PROJ-A-2573,Improvement,Low,Done,API,PROJ-D,user_12,dev_1,,97.7,3,1,0,,performance
+PROJ-D-2574,Bug,Low,Done,Database,PROJ-B,user_18,dev_2,,126.5,0,4,0,,tech-debt
+PROJ-B-2575,Bug,Medium,Closed,Infra,PROJ-D,user_12,dev_2,,10.8,1,2,0,,
+PROJ-B-2576,Bug,High,Resolved,Auth,PROJ-A,user_16,dev_8,,30.1,5,2,0,,ux
+PROJ-D-2577,Task,Medium,Resolved,API,PROJ-A,user_5,dev_8,,54.7,1,2,0,Sprint 13,security
+PROJ-B-2578,Story,Medium,Done,Backend,PROJ-B,user_20,dev_2,3.0,57.2,1,1,0,Sprint 13,
+PROJ-C-2579,Story,Medium,Closed,Frontend,PROJ-A,user_12,dev_13,2.0,99.5,5,1,1,Sprint 23,security
+PROJ-B-2580,Bug,Medium,Done,Frontend,PROJ-D,user_21,dev_14,,58.0,0,4,0,,ux
+PROJ-C-2581,Story,Low,Done,Backend,PROJ-C,user_11,dev_6,8.0,33.1,0,1,0,Sprint 3,security
+PROJ-B-2582,Story,Medium,Resolved,Mobile,PROJ-B,user_9,dev_5,1.0,987.1,5,1,0,Sprint 20,performance
+PROJ-C-2583,Story,Low,Resolved,Infra,PROJ-A,user_18,dev_3,13.0,384.6,2,1,0,Sprint 14,security
+PROJ-A-2584,Sub-task,Medium,Resolved,Testing,PROJ-D,user_3,dev_5,2.0,2.7,5,2,1,Sprint 2,
+PROJ-D-2585,Bug,High,Done,Frontend,PROJ-D,user_20,dev_5,,19.8,10,3,1,,ux
+PROJ-A-2586,Task,Medium,Won't Fix,Mobile,PROJ-A,user_17,dev_5,,357.4,2,3,0,Sprint 10,frontend
+PROJ-C-2587,Story,Medium,Done,Frontend,PROJ-D,user_14,dev_3,5.0,183.0,4,2,0,Sprint 9,flaky-test
+PROJ-D-2588,Story,High,Won't Fix,Backend,PROJ-D,user_1,dev_3,5.0,32.5,3,6,0,Sprint 13,ux
+PROJ-A-2589,Task,High,Done,Infra,PROJ-B,user_17,dev_4,,10.3,5,2,0,Sprint 11,
+PROJ-A-2590,Task,Low,Done,Infra,PROJ-D,user_8,dev_7,,124.9,0,1,0,Sprint 2,regression
+PROJ-C-2591,Sub-task,High,Done,Mobile,PROJ-A,user_5,dev_12,2.0,20.4,8,4,0,Sprint 16,
+PROJ-B-2592,Bug,Medium,Done,Backend,PROJ-B,user_5,dev_12,,83.8,5,4,0,,backend
+PROJ-B-2593,Bug,Medium,Done,Mobile,PROJ-A,user_9,dev_12,,64.0,2,1,0,,
+PROJ-C-2594,Task,Medium,Won't Fix,Infra,PROJ-C,user_3,dev_14,,3.7,2,1,0,Sprint 5,ux
+PROJ-A-2595,Story,Medium,Done,Testing,PROJ-A,user_19,dev_2,5.0,84.8,2,2,0,Sprint 1,
+PROJ-B-2596,Bug,High,Closed,Infra,PROJ-A,user_23,dev_10,,21.7,5,4,0,,backend
+PROJ-B-2597,Bug,Medium,Won't Fix,API,PROJ-B,user_9,dev_4,,67.7,3,5,0,,frontend
+PROJ-A-2598,Bug,Medium,Closed,Testing,PROJ-D,user_22,dev_4,,4.6,1,1,0,,performance
+PROJ-C-2599,Improvement,Medium,Done,Mobile,PROJ-A,user_18,dev_1,,141.4,2,2,0,,ux
+PROJ-C-2600,Bug,High,Duplicate,API,PROJ-B,user_16,dev_10,,1.1,4,5,0,,regression
+PROJ-B-2601,Bug,Medium,Done,Backend,PROJ-C,user_1,dev_8,,31.2,2,1,0,,ux
+PROJ-C-2602,Bug,High,Closed,Database,PROJ-B,user_2,dev_1,,30.5,7,3,0,,backend
+PROJ-A-2603,Bug,High,Resolved,Frontend,PROJ-B,user_14,dev_8,,9.4,5,5,1,,security
+PROJ-C-2604,Bug,High,Done,API,PROJ-D,user_14,dev_7,,9.3,4,5,0,,regression
+PROJ-D-2605,Story,High,Resolved,Frontend,PROJ-A,user_1,dev_9,21.0,0.6,7,6,0,Sprint 8,security
+PROJ-C-2606,Bug,Low,Done,Auth,PROJ-C,user_16,dev_8,,0.5,0,2,0,,security
+PROJ-C-2607,Task,High,Done,Backend,PROJ-B,user_15,dev_5,,0.6,6,1,0,Sprint 22,ux
+PROJ-C-2608,Bug,Low,Done,Database,PROJ-A,user_15,dev_8,,179.9,0,1,0,,tech-debt
+PROJ-D-2609,Story,Low,Duplicate,Auth,PROJ-A,user_12,dev_14,2.0,41.0,1,1,0,Sprint 16,ux
+PROJ-A-2610,Improvement,Medium,Won't Fix,Auth,PROJ-B,user_16,dev_11,,9.6,5,2,0,,flaky-test
+PROJ-C-2611,Task,High,Done,Infra,PROJ-A,user_14,dev_10,,20.9,3,5,0,Sprint 14,tech-debt
+PROJ-B-2612,Story,Medium,Done,Auth,PROJ-B,user_24,dev_12,1.0,22.3,4,1,0,Sprint 2,regression
+PROJ-C-2613,Bug,Low,Done,Backend,PROJ-B,user_15,dev_12,,129.1,2,1,0,,regression
+PROJ-D-2614,Bug,Medium,Closed,API,PROJ-B,user_23,dev_3,,15.5,4,2,0,,frontend
+PROJ-D-2615,Task,High,Won't Fix,Backend,PROJ-C,user_15,,,2.4,4,5,0,Sprint 18,
+PROJ-B-2616,Sub-task,Medium,Duplicate,API,PROJ-B,user_19,dev_7,2.0,41.4,3,5,0,Sprint 21,ux
+PROJ-D-2617,Task,Low,Resolved,Auth,PROJ-D,user_8,dev_12,,515.8,1,1,0,Sprint 7,backend
+PROJ-D-2618,Story,Low,Closed,Auth,PROJ-A,user_2,dev_4,8.0,264.9,0,1,0,Sprint 12,
+PROJ-D-2619,Task,High,Done,Testing,PROJ-C,user_2,dev_5,,23.6,5,2,0,Sprint 15,flaky-test
+PROJ-A-2620,Story,Medium,Done,Database,PROJ-A,user_10,dev_9,8.0,109.9,4,3,0,Sprint 22,frontend
+PROJ-D-2621,Bug,High,Closed,API,PROJ-C,user_3,dev_7,,13.8,6,4,0,,regression
+PROJ-C-2622,Story,High,Closed,Auth,PROJ-D,user_23,,3.0,45.6,2,10,0,Sprint 2,
+PROJ-B-2623,Epic,Low,Resolved,Infra,PROJ-C,user_17,dev_6,5.0,320.9,3,1,0,,
+PROJ-C-2624,Bug,High,Done,Testing,PROJ-C,user_8,dev_10,,7.0,3,5,1,,ux
+PROJ-C-2625,Task,High,Done,Frontend,PROJ-C,user_23,dev_14,,26.4,9,6,0,Sprint 22,performance
+PROJ-B-2626,Bug,Critical,Done,Testing,PROJ-A,user_4,dev_11,,0.5,10,4,1,,
+PROJ-A-2627,Story,Low,Duplicate,Database,PROJ-B,user_14,dev_7,13.0,594.6,0,1,0,Sprint 17,
+PROJ-A-2628,Bug,Low,Resolved,Backend,PROJ-A,user_21,dev_13,,105.8,0,1,0,,
+PROJ-D-2629,Story,Medium,Done,Database,PROJ-B,user_10,dev_10,5.0,344.4,3,3,0,Sprint 11,security
+PROJ-A-2630,Task,Medium,Won't Fix,Frontend,PROJ-A,user_1,dev_13,,1.9,4,1,0,Sprint 2,performance
+PROJ-A-2631,Bug,High,Done,Testing,PROJ-D,user_4,dev_9,,1.6,2,5,1,,backend
+PROJ-D-2632,Task,Medium,Done,API,PROJ-D,user_1,,,28.0,4,2,0,Sprint 19,
+PROJ-A-2633,Task,Medium,Done,Backend,PROJ-C,user_17,dev_10,,133.3,3,2,0,Sprint 5,
+PROJ-A-2634,Epic,High,Closed,Backend,PROJ-D,user_17,,21.0,22.7,6,2,0,,flaky-test
+PROJ-D-2635,Bug,Medium,Closed,API,PROJ-C,user_7,dev_8,,3.7,3,3,0,,tech-debt
+PROJ-C-2636,Story,Low,Resolved,Mobile,PROJ-B,user_23,dev_1,2.0,155.0,0,1,0,Sprint 17,frontend
+PROJ-C-2637,Bug,Critical,Closed,Mobile,PROJ-D,user_20,dev_9,,2.6,13,5,0,,tech-debt
+PROJ-B-2638,Sub-task,High,Done,Database,PROJ-B,user_15,,2.0,22.0,4,1,0,Sprint 16,
+PROJ-A-2639,Epic,High,Done,Auth,PROJ-A,user_13,dev_1,13.0,5.3,6,8,0,,flaky-test
+PROJ-D-2640,Story,High,Resolved,Mobile,PROJ-B,user_2,dev_2,5.0,74.1,4,6,0,Sprint 13,
+PROJ-D-2641,Improvement,Low,Resolved,Database,PROJ-A,user_19,dev_13,,119.2,0,1,0,,backend
+PROJ-A-2642,Story,Medium,Done,Mobile,PROJ-B,user_24,dev_8,13.0,1.4,3,1,0,Sprint 13,security
+PROJ-A-2643,Story,Medium,Done,Frontend,PROJ-B,user_13,dev_9,13.0,140.4,2,2,0,Sprint 13,flaky-test
+PROJ-D-2644,Bug,Medium,Done,Infra,PROJ-D,user_24,dev_7,,21.3,5,2,0,,regression
+PROJ-D-2645,Task,High,Done,Auth,PROJ-B,user_11,dev_3,,54.4,3,2,0,Sprint 5,
+PROJ-D-2646,Bug,Medium,Done,Database,PROJ-D,user_22,dev_7,,36.5,4,2,0,,tech-debt
+PROJ-B-2647,Improvement,Medium,Done,Infra,PROJ-D,user_15,dev_6,,48.1,4,3,0,,regression
+PROJ-C-2648,Task,Medium,Resolved,Infra,PROJ-C,user_10,dev_2,,52.1,1,2,0,Sprint 5,
+PROJ-D-2649,Task,Low,Done,Testing,PROJ-C,user_9,dev_3,,135.3,2,1,0,Sprint 20,regression
+PROJ-C-2650,Bug,Medium,Resolved,Mobile,PROJ-A,user_9,dev_11,,36.1,0,1,0,,
+PROJ-A-2651,Bug,Medium,Resolved,Testing,PROJ-B,user_20,,,69.6,5,1,1,,regression
+PROJ-C-2652,Bug,Low,Done,API,PROJ-A,user_1,dev_12,,289.6,1,3,0,,flaky-test
+PROJ-C-2653,Bug,High,Closed,Frontend,PROJ-B,user_17,,,59.4,7,5,0,,ux
+PROJ-C-2654,Bug,Critical,Done,Frontend,PROJ-C,user_12,dev_10,,12.3,5,3,0,,
+PROJ-A-2655,Epic,High,Resolved,Frontend,PROJ-C,user_10,dev_10,8.0,60.0,7,4,0,,
+PROJ-C-2656,Story,Medium,Done,Auth,PROJ-B,user_5,dev_13,1.0,160.1,4,5,0,Sprint 19,flaky-test
+PROJ-C-2657,Bug,Medium,Done,Backend,PROJ-B,user_18,dev_12,,58.5,2,2,0,,backend
+PROJ-B-2658,Story,Medium,Closed,Auth,PROJ-C,user_15,dev_5,2.0,95.8,2,1,0,Sprint 7,
+PROJ-A-2659,Story,Low,Done,Database,PROJ-C,user_6,dev_10,5.0,916.9,1,1,0,Sprint 11,
+PROJ-C-2660,Story,Medium,Done,Infra,PROJ-A,user_7,dev_4,8.0,111.9,4,3,0,Sprint 23,
+PROJ-A-2661,Story,Medium,Done,Infra,PROJ-C,user_17,dev_2,21.0,44.0,7,1,0,Sprint 1,regression
+PROJ-D-2662,Epic,Critical,Done,Testing,PROJ-B,user_6,dev_4,21.0,41.1,3,3,0,,
+PROJ-C-2663,Story,Critical,Won't Fix,Backend,PROJ-A,user_8,dev_12,3.0,20.9,3,2,0,Sprint 7,tech-debt
+PROJ-A-2664,Sub-task,Medium,Done,Database,PROJ-B,user_12,dev_8,2.0,14.1,4,1,0,Sprint 3,
+PROJ-C-2665,Improvement,Medium,Done,Backend,PROJ-D,user_21,dev_5,,55.3,1,1,0,,
+PROJ-C-2666,Bug,Low,Done,Infra,PROJ-A,user_14,dev_5,,567.7,1,1,0,,
+PROJ-D-2667,Epic,High,Done,Mobile,PROJ-B,user_12,dev_13,13.0,38.6,3,5,0,,frontend
+PROJ-B-2668,Bug,Critical,Closed,Auth,PROJ-C,user_23,dev_12,,6.9,9,6,0,,frontend
+PROJ-A-2669,Improvement,Medium,Done,Frontend,PROJ-D,user_10,dev_12,,98.4,2,6,0,,ux
+PROJ-C-2670,Story,High,Resolved,Infra,PROJ-B,user_22,dev_10,5.0,22.9,9,3,0,Sprint 13,ux
+PROJ-D-2671,Improvement,Critical,Closed,API,PROJ-A,user_20,dev_3,,2.3,10,2,0,,
+PROJ-D-2672,Improvement,Medium,Done,Frontend,PROJ-B,user_15,dev_13,,72.0,3,2,0,,
+PROJ-B-2673,Task,High,Closed,Infra,PROJ-D,user_7,,,13.0,4,4,0,Sprint 3,frontend
+PROJ-B-2674,Task,Medium,Closed,Auth,PROJ-A,user_9,dev_6,,248.6,2,4,0,Sprint 6,
+PROJ-D-2675,Bug,High,Done,Backend,PROJ-D,user_10,dev_2,,2.3,2,4,0,,security
+PROJ-D-2676,Bug,High,Done,Mobile,PROJ-B,user_10,dev_2,,92.0,3,3,0,,
+PROJ-A-2677,Story,Medium,Done,Mobile,PROJ-C,user_16,dev_9,1.0,91.3,5,1,0,Sprint 22,security
+PROJ-A-2678,Bug,Low,Done,Frontend,PROJ-C,user_7,dev_13,,10.4,0,1,0,,backend
+PROJ-D-2679,Task,Medium,Done,Auth,PROJ-B,user_5,dev_7,,57.7,4,4,1,Sprint 15,ux
+PROJ-D-2680,Bug,Medium,Closed,Mobile,PROJ-B,user_23,dev_10,,7.1,5,3,0,,frontend
+PROJ-B-2681,Sub-task,High,Resolved,Mobile,PROJ-B,user_3,dev_9,1.0,5.0,3,8,1,Sprint 4,regression
+PROJ-A-2682,Task,Medium,Won't Fix,Database,PROJ-A,user_18,dev_14,,44.2,1,1,0,Sprint 5,backend
+PROJ-D-2683,Improvement,High,Closed,API,PROJ-D,user_11,dev_6,,13.9,3,4,0,,flaky-test
+PROJ-A-2684,Bug,Medium,Resolved,Frontend,PROJ-D,user_15,dev_5,,81.9,2,2,1,,flaky-test
+PROJ-A-2685,Improvement,Medium,Closed,Backend,PROJ-D,user_21,dev_12,,79.5,1,1,0,,security
+PROJ-D-2686,Epic,Low,Duplicate,Mobile,PROJ-B,user_20,dev_1,5.0,302.4,0,1,0,,
+PROJ-D-2687,Story,Medium,Done,Database,PROJ-D,user_5,dev_12,5.0,22.4,1,3,0,Sprint 3,performance
+PROJ-C-2688,Story,Critical,Done,Auth,PROJ-B,user_24,dev_6,8.0,8.9,13,4,0,Sprint 19,ux
+PROJ-A-2689,Task,Critical,Done,Mobile,PROJ-A,user_12,dev_6,,6.3,9,4,0,Sprint 21,ux
+PROJ-A-2690,Bug,Low,Done,Testing,PROJ-C,user_4,dev_3,,5.8,2,1,1,,tech-debt
+PROJ-B-2691,Story,Medium,Done,API,PROJ-B,user_15,dev_3,21.0,60.1,1,1,0,Sprint 16,
+PROJ-B-2692,Story,Medium,Done,Backend,PROJ-B,user_9,dev_3,5.0,52.8,7,1,0,Sprint 17,
+PROJ-B-2693,Bug,High,Done,Auth,PROJ-C,user_7,dev_3,,15.2,7,2,0,,security
+PROJ-A-2694,Bug,Medium,Duplicate,Auth,PROJ-C,user_10,dev_7,,124.0,0,3,0,,backend
+PROJ-D-2695,Bug,Critical,Duplicate,Frontend,PROJ-A,user_23,dev_10,,1.4,10,4,0,,
+PROJ-D-2696,Bug,Low,Resolved,Mobile,PROJ-D,user_13,dev_11,,33.6,3,1,0,,ux
+PROJ-D-2697,Bug,Medium,Done,Frontend,PROJ-B,user_8,dev_2,,32.7,2,2,0,,backend
+PROJ-A-2698,Sub-task,Low,Won't Fix,Backend,PROJ-D,user_12,dev_10,3.0,36.3,2,2,0,Sprint 9,performance
+PROJ-D-2699,Story,High,Won't Fix,Testing,PROJ-B,user_22,dev_13,3.0,3.7,3,1,0,Sprint 22,regression
+PROJ-B-2700,Sub-task,Medium,Won't Fix,Mobile,PROJ-A,user_24,dev_10,3.0,7.8,5,1,0,Sprint 9,backend
+PROJ-D-2701,Story,Medium,Closed,Infra,PROJ-C,user_19,dev_2,8.0,15.1,8,1,1,Sprint 14,
+PROJ-D-2702,Bug,High,Done,Mobile,PROJ-A,user_1,dev_3,,3.4,3,4,0,,performance
+PROJ-B-2703,Story,Low,Done,Testing,PROJ-C,user_16,dev_10,13.0,445.3,2,1,0,Sprint 23,flaky-test
+PROJ-C-2704,Story,Low,Won't Fix,Infra,PROJ-D,user_22,dev_12,13.0,1.7,1,1,1,Sprint 11,frontend
+PROJ-C-2705,Bug,Low,Done,Auth,PROJ-D,user_17,dev_7,,33.9,2,1,0,,regression
+PROJ-C-2706,Task,Medium,Done,Frontend,PROJ-A,user_18,,,334.5,5,1,0,Sprint 10,flaky-test
+PROJ-A-2707,Bug,High,Done,API,PROJ-C,user_11,dev_7,,1.4,6,2,0,,frontend
+PROJ-A-2708,Story,High,Done,Mobile,PROJ-A,user_18,dev_9,21.0,36.2,9,1,0,Sprint 23,
+PROJ-B-2709,Task,Low,Won't Fix,API,PROJ-C,user_7,dev_11,,96.3,1,3,0,Sprint 5,
+PROJ-C-2710,Bug,Critical,Done,Mobile,PROJ-C,user_18,dev_10,,1.6,11,7,0,,ux
+PROJ-A-2711,Bug,Medium,Done,Auth,PROJ-D,user_8,dev_12,,8.3,3,2,0,,
+PROJ-D-2712,Task,Medium,Duplicate,Frontend,PROJ-D,user_6,dev_11,,135.5,2,2,0,Sprint 23,
+PROJ-C-2713,Story,Medium,Done,Backend,PROJ-C,user_7,dev_4,13.0,97.0,4,1,1,Sprint 4,backend
+PROJ-C-2714,Bug,Low,Won't Fix,Backend,PROJ-C,user_23,dev_7,,542.7,1,1,0,,performance
+PROJ-A-2715,Sub-task,High,Done,Backend,PROJ-C,user_22,dev_9,2.0,1.4,3,3,0,Sprint 11,backend
+PROJ-C-2716,Bug,Medium,Resolved,Mobile,PROJ-D,user_10,dev_14,,65.1,4,2,0,,performance
+PROJ-B-2717,Task,Critical,Done,Mobile,PROJ-D,user_11,dev_8,,0.5,10,7,0,Sprint 6,security
+PROJ-B-2718,Sub-task,Medium,Closed,API,PROJ-B,user_13,dev_8,2.0,10.4,1,1,0,Sprint 2,ux
+PROJ-A-2719,Bug,High,Done,Frontend,PROJ-C,user_9,dev_9,,12.3,3,4,0,,security
+PROJ-C-2720,Bug,Medium,Duplicate,Testing,PROJ-B,user_7,dev_14,,30.9,1,2,0,,security
+PROJ-B-2721,Bug,Low,Done,Mobile,PROJ-C,user_9,dev_5,,46.2,1,1,0,,
+PROJ-C-2722,Bug,Low,Done,Frontend,PROJ-D,user_13,dev_14,,8.0,0,1,1,,
+PROJ-B-2723,Bug,High,Won't Fix,API,PROJ-B,user_3,dev_5,,12.1,6,7,0,,
+PROJ-B-2724,Task,Medium,Done,Mobile,PROJ-B,user_3,dev_3,,141.8,5,2,0,Sprint 3,
+PROJ-C-2725,Bug,Low,Closed,Backend,PROJ-A,user_1,dev_5,,35.6,2,1,0,,ux
+PROJ-A-2726,Story,Critical,Resolved,Backend,PROJ-C,user_21,dev_8,3.0,4.7,7,3,0,Sprint 18,
+PROJ-A-2727,Sub-task,High,Done,Auth,PROJ-D,user_20,dev_12,1.0,7.0,4,9,0,Sprint 18,ux
+PROJ-A-2728,Improvement,High,Done,Infra,PROJ-A,user_2,dev_5,,21.8,7,4,0,,frontend
+PROJ-C-2729,Story,Medium,Won't Fix,Database,PROJ-A,user_3,dev_4,8.0,21.6,3,1,0,Sprint 7,regression
+PROJ-C-2730,Bug,High,Done,Testing,PROJ-C,user_15,dev_8,,52.7,7,4,1,,frontend
+PROJ-C-2731,Story,Low,Done,Infra,PROJ-A,user_24,dev_7,13.0,160.6,2,1,0,Sprint 21,
+PROJ-A-2732,Story,Medium,Resolved,Mobile,PROJ-C,user_6,dev_14,1.0,79.7,4,1,0,Sprint 13,ux
+PROJ-C-2733,Story,Medium,Done,Frontend,PROJ-A,user_13,dev_14,8.0,1.0,3,1,0,Sprint 13,
+PROJ-A-2734,Bug,High,Resolved,Mobile,PROJ-C,user_21,dev_6,,2.0,8,4,0,,ux
+PROJ-B-2735,Improvement,Medium,Done,Frontend,PROJ-D,user_1,dev_5,,157.1,6,3,0,,security
+PROJ-A-2736,Story,Medium,Won't Fix,Frontend,PROJ-C,user_20,dev_14,3.0,26.8,2,1,0,Sprint 6,ux
+PROJ-A-2737,Bug,Medium,Done,Infra,PROJ-C,user_19,dev_5,,24.9,7,2,0,,flaky-test
+PROJ-D-2738,Bug,Medium,Done,Database,PROJ-B,user_1,dev_13,,1.2,8,2,0,,
+PROJ-D-2739,Story,Medium,Resolved,Auth,PROJ-D,user_21,dev_10,5.0,407.1,4,1,0,Sprint 3,frontend
+PROJ-A-2740,Improvement,Low,Done,Infra,PROJ-D,user_22,,,241.0,0,4,0,,backend
+PROJ-D-2741,Task,Low,Done,Database,PROJ-D,user_2,dev_13,,188.1,2,1,0,Sprint 10,security
+PROJ-C-2742,Task,Medium,Resolved,Backend,PROJ-A,user_15,dev_4,,27.0,1,2,0,Sprint 21,flaky-test
+PROJ-D-2743,Bug,Critical,Closed,Backend,PROJ-B,user_14,dev_8,,0.5,9,6,0,,backend
+PROJ-D-2744,Story,Critical,Done,Frontend,PROJ-D,user_19,dev_8,3.0,1.4,6,7,0,Sprint 5,security
+PROJ-D-2745,Story,High,Done,API,PROJ-A,user_11,dev_11,13.0,46.2,4,4,0,Sprint 11,regression
+PROJ-A-2746,Bug,Medium,Resolved,Mobile,PROJ-A,user_15,dev_1,,33.8,4,2,0,,regression
+PROJ-B-2747,Bug,Medium,Done,Mobile,PROJ-A,user_6,dev_2,,22.7,2,2,0,,backend
+PROJ-B-2748,Task,Medium,Won't Fix,Frontend,PROJ-B,user_20,dev_5,,4.2,5,1,0,Sprint 4,flaky-test
+PROJ-B-2749,Bug,Low,Done,API,PROJ-A,user_9,dev_9,,140.4,0,1,0,,ux
+PROJ-B-2750,Story,Low,Resolved,Testing,PROJ-B,user_5,dev_10,13.0,501.0,0,1,0,Sprint 10,regression
+PROJ-B-2751,Bug,Low,Done,Database,PROJ-C,user_20,dev_11,,46.6,1,1,0,,backend
+PROJ-B-2752,Bug,High,Done,Testing,PROJ-A,user_2,dev_12,,6.5,7,4,0,,flaky-test
+PROJ-A-2753,Bug,Medium,Done,Testing,PROJ-D,user_6,dev_13,,12.3,4,2,0,,security
+PROJ-C-2754,Sub-task,High,Done,Backend,PROJ-A,user_18,dev_11,2.0,11.9,9,3,0,Sprint 4,performance
+PROJ-C-2755,Task,High,Done,Testing,PROJ-C,user_23,dev_7,,7.8,2,6,0,Sprint 13,
+PROJ-B-2756,Epic,High,Done,Mobile,PROJ-C,user_19,dev_10,21.0,7.2,5,5,1,,security
+PROJ-D-2757,Story,Medium,Won't Fix,Infra,PROJ-A,user_9,dev_5,8.0,77.7,3,5,0,Sprint 8,
+PROJ-D-2758,Bug,Medium,Done,API,PROJ-C,user_21,dev_1,,16.3,2,2,0,,ux
+PROJ-A-2759,Story,Low,Duplicate,Database,PROJ-B,user_24,dev_6,21.0,38.8,2,1,0,Sprint 6,ux
+PROJ-B-2760,Story,High,Done,Backend,PROJ-B,user_6,dev_12,21.0,12.0,7,4,0,Sprint 11,tech-debt
+PROJ-B-2761,Improvement,Medium,Resolved,Testing,PROJ-A,user_14,dev_8,,24.3,3,1,0,,flaky-test
+PROJ-D-2762,Bug,Medium,Won't Fix,Infra,PROJ-B,user_24,dev_7,,80.3,3,2,0,,performance
+PROJ-B-2763,Story,High,Won't Fix,API,PROJ-B,user_13,dev_2,8.0,135.9,6,4,0,Sprint 2,backend
+PROJ-B-2764,Bug,Medium,Done,Frontend,PROJ-D,user_11,dev_12,,18.0,1,1,0,,
+PROJ-D-2765,Bug,High,Resolved,Frontend,PROJ-A,user_12,dev_5,,3.3,6,2,0,,frontend
+PROJ-C-2766,Task,Medium,Done,Frontend,PROJ-C,user_19,,,154.0,2,3,0,Sprint 18,performance
+PROJ-C-2767,Story,Medium,Done,Mobile,PROJ-A,user_19,dev_11,8.0,324.5,2,3,0,Sprint 18,
+PROJ-A-2768,Bug,High,Resolved,Database,PROJ-B,user_21,dev_4,,22.1,2,3,0,,backend
+PROJ-D-2769,Story,High,Done,Frontend,PROJ-D,user_19,dev_9,13.0,3.2,6,4,0,Sprint 22,backend
+PROJ-A-2770,Story,Medium,Done,Mobile,PROJ-A,user_24,dev_10,8.0,110.5,6,5,0,Sprint 12,tech-debt
+PROJ-B-2771,Task,Low,Done,Auth,PROJ-A,user_13,dev_1,,49.1,0,1,0,Sprint 17,tech-debt
+PROJ-D-2772,Improvement,Medium,Done,Mobile,PROJ-B,user_14,dev_12,,30.7,3,1,0,,frontend
+PROJ-C-2773,Epic,Medium,Done,Backend,PROJ-B,user_24,dev_6,1.0,650.1,2,2,0,,tech-debt
+PROJ-B-2774,Task,Medium,Won't Fix,Mobile,PROJ-A,user_18,dev_3,,8.8,2,1,0,Sprint 19,
+PROJ-C-2775,Bug,Low,Done,Database,PROJ-B,user_12,dev_11,,93.5,0,1,1,,frontend
+PROJ-C-2776,Task,Low,Resolved,Infra,PROJ-B,user_4,dev_9,,156.2,3,1,0,Sprint 17,
+PROJ-A-2777,Story,Medium,Resolved,Testing,PROJ-B,user_10,dev_5,1.0,138.7,1,1,0,Sprint 4,ux
+PROJ-D-2778,Bug,Medium,Closed,Mobile,PROJ-B,user_17,dev_13,,1.7,3,4,0,,backend
+PROJ-D-2779,Improvement,Low,Resolved,Frontend,PROJ-B,user_4,dev_6,,233.8,0,3,0,,
+PROJ-D-2780,Bug,Medium,Resolved,Backend,PROJ-D,user_12,dev_11,,41.9,2,1,1,,security
+PROJ-A-2781,Improvement,High,Done,API,PROJ-B,user_13,dev_9,,8.2,2,1,0,,
+PROJ-C-2782,Story,Critical,Done,Frontend,PROJ-C,user_4,dev_9,5.0,21.4,7,5,0,Sprint 17,
+PROJ-A-2783,Task,Low,Won't Fix,Backend,PROJ-A,user_10,dev_8,,243.0,2,2,0,Sprint 16,frontend
+PROJ-D-2784,Task,Low,Duplicate,Auth,PROJ-D,user_3,dev_9,,303.1,1,1,0,Sprint 9,backend
+PROJ-B-2785,Improvement,High,Resolved,Testing,PROJ-D,user_15,dev_4,,16.4,3,5,0,,regression
+PROJ-D-2786,Task,Medium,Done,API,PROJ-B,user_2,dev_6,,48.5,5,2,0,Sprint 11,
+PROJ-D-2787,Story,Medium,Done,Auth,PROJ-A,user_17,dev_5,8.0,56.1,2,4,0,Sprint 12,tech-debt
+PROJ-C-2788,Bug,High,Done,Infra,PROJ-C,user_6,dev_5,,2.2,7,3,0,,security
+PROJ-D-2789,Story,Low,Resolved,Backend,PROJ-B,user_8,dev_4,2.0,126.5,0,1,0,Sprint 11,backend
+PROJ-D-2790,Bug,High,Resolved,Auth,PROJ-A,user_3,dev_2,,3.3,5,6,0,,backend
+PROJ-C-2791,Task,Critical,Closed,Testing,PROJ-B,user_18,dev_12,,4.3,4,2,0,Sprint 13,regression
+PROJ-D-2792,Story,Medium,Resolved,Testing,PROJ-B,user_22,dev_6,5.0,24.0,7,2,0,Sprint 22,frontend
+PROJ-D-2793,Task,Medium,Done,Infra,PROJ-B,user_1,dev_9,,150.1,4,3,0,Sprint 8,ux
+PROJ-C-2794,Bug,Critical,Resolved,Testing,PROJ-B,user_16,dev_12,,8.3,10,6,0,,frontend
+PROJ-B-2795,Bug,Medium,Done,Backend,PROJ-B,user_7,,,56.7,6,1,1,,
+PROJ-C-2796,Task,Medium,Resolved,Backend,PROJ-B,user_3,dev_14,,6.1,4,1,0,Sprint 14,frontend
+PROJ-D-2797,Bug,High,Done,Testing,PROJ-B,user_23,dev_7,,20.7,2,3,0,,ux
+PROJ-A-2798,Bug,High,Done,Auth,PROJ-C,user_4,dev_6,,24.5,2,7,1,,security
+PROJ-B-2799,Bug,Medium,Done,Backend,PROJ-D,user_9,dev_3,,46.6,3,2,1,,
+PROJ-C-2800,Epic,High,Won't Fix,Frontend,PROJ-C,user_5,dev_1,13.0,154.6,6,5,1,,backend
+PROJ-B-2801,Task,Low,Closed,Testing,PROJ-B,user_19,dev_13,,31.5,2,1,0,Sprint 18,
+PROJ-B-2802,Bug,Low,Done,Backend,PROJ-B,user_15,dev_4,,237.8,1,1,0,,
+PROJ-A-2803,Bug,Low,Resolved,Database,PROJ-C,user_8,dev_14,,107.8,1,1,0,,performance
+PROJ-A-2804,Bug,High,Closed,Infra,PROJ-C,user_6,dev_9,,11.1,4,3,0,,
+PROJ-A-2805,Task,Low,Closed,Testing,PROJ-D,user_18,dev_2,,213.2,0,2,0,Sprint 14,tech-debt
+PROJ-D-2806,Task,Medium,Done,Backend,PROJ-C,user_19,dev_3,,59.0,2,1,0,Sprint 16,security
+PROJ-C-2807,Bug,Medium,Done,Database,PROJ-D,user_24,dev_2,,155.5,5,2,0,,
+PROJ-D-2808,Bug,Critical,Done,Backend,PROJ-B,user_15,,,3.1,7,8,0,,
+PROJ-C-2809,Bug,Critical,Done,Backend,PROJ-A,user_7,dev_2,,1.6,10,5,0,,ux
+PROJ-D-2810,Task,Medium,Resolved,Auth,PROJ-A,user_10,dev_10,,81.1,0,1,0,Sprint 15,frontend
+PROJ-D-2811,Task,Medium,Done,Frontend,PROJ-A,user_6,dev_11,,111.3,0,2,0,Sprint 22,tech-debt
+PROJ-A-2812,Bug,High,Done,Testing,PROJ-A,user_14,dev_11,,24.2,5,1,0,,security
+PROJ-D-2813,Bug,Medium,Done,Infra,PROJ-B,user_17,dev_8,,9.9,2,1,0,,frontend
+PROJ-A-2814,Bug,High,Done,Testing,PROJ-A,user_9,dev_3,,83.9,5,1,0,,regression
+PROJ-C-2815,Sub-task,Medium,Duplicate,Frontend,PROJ-C,user_19,dev_7,1.0,80.3,3,1,0,Sprint 20,backend
+PROJ-A-2816,Bug,Medium,Won't Fix,API,PROJ-C,user_5,dev_8,,94.7,3,3,1,,tech-debt
+PROJ-B-2817,Task,Low,Done,Auth,PROJ-A,user_23,dev_3,,36.5,1,3,0,Sprint 7,
+PROJ-B-2818,Story,Low,Resolved,Auth,PROJ-C,user_7,dev_2,1.0,41.0,1,1,0,Sprint 8,flaky-test
+PROJ-D-2819,Story,Medium,Done,Frontend,PROJ-D,user_19,dev_13,2.0,36.1,3,2,0,Sprint 6,
+PROJ-B-2820,Bug,Medium,Resolved,Mobile,PROJ-B,user_20,dev_13,,7.6,3,2,0,,frontend
+PROJ-C-2821,Bug,Medium,Done,Auth,PROJ-A,user_7,dev_8,,146.8,4,3,0,,
+PROJ-D-2822,Story,Low,Done,Testing,PROJ-A,user_24,dev_3,5.0,86.4,1,1,0,Sprint 13,backend
+PROJ-A-2823,Task,High,Won't Fix,Frontend,PROJ-B,user_2,dev_7,,2.8,4,6,0,Sprint 17,flaky-test
+PROJ-D-2824,Task,High,Won't Fix,Auth,PROJ-C,user_23,dev_12,,33.5,3,4,0,Sprint 8,security
+PROJ-D-2825,Story,High,Done,Backend,PROJ-B,user_16,dev_1,2.0,1.7,6,10,0,Sprint 11,
+PROJ-B-2826,Bug,Medium,Won't Fix,Frontend,PROJ-B,user_13,dev_14,,25.0,4,2,0,,tech-debt
+PROJ-D-2827,Sub-task,Medium,Resolved,Frontend,PROJ-C,user_8,dev_12,1.0,47.7,7,3,0,Sprint 17,performance
+PROJ-C-2828,Task,Low,Done,Testing,PROJ-B,user_6,dev_6,,215.7,0,1,0,Sprint 9,flaky-test
+PROJ-D-2829,Bug,High,Done,Database,PROJ-C,user_6,dev_12,,12.4,5,3,0,,flaky-test
+PROJ-A-2830,Sub-task,Medium,Done,Auth,PROJ-C,user_9,dev_12,3.0,22.0,3,1,0,Sprint 2,
+PROJ-A-2831,Story,Low,Resolved,Auth,PROJ-B,user_4,dev_13,2.0,175.8,1,1,0,Sprint 10,
+PROJ-B-2832,Story,Low,Duplicate,Frontend,PROJ-D,user_11,dev_9,2.0,54.8,3,1,0,Sprint 22,
+PROJ-D-2833,Task,Medium,Closed,Backend,PROJ-C,user_5,dev_12,,72.8,1,1,0,Sprint 24,
+PROJ-A-2834,Improvement,Medium,Resolved,Backend,PROJ-B,user_17,dev_3,,131.6,3,3,0,,security
+PROJ-D-2835,Task,High,Resolved,Infra,PROJ-C,user_20,dev_14,,13.8,5,3,0,Sprint 21,
+PROJ-D-2836,Bug,Low,Done,Backend,PROJ-D,user_7,dev_7,,52.6,1,1,0,,backend
+PROJ-A-2837,Bug,High,Done,Auth,PROJ-D,user_15,dev_13,,47.5,3,3,1,,flaky-test
+PROJ-D-2838,Epic,Low,Done,Mobile,PROJ-A,user_15,dev_6,13.0,306.2,2,2,1,,
+PROJ-B-2839,Bug,Medium,Closed,Database,PROJ-C,user_14,dev_8,,3.9,1,3,1,,regression
+PROJ-B-2840,Bug,Medium,Won't Fix,Frontend,PROJ-C,user_13,dev_3,,181.3,4,3,1,,
+PROJ-A-2841,Story,Critical,Done,API,PROJ-B,user_11,dev_3,1.0,5.5,8,7,0,Sprint 14,backend
+PROJ-C-2842,Story,Medium,Done,Database,PROJ-C,user_13,dev_4,8.0,54.9,0,3,0,Sprint 2,
+PROJ-C-2843,Story,Medium,Resolved,Testing,PROJ-A,user_22,dev_3,2.0,436.3,3,1,0,Sprint 5,
+PROJ-D-2844,Epic,High,Done,Testing,PROJ-D,user_24,dev_9,8.0,13.6,3,6,1,,tech-debt
+PROJ-B-2845,Bug,Medium,Closed,Mobile,PROJ-D,user_9,dev_11,,26.8,5,4,0,,
+PROJ-A-2846,Bug,Low,Done,API,PROJ-A,user_10,dev_4,,341.5,0,1,0,,security
+PROJ-B-2847,Bug,Medium,Closed,Database,PROJ-C,user_4,dev_6,,18.5,0,1,0,,ux
+PROJ-C-2848,Improvement,Medium,Resolved,Backend,PROJ-C,user_17,dev_8,,103.6,5,2,0,,tech-debt
+PROJ-C-2849,Task,Critical,Done,Auth,PROJ-A,user_14,dev_11,,10.5,6,4,0,Sprint 17,frontend
+PROJ-D-2850,Bug,Medium,Resolved,Mobile,PROJ-B,user_24,dev_13,,6.6,5,4,0,,regression
+PROJ-A-2851,Improvement,High,Done,API,PROJ-D,user_18,dev_8,,11.4,4,3,0,,
+PROJ-D-2852,Improvement,Medium,Done,Mobile,PROJ-A,user_11,dev_5,,70.1,4,2,0,,frontend
+PROJ-B-2853,Improvement,Low,Done,Database,PROJ-A,user_16,dev_5,,240.5,2,1,0,,
+PROJ-B-2854,Epic,Medium,Won't Fix,Auth,PROJ-C,user_1,dev_6,1.0,719.1,2,1,0,,tech-debt
+PROJ-C-2855,Bug,Critical,Done,Mobile,PROJ-D,user_7,dev_10,,1.0,7,11,0,,ux
+PROJ-D-2856,Task,Medium,Done,API,PROJ-C,user_10,dev_7,,11.8,3,2,0,Sprint 24,
+PROJ-B-2857,Story,Medium,Resolved,Frontend,PROJ-A,user_9,dev_13,13.0,40.3,3,3,0,Sprint 8,performance
+PROJ-B-2858,Improvement,Medium,Done,Database,PROJ-B,user_3,dev_13,,139.2,4,1,0,,frontend
+PROJ-B-2859,Task,Low,Done,Frontend,PROJ-D,user_22,dev_10,,252.8,1,3,0,Sprint 18,security
+PROJ-A-2860,Task,Low,Done,Backend,PROJ-A,user_23,dev_14,,37.6,1,1,0,Sprint 22,tech-debt
+PROJ-C-2861,Task,Medium,Resolved,Frontend,PROJ-A,user_14,dev_7,,7.8,2,1,0,Sprint 24,backend
+PROJ-D-2862,Bug,Medium,Duplicate,Frontend,PROJ-B,user_15,dev_13,,32.5,6,3,0,,
+PROJ-B-2863,Story,High,Done,Infra,PROJ-A,user_2,dev_4,8.0,1.1,7,2,0,Sprint 8,performance
+PROJ-A-2864,Sub-task,High,Closed,Database,PROJ-A,user_24,dev_6,3.0,11.9,4,4,0,Sprint 12,backend
+PROJ-B-2865,Epic,Medium,Done,Backend,PROJ-D,user_14,dev_7,1.0,560.2,2,3,0,,frontend
+PROJ-B-2866,Bug,Medium,Resolved,Frontend,PROJ-D,user_16,dev_5,,16.4,4,1,0,,
+PROJ-C-2867,Bug,Medium,Done,Testing,PROJ-D,user_7,dev_5,,111.3,2,1,0,,
+PROJ-A-2868,Bug,Medium,Done,Auth,PROJ-C,user_4,dev_2,,145.8,2,3,0,,flaky-test
+PROJ-B-2869,Task,Critical,Resolved,API,PROJ-B,user_18,dev_7,,14.3,11,6,0,Sprint 14,backend
+PROJ-C-2870,Improvement,Medium,Done,Frontend,PROJ-D,user_24,dev_12,,262.5,5,2,0,,
+PROJ-A-2871,Bug,High,Done,Backend,PROJ-C,user_5,dev_6,,0.5,4,6,0,,tech-debt
+PROJ-B-2872,Story,High,Duplicate,Frontend,PROJ-C,user_6,dev_11,1.0,4.2,1,3,0,Sprint 23,backend
+PROJ-D-2873,Improvement,Low,Duplicate,API,PROJ-B,user_7,dev_1,,57.5,2,1,0,,
+PROJ-C-2874,Task,Critical,Done,Backend,PROJ-B,user_15,dev_4,,3.1,9,10,0,Sprint 3,backend
+PROJ-B-2875,Story,Medium,Closed,Database,PROJ-A,user_1,dev_3,5.0,222.5,2,1,0,Sprint 14,frontend
+PROJ-B-2876,Story,High,Closed,Backend,PROJ-C,user_24,dev_12,13.0,46.7,5,7,0,Sprint 4,frontend
+PROJ-A-2877,Story,Low,Done,Database,PROJ-D,user_4,dev_3,13.0,42.1,0,3,0,Sprint 1,regression
+PROJ-D-2878,Bug,Medium,Won't Fix,Backend,PROJ-B,user_1,dev_7,,8.7,6,3,0,,backend
+PROJ-C-2879,Story,High,Resolved,Testing,PROJ-C,user_11,dev_11,21.0,39.9,2,6,0,Sprint 9,security
+PROJ-A-2880,Task,Medium,Resolved,Mobile,PROJ-D,user_18,dev_12,,103.2,1,1,0,Sprint 14,flaky-test
+PROJ-B-2881,Improvement,Medium,Done,API,PROJ-C,user_14,dev_10,,59.5,1,5,0,,
+PROJ-C-2882,Task,Low,Done,API,PROJ-B,user_22,dev_4,,109.2,0,1,0,Sprint 10,
+PROJ-B-2883,Task,High,Done,Backend,PROJ-A,user_11,dev_12,,31.4,8,6,0,Sprint 18,performance
+PROJ-B-2884,Bug,Low,Done,Mobile,PROJ-C,user_10,dev_8,,145.4,1,1,0,,security
+PROJ-D-2885,Story,Low,Done,Frontend,PROJ-D,user_17,dev_11,8.0,145.7,1,1,0,Sprint 10,ux
+PROJ-B-2886,Bug,Low,Done,API,PROJ-B,user_4,dev_9,,58.7,2,1,0,,ux
+PROJ-C-2887,Bug,Medium,Done,Testing,PROJ-A,user_24,dev_3,,219.5,2,2,1,,frontend
+PROJ-B-2888,Task,Medium,Done,Database,PROJ-D,user_15,dev_5,,51.0,3,4,0,Sprint 7,ux
+PROJ-C-2889,Sub-task,Medium,Done,Database,PROJ-D,user_16,dev_4,3.0,34.7,1,2,0,Sprint 8,
+PROJ-D-2890,Bug,Medium,Done,Auth,PROJ-D,user_21,dev_14,,71.8,2,1,0,,backend
+PROJ-B-2891,Story,Medium,Done,Infra,PROJ-C,user_13,dev_12,21.0,71.6,4,6,0,Sprint 14,flaky-test
+PROJ-A-2892,Task,Medium,Closed,Mobile,PROJ-B,user_9,dev_10,,18.3,2,1,1,Sprint 4,ux
+PROJ-C-2893,Bug,Medium,Done,Infra,PROJ-D,user_11,dev_6,,44.4,4,1,0,,regression
+PROJ-B-2894,Story,Medium,Won't Fix,Infra,PROJ-C,user_11,dev_11,5.0,311.8,6,4,0,Sprint 11,
+PROJ-A-2895,Task,Low,Closed,Database,PROJ-B,user_6,dev_10,,16.1,2,4,0,Sprint 10,performance
+PROJ-C-2896,Story,High,Resolved,Testing,PROJ-B,user_1,dev_4,13.0,15.1,3,8,0,Sprint 17,backend
+PROJ-A-2897,Bug,Low,Won't Fix,Testing,PROJ-C,user_22,dev_8,,517.6,1,1,0,,tech-debt
+PROJ-B-2898,Bug,Medium,Done,Auth,PROJ-C,user_6,dev_3,,102.0,4,5,0,,frontend
+PROJ-D-2899,Task,Low,Done,Infra,PROJ-D,user_13,dev_11,,18.4,2,1,0,Sprint 5,frontend
+PROJ-D-2900,Story,Medium,Done,Infra,PROJ-B,user_22,dev_5,1.0,143.8,8,3,0,Sprint 10,
+PROJ-A-2901,Bug,Medium,Done,Backend,PROJ-A,user_24,dev_13,,158.8,4,1,0,,security
+PROJ-B-2902,Task,Low,Done,Backend,PROJ-C,user_22,dev_1,,85.9,0,1,0,Sprint 10,ux
+PROJ-B-2903,Bug,High,Resolved,Backend,PROJ-B,user_5,dev_13,,2.5,3,2,1,,backend
+PROJ-C-2904,Task,Low,Done,Frontend,PROJ-B,user_15,dev_6,,204.3,0,2,0,Sprint 22,
+PROJ-B-2905,Bug,Medium,Duplicate,Infra,PROJ-D,user_18,dev_11,,28.0,5,1,0,,performance
+PROJ-D-2906,Epic,Medium,Resolved,Testing,PROJ-A,user_20,dev_5,13.0,30.9,6,3,1,,
+PROJ-B-2907,Bug,High,Closed,Testing,PROJ-D,user_14,dev_8,,9.5,4,5,0,,tech-debt
+PROJ-C-2908,Bug,Medium,Done,Frontend,PROJ-A,user_15,dev_9,,165.0,7,1,1,,regression
+PROJ-C-2909,Bug,High,Closed,Testing,PROJ-A,user_5,dev_8,,22.8,5,3,0,,performance
+PROJ-B-2910,Bug,Critical,Done,Auth,PROJ-C,user_4,dev_8,,14.6,9,7,0,,flaky-test
+PROJ-B-2911,Improvement,High,Done,Mobile,PROJ-B,user_2,dev_12,,33.8,8,4,0,,
+PROJ-C-2912,Sub-task,Critical,Resolved,Database,PROJ-B,user_7,dev_14,3.0,3.4,9,6,0,Sprint 7,regression
+PROJ-C-2913,Bug,Low,Done,Infra,PROJ-B,user_10,dev_13,,154.6,1,1,0,,ux
+PROJ-A-2914,Story,Low,Done,Testing,PROJ-A,user_16,dev_3,3.0,19.7,1,1,0,Sprint 17,tech-debt
+PROJ-D-2915,Task,Medium,Resolved,Database,PROJ-B,user_10,dev_4,,37.1,3,2,0,Sprint 20,tech-debt
+PROJ-D-2916,Improvement,Medium,Done,Testing,PROJ-C,user_18,dev_11,,18.0,2,3,0,,performance
+PROJ-A-2917,Story,Medium,Closed,Mobile,PROJ-A,user_17,dev_4,2.0,84.1,3,2,0,Sprint 12,tech-debt
+PROJ-A-2918,Story,Medium,Closed,Backend,PROJ-A,user_21,dev_14,2.0,27.6,3,4,0,Sprint 5,
+PROJ-D-2919,Story,Low,Done,Infra,PROJ-A,user_13,dev_11,13.0,85.3,0,1,0,Sprint 5,
+PROJ-C-2920,Task,Low,Resolved,API,PROJ-A,user_1,dev_5,,13.4,0,1,0,Sprint 23,
+PROJ-D-2921,Bug,Medium,Won't Fix,Frontend,PROJ-C,user_1,,,138.5,2,1,0,,performance
+PROJ-C-2922,Story,Low,Done,Frontend,PROJ-B,user_15,dev_9,13.0,178.1,0,1,0,Sprint 4,
+PROJ-D-2923,Bug,High,Done,Infra,PROJ-C,user_1,dev_12,,10.8,2,1,0,,tech-debt
+PROJ-C-2924,Task,Low,Closed,Mobile,PROJ-B,user_6,dev_9,,11.6,0,1,0,Sprint 7,tech-debt
+PROJ-D-2925,Bug,Critical,Resolved,Backend,PROJ-C,user_13,dev_10,,18.8,8,6,0,,flaky-test
+PROJ-A-2926,Story,Medium,Resolved,Frontend,PROJ-D,user_1,dev_13,5.0,90.3,4,2,0,Sprint 24,tech-debt
+PROJ-B-2927,Story,Medium,Done,Backend,PROJ-D,user_5,dev_12,13.0,28.2,2,1,0,Sprint 2,backend
+PROJ-B-2928,Task,Medium,Done,Auth,PROJ-D,user_9,dev_14,,2.8,1,1,0,Sprint 1,performance
+PROJ-B-2929,Bug,High,Won't Fix,Database,PROJ-D,user_17,dev_1,,43.5,3,6,0,,regression
+PROJ-C-2930,Story,Low,Done,Mobile,PROJ-A,user_16,dev_14,3.0,48.2,1,1,0,Sprint 10,flaky-test
+PROJ-B-2931,Story,High,Closed,API,PROJ-A,user_8,dev_14,13.0,23.1,4,2,0,Sprint 1,flaky-test
+PROJ-D-2932,Story,Medium,Resolved,Database,PROJ-C,user_17,dev_8,8.0,121.6,2,1,0,Sprint 13,
+PROJ-B-2933,Story,High,Done,Database,PROJ-C,user_15,dev_14,21.0,34.0,3,2,0,Sprint 17,regression
+PROJ-C-2934,Task,High,Closed,Auth,PROJ-D,user_24,dev_1,,2.5,1,5,0,Sprint 9,
+PROJ-C-2935,Task,Medium,Done,Frontend,PROJ-B,user_1,dev_2,,4.6,2,4,0,Sprint 4,security
+PROJ-C-2936,Bug,Medium,Duplicate,API,PROJ-D,user_12,dev_7,,319.2,3,2,0,,ux
+PROJ-D-2937,Improvement,High,Done,Frontend,PROJ-C,user_5,dev_8,,157.9,4,2,0,,
+PROJ-C-2938,Story,High,Done,Infra,PROJ-D,user_24,dev_1,3.0,7.1,8,9,0,Sprint 9,backend
+PROJ-D-2939,Bug,Medium,Closed,Database,PROJ-C,user_6,dev_3,,20.0,8,1,1,,frontend
+PROJ-C-2940,Bug,Medium,Resolved,Infra,PROJ-D,user_1,dev_7,,80.6,1,2,0,,ux
+PROJ-A-2941,Bug,Low,Done,Backend,PROJ-B,user_1,dev_13,,166.0,4,1,1,,ux
+PROJ-C-2942,Task,High,Done,Database,PROJ-D,user_10,dev_9,,12.8,5,5,0,Sprint 7,flaky-test
+PROJ-B-2943,Task,Medium,Done,Frontend,PROJ-B,user_10,dev_8,,125.3,2,1,1,Sprint 23,tech-debt
+PROJ-B-2944,Task,High,Done,Database,PROJ-B,user_3,dev_8,,5.8,4,2,0,Sprint 2,
+PROJ-A-2945,Story,Critical,Resolved,Backend,PROJ-C,user_17,dev_9,5.0,1.4,2,5,0,Sprint 18,regression
+PROJ-C-2946,Story,Medium,Done,Auth,PROJ-B,user_19,dev_10,8.0,187.5,1,1,0,Sprint 21,regression
+PROJ-B-2947,Bug,Medium,Resolved,Infra,PROJ-A,user_11,dev_3,,13.7,0,3,0,,ux
+PROJ-B-2948,Bug,High,Resolved,Testing,PROJ-A,user_18,dev_8,,7.4,4,4,0,,ux
+PROJ-D-2949,Story,High,Won't Fix,Infra,PROJ-A,user_2,dev_1,8.0,5.8,3,4,0,Sprint 15,
+PROJ-D-2950,Bug,Critical,Closed,Frontend,PROJ-C,user_9,dev_8,,1.3,9,3,1,,tech-debt
+PROJ-C-2951,Bug,Low,Done,Database,PROJ-A,user_24,dev_13,,9.4,1,1,0,,ux
+PROJ-A-2952,Story,Low,Done,Frontend,PROJ-C,user_17,dev_7,21.0,600.8,0,1,1,Sprint 10,regression
+PROJ-C-2953,Task,High,Duplicate,Auth,PROJ-C,user_14,dev_13,,70.4,3,7,0,Sprint 17,performance
+PROJ-D-2954,Sub-task,High,Won't Fix,Database,PROJ-A,user_4,dev_8,2.0,1.2,5,4,0,Sprint 7,ux
+PROJ-D-2955,Epic,Low,Done,Testing,PROJ-B,user_17,dev_1,3.0,748.5,0,1,0,,
+PROJ-C-2956,Task,Low,Won't Fix,Database,PROJ-D,user_17,dev_6,,344.3,2,1,0,Sprint 11,performance
+PROJ-C-2957,Story,Medium,Resolved,Testing,PROJ-C,user_12,dev_7,21.0,133.6,3,3,0,Sprint 7,tech-debt
+PROJ-C-2958,Task,Critical,Won't Fix,Frontend,PROJ-A,user_20,dev_14,,0.5,5,10,0,Sprint 11,
+PROJ-C-2959,Task,Critical,Resolved,Frontend,PROJ-C,user_18,dev_11,,6.7,10,7,0,Sprint 24,flaky-test
+PROJ-A-2960,Bug,Medium,Won't Fix,Backend,PROJ-B,user_3,dev_5,,77.0,3,1,0,,security
+PROJ-B-2961,Story,Medium,Won't Fix,Mobile,PROJ-B,user_11,dev_14,8.0,89.8,5,2,0,Sprint 23,ux
+PROJ-C-2962,Improvement,Critical,Done,Mobile,PROJ-A,user_18,dev_5,,0.5,10,3,0,,tech-debt
+PROJ-B-2963,Story,Medium,Duplicate,Auth,PROJ-C,user_4,,5.0,118.3,3,1,0,Sprint 24,
+PROJ-D-2964,Story,Critical,Done,Mobile,PROJ-D,user_17,dev_11,21.0,19.3,3,9,0,Sprint 15,flaky-test
+PROJ-B-2965,Story,Low,Done,Backend,PROJ-D,user_18,dev_3,2.0,18.5,2,1,0,Sprint 19,
+PROJ-C-2966,Bug,High,Resolved,Infra,PROJ-C,user_5,dev_6,,29.6,4,4,0,,
+PROJ-B-2967,Bug,Critical,Resolved,Testing,PROJ-C,user_14,dev_7,,0.7,9,5,0,,frontend
+PROJ-C-2968,Bug,Medium,Won't Fix,Database,PROJ-C,user_10,dev_1,,128.1,0,1,0,,tech-debt
+PROJ-C-2969,Bug,Medium,Done,Frontend,PROJ-A,user_15,dev_12,,21.8,2,1,0,,tech-debt
+PROJ-D-2970,Bug,Low,Done,Database,PROJ-B,user_1,dev_2,,290.4,2,1,0,,
+PROJ-C-2971,Improvement,Medium,Done,Database,PROJ-D,user_16,dev_12,,77.8,3,2,0,,frontend
+PROJ-D-2972,Bug,High,Done,API,PROJ-A,user_11,dev_4,,13.0,6,4,0,,security
+PROJ-A-2973,Story,Medium,Resolved,Infra,PROJ-C,user_23,dev_13,8.0,135.4,1,3,0,Sprint 19,frontend
+PROJ-C-2974,Bug,High,Done,API,PROJ-C,user_20,dev_8,,21.3,2,4,1,,security
+PROJ-D-2975,Epic,Low,Done,Mobile,PROJ-B,user_6,dev_11,21.0,597.2,0,1,0,,performance
+PROJ-D-2976,Bug,Medium,Done,Database,PROJ-C,user_24,dev_13,,128.6,3,2,0,,flaky-test
+PROJ-C-2977,Story,Medium,Resolved,Testing,PROJ-A,user_22,dev_14,3.0,75.3,4,3,0,Sprint 24,ux
+PROJ-B-2978,Improvement,Critical,Done,Frontend,PROJ-A,user_16,dev_10,,1.1,8,4,0,,flaky-test
+PROJ-D-2979,Improvement,Medium,Resolved,Testing,PROJ-B,user_2,dev_6,,20.3,2,3,0,,frontend
+PROJ-A-2980,Bug,Low,Done,Database,PROJ-A,user_1,dev_1,,165.8,0,1,0,,security
+PROJ-B-2981,Task,Low,Done,Infra,PROJ-D,user_24,dev_10,,71.9,0,2,0,Sprint 10,regression
+PROJ-B-2982,Story,High,Won't Fix,Testing,PROJ-A,user_24,dev_5,2.0,68.5,4,2,0,Sprint 16,ux
+PROJ-C-2983,Story,High,Done,API,PROJ-A,user_9,dev_7,3.0,96.6,7,3,0,Sprint 20,
+PROJ-D-2984,Bug,Low,Closed,Frontend,PROJ-A,user_22,dev_13,,285.2,1,2,0,,frontend
+PROJ-A-2985,Bug,Low,Resolved,Database,PROJ-D,user_12,dev_6,,529.4,1,1,0,,flaky-test
+PROJ-D-2986,Task,High,Resolved,Auth,PROJ-C,user_17,dev_13,,3.6,7,2,0,Sprint 8,frontend
+PROJ-A-2987,Story,Medium,Resolved,Infra,PROJ-A,user_15,dev_13,3.0,28.6,5,3,0,Sprint 1,
+PROJ-D-2988,Story,Medium,Resolved,Infra,PROJ-B,user_19,,3.0,277.7,3,1,0,Sprint 2,flaky-test
+PROJ-C-2989,Task,Low,Closed,Auth,PROJ-D,user_22,dev_9,,212.1,2,1,0,Sprint 10,performance
+PROJ-A-2990,Task,High,Done,Testing,PROJ-B,user_10,dev_8,,18.2,8,1,0,Sprint 10,regression
+PROJ-C-2991,Bug,High,Done,Database,PROJ-A,user_12,dev_4,,33.9,5,4,0,,ux
+PROJ-D-2992,Story,Medium,Won't Fix,Infra,PROJ-B,user_14,dev_13,21.0,2.4,4,2,0,Sprint 10,
+PROJ-A-2993,Bug,Critical,Duplicate,Frontend,PROJ-A,user_9,dev_11,,8.3,7,7,1,,performance
+PROJ-A-2994,Task,Medium,Done,Database,PROJ-D,user_13,dev_12,,20.7,3,1,0,Sprint 9,frontend
+PROJ-D-2995,Task,Medium,Done,Database,PROJ-B,user_3,dev_5,,8.7,1,3,0,Sprint 18,frontend
+PROJ-C-2996,Epic,Medium,Done,API,PROJ-B,user_21,dev_7,2.0,464.9,6,3,0,,security
+PROJ-A-2997,Bug,Medium,Resolved,Infra,PROJ-A,user_14,dev_8,,12.8,3,1,1,,backend
+PROJ-A-2998,Bug,Medium,Done,Infra,PROJ-A,user_21,dev_5,,99.5,4,1,0,,
+PROJ-A-2999,Bug,High,Resolved,Auth,PROJ-C,user_10,dev_9,,45.7,10,7,0,,performance
